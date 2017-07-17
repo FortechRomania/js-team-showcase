@@ -1,5 +1,4 @@
 # A word from the engineering team
-
 During the last couple of years we've had internship batches coming in on a regular basis. Since there are some recurring patterns during the selection process these are some things we've noticed and would like to pass on as "lessons learned":
 
 ## Some dos and don'ts before the interview
