@@ -12,7 +12,10 @@ Please, and this is very important, **work on your project by yourself**. We're 
 
 Please, and this is also very important, **be honest during the interview**. This is not an exam, you don't have to cram technology buzzwords one night before so you look cool.
 
-Don't be afraid to admit there are things you don't know, there's no shame in that. Sure, the whole point of the interview is to select one candidate in favour of the other, but it's also a chance to find out where you are on your career path and how we can help you develop further. 
+Don't be afraid to admit there are things you don't know, there's no shame in that. Sure, the whole point of the interview is to select one candidate in favour of the other, but it's also a chance to find out where you are on your career path and how we can help you develop further.
+
+__Notes__:
+- It's mandatory you send us a link to a public repository either on github.com or bitbucket.com. If you don't know what `git` is or how it works, don't worry, there are a ton of tutorials out there to get you off the ground in no time.
 
 ## Some common sense things during the interview
 Make sure you budget between 1 and 1/2 hours for the interview. While we're focused on your technical skills, we also want to know what other things make you an awesome human being.
