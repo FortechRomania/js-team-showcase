@@ -1,5 +1,15 @@
-# A word from the engineering team
-During the last couple of years we've had internship batches coming in on a regular basis. Since there are some recurring patterns during the selection process these are some things we've noticed and would like to pass on as "lessons learned":
+# A culture built around mentoring
+During the last couple of years we've had internship batches coming in on a regular basis. We work on two areas of internship: **Full Stack JavaScript Engineers** and **QA Automation Engineers**.
+
+## About the internships
+
+We offer a 3-month program during which you will be guided through the world of JavaScript, from basic algorithms and data structures to patterns of functional programming and object-oriented programming. Each intern has a mentor that guides him throughout the 3 months. In parallel with the training curricula, the interns are joining the team in all activities, including workshops, R&D projects and project showcases. 
+
+Based on the specific of the internship and the context of the team, the last period can be dedicated to a specific technology branch, whether it's on building a UI Automation Framework with JavaScript, or building a React/Angular frontend application, or a Node.js server side web app.
+
+Our selection process consists of the initial testing, a coding problem and a technical interview.
+
+Since there are some recurring patterns during the selection process these are some things we've noticed and would like to pass on as "lessons learned":
 
 ## Some dos and don'ts before the interview
 First and foremost, before you get creative, please note that we're more interested to see that the project is **working**. Make sure you understand the requirements, ask away your questions and get busy hammering out the relevant aspects of your application.
