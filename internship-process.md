@@ -3,7 +3,7 @@ During the last couple of years we've had internship batches coming in on a regu
 
 ## About the internships
 
-We offer a 3-month program during which you will be guided through the world of JavaScript, from basic algorithm and data structures to patterns of functional programming and object-oriented programming. Each intern has a mentor that guides him throughout the 3 months. In parallel with the training curricula, the interns are joining the team in all activities, including workshops, R&D projects and project showcases. 
+We offer a 3-month program during which you will be guided through the world of JavaScript, from basic algorithms and data structures to patterns of functional programming and object-oriented programming. Each intern has a mentor that guides him throughout the 3 months. In parallel with the training curricula, the interns are joining the team in all activities, including workshops, R&D projects and project showcases. 
 
 Based on the specific of the internship and the context of the team, the last period can be dedicated to a specific technology branch, whether it's on building a UI Automation Framework with JavaScript, or building a React/Angular frontend application, or a Node.js server side web app.
 
