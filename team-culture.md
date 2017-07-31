@@ -2,7 +2,7 @@
 
 Team work is a winner in today's software development world, that's a no brainer. Everyone understands the importance of team work and collaboration, but a team is more than the individuals that form it and the relations between them. The team exists outside the context of each individual and the team carries on, as long as the culture formed around it is strong. A strong team culture means that no individual is irreplaceable, but at the same time all individuals are valuable and an integral part of the team.
 
-We work in an environment where everyone collaborates, help and support are unconditioned and the needs ot the team come before the needs of the individual.
+We work in an environment where everyone collaborates, help and support are unconditioned and the needs of the team come before the needs of the individual.
 
 ## A culture built on mentoring
 
