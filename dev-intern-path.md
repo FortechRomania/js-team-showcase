@@ -1,11 +1,16 @@
+# H1 Developer Internship Roadmap
+
+
 ## Introduction and Setup
 1. Setup Github account.
   For guidance check out this [link](https://help.github.com/articles/set-up-git/).
+  Learn [Git essentials](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html)
 2. Setup editor of choice.
   We recommend one on the following:
     * [Virtual Studio Code](https://code.visualstudio.com/)
     * [Atom](https://atom.io/)
   Add plugins like [ESLint](https://eslint.org/) or [Emmet](https://emmet.io/) to your editor.
+
 
 ## The Web Platform
 1. Understand [how the internet works](https://ed.ted.com/on/tdUFCocK)
@@ -22,6 +27,7 @@
 6. What is a [cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)?
 7. What is a [session](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)?
 
+
 ## HTML/CSS
 1. Understand the basic structure of an HTML file.
   Learn about elements and attributes by practicing on this [tutorial](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html). Another good tutorial can be found at this [link](https://internetingishard.com/html-and-css/).
@@ -32,6 +38,7 @@
     * [infinite image carousel](https://amazingcarousel.com/examples/jquery-image-carousel-slider-id13/)
     * [range slider](http://rangeslider.js.org/)
 Remember: only HTML and CSS. Your code should not have any JavaScript/jQuery code.
+
 
 ## JavaScript
 1. Learn about Data Structures.
