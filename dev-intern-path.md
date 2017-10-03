@@ -1,4 +1,4 @@
-# H1 Developer Internship Roadmap
+# Developer Internship Roadmap
 
 
 ## Introduction and Setup
