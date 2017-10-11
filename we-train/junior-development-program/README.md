@@ -1,7 +1,7 @@
 # A culture built around mentoring
 During the last couple of years we've had internship batches coming in on a regular basis. We work on two areas of internship: **Full Stack JavaScript Engineers** and **QA Automation Engineers**.
 
-## About the internships
+## About the program and our selection process
 
 We offer a 3-month program during which you will be guided through the world of JavaScript, from basic algorithms and data structures to patterns of functional programming and object-oriented programming. Each intern has a mentor that guides him throughout the 3 months. In parallel with the training curricula, the interns are joining the team in all activities, including workshops, R&D projects and project showcases. 
 
