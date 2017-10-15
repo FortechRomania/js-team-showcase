@@ -1,5 +1,9 @@
 # Web Development Bookmarks
 
+### 10.11.2017
+- [ The whole web at maximum FPS: How WebRender gets rid of jank ](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
+    - tags: style, layout, paint, composite, css optimisation, css, translate, transform, perf, performance
+
 ### 10.06.2017
 - [Learning vim in four weeks](https://medium.com/@peterxjang/how-to-learn-vim-a-four-week-plan-cd8b376a9b85)
     - tags: vim, vim tutorial, learn vim
