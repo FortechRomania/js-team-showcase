@@ -14,6 +14,6 @@ We have a strong [team culture](https://github.com/FortechRomania/js-team-showca
 
 We value clean code and reusable code and we follow a [common styleguide](https://github.com/FortechRomania/js-team-showcase/blob/master/coding-guidelines.md) to achieve that.
 
-We believe in mentoring, in teaching and sharing information. One of our mentoring activities is the [junior academy program](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/junior-development-program).
+We believe in mentoring, in teaching and sharing information. One of our mentoring activities is the [junior development program](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/junior-development-program).
 
 Also, to keep track of the ever changing technology spectrum we consume allot of programming related [articles](https://github.com/FortechRomania/js-team-showcase/blob/master/we-recommend/daily-bookmarks.md), [books](https://github.com/FortechRomania/js-team-showcase/blob/master/we-recommend/books.md) and [videos](https://github.com/FortechRomania/js-team-showcase/blob/master/we-recommend/talks.md).
