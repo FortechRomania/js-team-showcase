@@ -46,8 +46,7 @@ There are a couple of useful patterns in React which should be studied in detail
 * [Pure component](http://reactpatterns.com/#stateless-function)
 * [Container component](http://reactpatterns.com/#container-component)
 * [Conditional rendering](http://reactpatterns.com/#conditional-rendering)
-* [High order components](ttps://www.sitepoint.com/react-higher-order-components/)
-* 
+* [High order components](https://www.sitepoint.com/react-higher-order-components/)
 
 ### Advanced topics
 Now that you have a good understanding of the React ecosystem, here are a couple of directions to follow:
