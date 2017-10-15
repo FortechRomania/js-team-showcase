@@ -1,33 +1,8 @@
-# QA Internship Roadmap
+# QA Automation Engineer Roadmap (UNDER CONSTRUCTION)
 
-
-## Introduction and Setup
-1. Setup Github account.
-  For guidance check out this [link](https://help.github.com/articles/set-up-git/).
-  Learn [Git essentials](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html)
-  Set up a Git repository for Automation testing
-2. Setup editor of choice.
-  We recommend one on the following:
-    * [Virtual Studio Code](https://code.visualstudio.com/)
-    * [Atom](https://atom.io/)
-  Add plugins like [ESLint](https://eslint.org/) or [Emmet](https://emmet.io/) to your editor.
-  For Atom, install the following packages:  atom-beautify, atom-ternjs, cucumber
+## Setup
 
 ## The Web Platform
-1. Understand [how the internet works](https://ed.ted.com/on/tdUFCocK)
-2. Understand how a browser works.
-  At this [link](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) you can find an interesting tutorial that includes general functioning of a browser, its structure, rendering engines and HTML or CSS code parsing.
-3. Learn a little about HTTP and HTTPS. Understand the following:
-    * [Requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-    * [Responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-    * [Methods](https://www.tutorialspoint.com/http/http_methods.htm)
-    * [Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-4. What is CRUD and what is a [RESTful API](http://www.restapitutorial.com/lessons/httpmethods.html)?
-  Practice API skills on the [tutorial](https://www.lynda.com/Flask-tutorials/CRUD-REST-basics/521200/533063-4.html)
-  Install [Postman](https://www.getpostman.com/postman) and play around with the tool.
-6. What is a [cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)?
-7. What is a [session](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)?
-
 
 ## Introduction to programming
     + HTML & CSS
