@@ -6,7 +6,7 @@ We work in an environment where everyone collaborates, help and support are unco
 
 ## A culture built on mentoring
 
-We believe mentoring is the key to success. It doesn't matter if you have 10 years of experience or 3 months, in our team you will be both a mentor and a mentee. From our [internship process](https://github.com/FortechRomania/js-team-showcase/blob/master/internship-process.md) to our montly initiatives of learning and development, everything we do is based on learning, teaching and sharing. Some of our initiatives are also based on giving back to the community, so be ready to embrace mentoring and teaching as a primary activity.
+We believe mentoring is the key to success. It doesn't matter if you have 10 years of experience or 3 months, in our team you will be both a mentor and a mentee. From our [junior deveopment program](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/junior-development-program) to our montly initiatives of learning and development, everything we do is based on learning, teaching and sharing. Some of our initiatives are also based on giving back to the community, so be ready to embrace mentoring and teaching as a primary activity.
 
 ## Our core values
 
