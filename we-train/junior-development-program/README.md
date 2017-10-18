@@ -1,4 +1,4 @@
-# A culture built around mentoring
+# Junior Development Program
 During the last couple of years we have perfected this program through which we want to help you develop your skills as a junior engineer. We work mainly on two areas: **Full Stack JavaScript Engineers** and **QA Automation Engineers**.
 
 No prior work experience is required for joining this program.
