@@ -10,3 +10,4 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO - **Eric Elliott**](https://www.youtube.com/watch?v=lKCCZTUx0sI)
 * [A Cartoon Intro to WebAssembly - **Lin Clark**](https://www.youtube.com/watch?v=HktWin_LPf4)
 * [Implementing Programmer Anarchy - **Fred George**](https://www.youtube.com/watch?v=tIxHmsWCd7g)
+* [The Future of Programming - **Bob Martin (Uncle Bob)**](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=1638s)
