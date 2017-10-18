@@ -9,4 +9,4 @@ Based on the specifics of the branch you follow and the context inside the team,
 
 If you are interested in apply for the program, read more about our selection process for full stack engineers and qa automation engineers. 
 
-If you want to follow the curricula by yourself, you can find it here for the full stack engineers and here for the qa automation engineers.
+If you want to follow the curricula by yourself, you can find it here for the [full stack engineers](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/junior-development-program/full-stack) and here for the [qa automation engineers](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/junior-development-program/qa-automation).
