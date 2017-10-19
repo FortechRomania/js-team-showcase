@@ -29,3 +29,6 @@
 - [What forces layout / reflow - by Paul Irish](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [What CSS properties trigger what](https://csstriggers.com/)
 - [ON LAYOUT & WEB PERFORMANCE](http://kellegous.com/j/2013/01/26/layout-performance/)
+
+### 19.10.2017
+- [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
