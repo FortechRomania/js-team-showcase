@@ -2,6 +2,8 @@
 A compilation of the most memorable talks on software engineering, in arbitrary order.
 
 * [Idée Fixe - **David Nolen**](https://www.youtube.com/watch?v=lzXHMy4ewtM)
+Books discussed in this talk:
+- [The Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures)
 * [Simplicity Matters - **Rich Hickey**](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [On the spectrum of Abstraction - **Cheng Lou**](https://www.youtube.com/watch?v=mVVNJKv9esE)
 * [Production Progressive Web Apps With JavaScript Frameworks - **Addy Osmani**](https://www.youtube.com/watch?v=aCMbSyngXB4)
