@@ -6,7 +6,7 @@ Tests written to check software functionality can be grouped into a few categori
 * integration tests: check that individual pieces of your app play nicely together.
 * end-to-end tests (automation): check that entire features work from the user’s perspective.
 
-[Here](https://www.sitepoint.com/unit-test-javascript-mocha-chai/) is a brief explanation of what are unit tests and why are they good to have. 
+[Here](https://www.sitepoint.com/unit-test-javascript-mocha-chai/)  and [here](http://blog.silicak.es/2016-07-07-testing-browser-gulp-phantomJS-mocha-istanbul) are nice reads on unit tests and setup. 
 
 # Tests tools
 
