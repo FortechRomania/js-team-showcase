@@ -1,6 +1,6 @@
 The purpose of this page is to provide an overview end to end testing solutions used within one of our projects.
 
-#End to end testing
+# End to end testing
 
 For end to end testing on hybrid mobile apps, we are using:
 * [appium] (http://appium.io/)
