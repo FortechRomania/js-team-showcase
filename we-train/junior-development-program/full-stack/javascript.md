@@ -17,6 +17,8 @@ Get familiar with JavaScript functions:
 * [Modules](https://toddmotto.com/mastering-the-module-pattern/)
 
 ### Modern JavaScript
+Understand [the modern JavaScript ecosystem](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70) based on npm modules.
+
 Take a [history lesson](https://auth0.com/blog/a-brief-history-of-javascript/) of JavaScript the EcmaScript Standard.
 * [ECMAScript2015/ES6](http://es6-features.org/#Constants)
 * [Egghead course on ES2015](https://egghead.io/courses/learn-es6-ecmascript-2015)
