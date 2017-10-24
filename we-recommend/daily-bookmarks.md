@@ -1,5 +1,13 @@
 # Web Development Bookmarks
 
+### 10.24.2017
+
+- [Modern JavaScript explained for dinosaurs](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+    - tags: javascript, npm, node
+
+### 10.19.2017
+- [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+
 ### 10.11.2017
 - [ The whole web at maximum FPS: How WebRender gets rid of jank ](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
     - tags: style, layout, paint, composite, css optimisation, css, translate, transform, perf, performance
@@ -29,6 +37,3 @@
 - [What forces layout / reflow - by Paul Irish](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [What CSS properties trigger what](https://csstriggers.com/)
 - [ON LAYOUT & WEB PERFORMANCE](http://kellegous.com/j/2013/01/26/layout-performance/)
-
-### 19.10.2017
-- [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
