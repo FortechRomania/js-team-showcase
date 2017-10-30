@@ -11,3 +11,5 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 * [A Cartoon Intro to WebAssembly - **Lin Clark**](https://www.youtube.com/watch?v=HktWin_LPf4)
 * [Implementing Programmer Anarchy - **Fred George**](https://www.youtube.com/watch?v=tIxHmsWCd7g)
 * [The Future of Programming - **Bob Martin (Uncle Bob)**](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=1638s)
+* [A Skeptics Guide To Functional STYLE JavaScript - **Jonathan Mills**](https://www.youtube.com/watch?v=oF9XTJoScOE)
+* [The JavaScript Starter Kit Manifesto - **Cory House**](https://www.youtube.com/watch?v=jubd2opc4Ps)
