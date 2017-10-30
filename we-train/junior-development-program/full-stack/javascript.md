@@ -44,6 +44,7 @@ Learn about the model of execution in JavaScript and the call stack. Wrap your h
 * [Promises](https://scotch.io/tutorials/javascript-promises-for-dummies)
 * [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * [Async/Await](https://tutorialzine.com/2017/07/javascript-async-await-explained)
+* [Async/Await full tutorial](https://egghead.io/courses/asynchronous-javascript-with-async-await)
 
 ### Functional Programming
 You can follow a couple of example from [this workshop](). Focus on:
