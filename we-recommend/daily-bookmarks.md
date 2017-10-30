@@ -1,25 +1,28 @@
 # Web Development Bookmarks
 
 ### 10.24.2017
-
 - [Modern JavaScript explained for dinosaurs](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70)
     - tags: javascript, npm, node
 
 ### 10.19.2017
 - [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
-### 10.11.2017
+### 16.10.2017
+- [ On being a senior engineer ](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+- [ The four rules of "this" in Javascript ](https://john-dugan.com/this-in-javascript/)
+
+### 10.10.2017
 - [ The whole web at maximum FPS: How WebRender gets rid of jank ](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
     - tags: style, layout, paint, composite, css optimisation, css, translate, transform, perf, performance
 
-### 10.06.2017
+### 06.10.2017
 - [Learning vim in four weeks](https://medium.com/@peterxjang/how-to-learn-vim-a-four-week-plan-cd8b376a9b85)
     - tags: vim, vim tutorial, learn vim
 - [async await](https://mathiasbynens.be/notes/async-stack-traces)
 - [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
     - tags: imperative, declarative, programming
 
-### 10.04.2017
+### 04.10.2017
 - [Image Optimisation Techniques](https://images.guide/)
 - [Worst JavaScript Flaws That Hackers Love To Abuse](https://www.youtube.com/watch?v=0dgmeTy7X3I)
     - tags: js, javascript, optimisation
