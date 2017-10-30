@@ -46,13 +46,13 @@ The easiest way to do that is to use the [Express framework](https://expressjs.c
 [Here](https://github.com/FortechRomania/node-starter) you can find an application skeleton for a typical Node.js app. Clone the repository, install everything( do not forget the database ) then start adding your code.
 
 
-[Here](https://github.com/FortechRomania/express-mongo-example-project) you can find another skeleton for a Node.js app. The steps are the same: clone the repository, install everything and start writing the code.
+[Here](https://github.com/FortechRomania/express-mongo-example-project) you can find another skeleton for a Node.js app. The steps are the same: clone the repository, install everything and start writing your code.
 
 
 If you take a look on both repositories the structure of the project is slightly different. Depending on how complex is your app you might use one or the other. The first one is used for smaller applications i.e. applications that have a small number of models and controllers. The second structure is preferred for applications that have a bigger complexity where the applications has to be properly modularized for maintenance purposes.
 
 ### Advanced topics
-If you have a good understanding of the Node ecosystem here are a couple of features that should know about:
+If you have a good understanding of the Node ecosystem here are a couple of features that you should know about:
 * [Async/Await](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
 * [Generator functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function%2A). Use [co](https://www.npmjs.com/package/co) if you want to put it into practice.
 
