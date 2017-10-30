@@ -6,7 +6,7 @@
 #### 1. David Nolen
 Links: [Twitter](https://twitter.com/swannodette?lang=en), [Github](https://github.com/swannodette), [Blog](http://swannodette.github.io/)
 
-#### 2. Robin Frischman
+#### 2. Robin Frischman - CSS IN JS: THE GOOD & THE BAD PARTS
 Links: [Twitter](https://twitter.com/rofrischmann?lang=en), [Github](https://github.com/rofrischmann), [Blog](https://medium.com/@rofrischmann)
 
 #### 3. Nikita Propkopov
