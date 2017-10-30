@@ -16,10 +16,10 @@ Links: **[Slides](http://tonsky.me/2017-10-Reactive/slides/)**,[Twitter](https:/
 Links: [Twitter](https://twitter.com/rofrischmann?lang=en), [Github](https://github.com/Urigo)
 
 #### 5. Rogelio Guzman
-Links: [Slides](https://github.com/rogeliog/jest-as-a-platform-talk/blob/master/Jest%20as%20a%20Platform.pdf), [Twitter](https://twitter.com/rogeliog?lang=en), [Github](https://github.com/rogeliog)
+Links: **[Slides](https://github.com/rogeliog/jest-as-a-platform-talk/blob/master/Jest%20as%20a%20Platform.pdf)**, [Twitter](https://twitter.com/rogeliog?lang=en), [Github](https://github.com/rogeliog)
 
 #### 6. Igor Minar
-Links: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQIJK_Fv323qG-vj05TG9MvMLQTYSK9Qj9mZXCH1w6uooN8aM7IsDgK8XfVAFwVqXdLU-OiFxwS0m9c/pub?start=false&loop=false&delayms=3000&slide=id.p), [Twitter](https://twitter.com/IgorMinar), [Github](https://github.com/IgorMinar/stock-shaker)
+Links: **[Slides](https://docs.google.com/presentation/d/e/2PACX-1vQIJK_Fv323qG-vj05TG9MvMLQTYSK9Qj9mZXCH1w6uooN8aM7IsDgK8XfVAFwVqXdLU-OiFxwS0m9c/pub?start=false&loop=false&delayms=3000&slide=id.p)**, [Twitter](https://twitter.com/IgorMinar), [Github](https://github.com/IgorMinar/stock-shaker)
 
 #### 7. Evan You
 Links: [Slides](https://docs.google.com/presentation/d/1AjT8HeXFeAO61voCsyAEM7UnjjjeY8rHumyVlxs7YbY/edit), [Twitter](https://twitter.com/youyuxi?lang=en), [Github](https://github.com/yyx990803), [Blog](http://blog.evanyou.me/)
@@ -41,7 +41,7 @@ Links: [Twitter](https://twitter.com/javivelasco), [Github](https://github.com/j
 Links: [Twitter](https://twitter.com/rtfeldman), [Github](https://github.com/rtfeldman), [Blog](https://dev.to/rtfeldman/)
 
 #### 2. Jared Forsyth
-Links: [Slides](https://github.com/jaredly/reactiveconf-reasonml), [Twitter](https://twitter.com/jaredforsyth), [Github](https://github.com/jaredly), [Blog](https://jaredforsyth.com/)
+Links: **[Slides](https://github.com/jaredly/reactiveconf-reasonml)**, [Twitter](https://twitter.com/jaredforsyth), [Github](https://github.com/jaredly), [Blog](https://jaredforsyth.com/)
 
 #### 3. Andrey Sitnik
 Links: [Twitter](https://twitter.com/andreysitnik), [Github](https://github.com/ai), [Personal Site](http://sitnik.ru/en), [Logux](https://github.com/logux)
