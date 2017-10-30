@@ -10,7 +10,7 @@ Links: [Twitter](https://twitter.com/swannodette?lang=en), [Github](https://gith
 Links: [Twitter](https://twitter.com/rofrischmann?lang=en), [Github](https://github.com/rofrischmann), [Blog](https://medium.com/@rofrischmann)
 
 #### 3. Nikita Propkopov
-Links: [Slides](http://tonsky.me/2017-10-Reactive/slides/),[Twitter](https://twitter.com/rofrischmann?lang=en), [Github](https://github.com/tonsky), [Blog](http://tonsky.me/)
+Links: *[Slides](http://tonsky.me/2017-10-Reactive/slides/)*,[Twitter](https://twitter.com/rofrischmann?lang=en), [Github](https://github.com/tonsky), [Blog](http://tonsky.me/)
 
 #### 4. Uri Goldshtein
 Links: [Twitter](https://twitter.com/rofrischmann?lang=en), [Github](https://github.com/Urigo)
