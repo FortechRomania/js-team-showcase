@@ -1,6 +1,6 @@
 ## The art of clean code and consistency
 
-Writting code is an essential part our day to day activity. While working together for several years now, we saw that adopting a single guideline for the entire team is very beneficial and powerful. Choosing between two or more ways of writing code can lead to a lot of [bikeshedding](https://en.wiktionary.org/wiki/bikeshedding).
+Writing code is an essential part our day to day activity. While working together for several years now, we saw that adopting a single guideline for the entire team is very beneficial and powerful. Choosing between two or more ways of writing code can lead to a lot of [bikeshedding](https://en.wiktionary.org/wiki/bikeshedding).
 
 ### Styleguide
 
