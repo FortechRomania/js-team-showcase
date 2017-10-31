@@ -1,5 +1,9 @@
 # Web Development Bookmarks
 
+### 10.31.2017
+- [ECMAScript Compatibility Table](http://kangax.github.io/compat-table/es6/)
+    - tags: javascript, ES6
+    
 ### 10.24.2017
 - [Modern JavaScript explained for dinosaurs](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70)
     - tags: javascript, npm, node
