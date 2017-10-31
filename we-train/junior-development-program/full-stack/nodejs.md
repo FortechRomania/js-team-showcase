@@ -5,7 +5,7 @@ Read about Node.js [here](https://nodejs.org/en/).
 This [tutorial](https://www.airpair.com/javascript/node-js-tutorial) shows how can you start working with it.
 
 ### API Reference Documentation
-The API reference documentation provides detailed information about functions and objects in Node.js. Details can be found at this [link](https://nodejs.org/api/)
+The API reference documentation provides detailed information about functions and objects in Node.js. Details can be found at this [link](https://nodejs.org/api/).
 
 ### ECMAScript2015/ES6 Features
 Check out [here](https://nodejs.org/en/docs/es6/) how the new features from ECMAScript are enabled by default in Node.js
@@ -30,6 +30,12 @@ Middlewares are functions that have access to the request, response object and t
 
 Read more about the usage, purpose and advantages of middlewares at this [link](https://expressjs.com/en/guide/using-middleware.html)
 
+### MongoDB and Mongoose
+[MongoDB](https://docs.mongodb.com/manual/) is an open-source, document based database. The guys from [nodeschool](https://nodeschool.io) have an interesting [tutorial](https://github.com/evanlucas/learnyoumongo) on how to start working with it
+
+
+[Mongoose](http://mongoosejs.com/) is a tool built over MongoDB that is used for object modeling and validation. To work with it we recommend to check out [this](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications) or [this](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose) tutorials. You can use this [link](http://mongoosejs.com/docs/validation.html) to see how model validation is done. Also you can play around with [queries](http://mongoosejs.com/docs/queries.html).
+
 ### Practice
 We highly recommend to practice node features on several tutorials offered by the [nodeschool](https://nodeschool.io/#workshoppers).
 Check out the following workshops:
@@ -51,10 +57,32 @@ The easiest way to do that is to use the [Express framework](https://expressjs.c
 
 If you take a look on both repositories the structure of the project is slightly different. Depending on how complex is your app you might use one or the other. The first one is used for smaller applications i.e. applications that have a small number of models and controllers. The second structure is preferred for applications that have a bigger complexity where the applications has to be properly modularized for maintenance purposes.
 
+#### Movie catalog app
+At this stage you should start building your own application. We recommend a movie catalog app, but feel free to decide for yourself if you think something works better for you.
+
+This app has the purpose of keeping track of movies. The app should contain the following functionalities:
+* Admin can login.
+* The admin can add/upload the initial list of movies.
+* Users can sign in.
+* Users can login.
+* An user can add other movies.
+* An user can rate a movie.
+* An user can logout.
+* An user can delete its account.
+
+
+Keeping in mind the functionalities mentioned above, you should have these files in you app folder:
+* Express + MongoDB configuration
+* A file that contains the app's routes
+* App models ( e.g. admin, user and movie )
+* App controllers( e.g. userController.js and movieController.js )
+* Middlewares( e.g. to validate an user/movie already exists )
+
+
 ### Advanced topics
 If you have a good understanding of the Node ecosystem here are a couple of features that you should know about:
 * [Async/Await](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
-* [Generator functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function%2A). Use [co](https://www.npmjs.com/package/co) if you want to put it into practice.
+* [Generator functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function%2A). Check out [co](https://www.npmjs.com/package/co) if you want to put it into practice.
 
 ### Recommended time
 This module should take 3 to 5 weeks of learning and practicing.
