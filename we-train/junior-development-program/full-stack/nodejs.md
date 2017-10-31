@@ -16,7 +16,7 @@ The API reference documentation provides detailed information about functions an
 Check out [here](https://nodejs.org/en/docs/es6/) how the new features from ECMAScript are enabled by default in Node.js
 
 #### Node.js Modules
-This [article](https://team.goodeggs.com/export-this-interface-design-patterns-for-node-js-modules-b48a3b1f8f40)about what are node modules, how and/or when to write them and what are the benefits of using them. This [presentation](https://darrenderidder.github.io/talks/ModulePatterns/#/1) contains more code examples that might help in understanding this concept.
+This [article](https://team.goodeggs.com/export-this-interface-design-patterns-for-node-js-modules-b48a3b1f8f40) about what are node modules, how and/or when to write them and what are the benefits of using them. This [presentation](https://darrenderidder.github.io/talks/ModulePatterns/#/1) contains more code examples that might help in understanding this concept.
 
 #### Recap: Async JavaScript
 If you want to have a good understanding of the Node ecosystem here are a couple of features that you should know about:
