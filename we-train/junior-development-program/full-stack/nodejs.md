@@ -44,8 +44,8 @@ Middlewares are functions that have access to the request, response object and t
 Read more about the usage, purpose and advantages of middlewares at this [link](https://expressjs.com/en/guide/using-middleware.html)
 
 Play around with a few middlewares:
-* [https://www.npmjs.com/package/cookie-parser](Cookie Parser)
-* [https://github.com/expressjs/body-parser](Body Parser)
+* [Cookie parser](https://www.npmjs.com/package/cookie-parser)
+* [Body parser](https://github.com/expressjs/body-parser)
 
 ### MongoDB and Mongoose
 [MongoDB](https://docs.mongodb.com/manual/) is an open-source, document based database. The guys from [nodeschool](https://nodeschool.io) have an interesting [tutorial](https://github.com/evanlucas/learnyoumongo) on how to start working with it
