@@ -1,6 +1,6 @@
 # Web Development Bookmarks
 
-### 31.10.2017
+### 10.31.2017
 - [ECMAScript Compatibility Table](http://kangax.github.io/compat-table/es6/)
     - tags: javascript, ES6
     
