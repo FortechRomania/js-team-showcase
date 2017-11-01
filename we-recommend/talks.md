@@ -12,4 +12,5 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 * [Implementing Programmer Anarchy - **Fred George**](https://www.youtube.com/watch?v=tIxHmsWCd7g)
 * [The Future of Programming - **Bob Martin (Uncle Bob)**](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=1638s)
 * [A Skeptics Guide To Functional STYLE JavaScript - **Jonathan Mills**](https://www.youtube.com/watch?v=oF9XTJoScOE)
+* [Learning Functional Programming with JavaScript - **Anjana Vakil**](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [The JavaScript Starter Kit Manifesto - **Cory House**](https://www.youtube.com/watch?v=jubd2opc4Ps)
