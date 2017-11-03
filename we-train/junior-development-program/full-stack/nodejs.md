@@ -25,7 +25,7 @@ If you want to have a good understanding of the Node ecosystem here are a couple
 * [Generator functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function%2A). Check out [co](https://www.npmjs.com/package/co) if you want to put it into practice.
 
 ### Express
-There are several frameworks that are build over Node.js.
+There are several frameworks that are built over Node.js.
 [Here](http://nodeframework.com/) you can find a list of the most popular ones.
 Check out this [link](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi) for the comparison of three of them. As a team, we used most Express.
 
