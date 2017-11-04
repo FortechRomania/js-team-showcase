@@ -1,5 +1,9 @@
 # Web Development Bookmarks
 
+### 04.11.2017
+- [Coding with clarity](https://alistapart.com/article/coding-with-clarity)
+    - tags: clean code
+
 ### 31.10.2017
 - [ECMAScript Compatibility Table](http://kangax.github.io/compat-table/es6/)
     - tags: javascript, ES6
