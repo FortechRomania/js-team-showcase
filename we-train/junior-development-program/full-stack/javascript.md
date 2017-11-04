@@ -32,6 +32,8 @@ Also read [chapter 3](http://chimera.labs.oreilly.com/books/1234000000262/ch03.h
 ### Clean Code
 Watch [Clean Code Fundamentals](https://cleancoders.com/videos/clean-code/fundamentals) especially focusing on episodes 2 to 5, which are the foundation of well engineered code.
 
+Read more about [clean code concepts](https://alistapart.com/article/coding-with-clarity): Single Responsibility Principle, High Cohesion, Low Coupling.
+
 ### JavaScript Styleguide
 Read about [airbnb's styleguide](https://github.com/airbnb/javascript) and the rules they enforce through it. Also install the official [fortech styleguide](https://github.com/FortechRomania/eslint-config-fortech) which is inheriting the airbnb one with a few notable changes. Make sure you setup your future projects using this eslint config package.
 
