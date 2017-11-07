@@ -45,9 +45,10 @@ You can follow a couple of example from [this workshop](). Focus on:
 * [Function Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
 
 ### Exercises
-...
-...
-...
+* [W3Schools](https://www.w3schools.com/js/default.asp)
+* [Pluralsight](https://www.pluralsight.com/paths/javascript)
+* [Codeacademy](https://www.codecademy.com/)
+* [Codewars](https://www.codewars.com/)
 
 ### Recommended time
 This module should take 2 to 3 weeks of learning and practicing.
