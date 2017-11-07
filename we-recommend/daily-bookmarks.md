@@ -1,5 +1,9 @@
 # Web Development Bookmarks
 
+### 07.11.2017
+- [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
+    - tags: js, javascript, es6, functional programming, fp
+
 ### 04.11.2017
 - [Coding with clarity](https://alistapart.com/article/coding-with-clarity)
     - tags: clean code
