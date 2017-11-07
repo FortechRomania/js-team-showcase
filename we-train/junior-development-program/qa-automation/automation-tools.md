@@ -2,9 +2,17 @@
 
 ## Testcafe
 
-[Testcafe](https://devexpress.github.io/testcafe/) is a node.js tool to automate **end-to-end web testing**. You can write your Testcafe tests in **Javascript** or **Typescript** and while some may say this is not enough, we strongly disagree. Testcafe offers sollutions for any needs, except testing mobile apps. Test suites created in Testcafe can be executed on any browser on the desktop, on any mobile browsers, it can be integrated with Jenkins and it can also be executed on devices from a cloud-based platform like Browserstack or SauceLabs. 
+[Testcafe](https://devexpress.github.io/testcafe/) is a node.js tool to automate **end-to-end web testing**. You can write your Testcafe tests in **Javascript** or **Typescript** and while some may say this is not enough, we strongly disagree. Testcafe offers sollutions for any needs, except testing mobile apps. 
+#### Test suites created in Testcafe can be executed:
+* on any desktop browser
+* on any mobile browser
+* it can be integrated with Jenkins 
+* it can be executed on devices from a cloud-based platform like Browserstack or SauceLabs. 
 
-It's setup is as straight forward as it can get: Create a repository and inside it, just install Testcafe with the command `npm install testcafe --dev-save`. Now you can start going through the documentation [Here](https://devexpress.github.io/testcafe/documentation/getting-started/) and start on the tests.
+#### It's setup is as straight forward as it can get: 
+* Create a repository 
+* In the reposibory nstall Testcafe locally with the command `npm install testcafe --dev-save`. 
+Now you can start going through the documentation [Here](https://devexpress.github.io/testcafe/documentation/getting-started/) and start on the tests.
 
 
 ## Postman
