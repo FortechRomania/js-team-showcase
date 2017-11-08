@@ -26,7 +26,7 @@ Links: [Slides](https://docs.google.com/presentation/d/1AjT8HeXFeAO61voCsyAEM7Un
 
 
 ## Day 2
-### Descovery Stage
+### Discovery Stage
 
 #### 1. Sean Larkin & Tobias Koppers - Understanding Webpack from inside out
 Sean Larkin Links: [Twitter](https://twitter.com/TheLarkInn), [Github](https://github.com/TheLarkInn)
