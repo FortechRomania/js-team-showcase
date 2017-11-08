@@ -12,6 +12,6 @@ We work on various projects from vanilla **JavaScript**, to REST APIs with **Exp
 ### How we do it
 We have a strong [team culture](https://github.com/FortechRomania/js-team-showcase/blob/master/team/what-we-stand-for.md) built around a few core values.
 
-We believe in mentoring, in teaching and sharing information. One of our mentoring activities is the [junior development program](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/junior-development-program).
+We believe in mentoring, teaching and sharing information. One of our training activities is the [junior development program](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/junior-development-program), but we are also involved in running [nodeschool workshops](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/node-school) in **Cluj**.
 
 Also, to keep track of the ever changing technology spectrum we consume allot of programming related [articles](https://github.com/FortechRomania/js-team-showcase/blob/master/we-recommend/daily-bookmarks.md), [books](https://github.com/FortechRomania/js-team-showcase/blob/master/we-recommend/books.md) and [videos](https://github.com/FortechRomania/js-team-showcase/blob/master/we-recommend/talks.md).
