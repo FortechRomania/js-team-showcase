@@ -49,10 +49,10 @@ There are a couple of tools that facilitate tests writing. These can be grouped 
 * [Aws device farm](https://aws.amazon.com/device-farm/)
 
 ### Code coverage
-* Instanbul
+* Istanbul
 
-# Tests examples
+# Examples
 
-Unit testing - https://github.com/ancutac/javascript-testing/blob/master/README.md
+Unit testing setup - https://github.com/ancutac/javascript-testing/blob/master/README.md
 
-End to end testing - https://github.com/FortechRomania/js-team-showcase/blob/master/showcase/javascript-testing/end-to-end-testing.md
+End to end testing setup - https://github.com/FortechRomania/js-team-showcase/blob/master/showcase/javascript-testing/end-to-end-testing.md
