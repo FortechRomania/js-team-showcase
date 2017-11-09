@@ -1,6 +1,12 @@
 # The List
 A compilation of the most memorable talks on software engineering, in arbitrary order.
 
+## Programming
+* [On the spectrum of Abstraction - **Cheng Lou**](https://www.youtube.com/watch?v=mVVNJKv9esE)
+* [Idée Fixe - **David Nolen**](https://www.youtube.com/watch?v=lzXHMy4ewtM)
+* [The Future of Programming - **Bob Martin (Uncle Bob)**](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=1638s) ( clean code, history )
+* [Simplicity Matters - **Rich Hickey**](https://www.youtube.com/watch?v=rI8tNMsozo0)
+
 ## JavaScript
 * [The JavaScript Starter Kit Manifesto - **Cory House**](https://www.youtube.com/watch?v=jubd2opc4Ps)( tools, setup )
 * [Production Progressive Web Apps With JavaScript Frameworks - **Addy Osmani**](https://www.youtube.com/watch?v=aCMbSyngXB4) ( PWA, performance )
@@ -12,14 +18,10 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 
 ## Web
 * [A Cartoon Intro to WebAssembly - **Lin Clark**](https://www.youtube.com/watch?v=HktWin_LPf4)
-* [On the spectrum of Abstraction - **Cheng Lou**](https://www.youtube.com/watch?v=mVVNJKv9esE)
-* [Idée Fixe - **David Nolen**](https://www.youtube.com/watch?v=lzXHMy4ewtM)
 
-
-## General
-* [The Future of Programming - **Bob Martin (Uncle Bob)**](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=1638s) ( clean code, history )
+## Process
 * [Implementing Programmer Anarchy - **Fred George**](https://www.youtube.com/watch?v=tIxHmsWCd7g)
-* [Simplicity Matters - **Rich Hickey**](https://www.youtube.com/watch?v=rI8tNMsozo0)
+
 
 
 
