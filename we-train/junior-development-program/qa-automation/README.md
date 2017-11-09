@@ -1,8 +1,16 @@
-# QA Automation Engineer Roadmap (UNDER CONSTRUCTION)
+# QA Automation Engineer Roadmap
 
-## Setup
+Welcome to our development program for QA Automation Engineers! This is roughly a 3-month program at a regular pace (8h/day) that will bring pleasure into your life by learning automation testing. We'll learn about test design, the web platform, 
 
+## Basics
+...
 ## The Web Platform
+...
+## Introduction to programming
+...
+## Tools
+
+
 
 ## Introduction to programming
     + HTML & CSS
