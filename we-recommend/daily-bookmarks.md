@@ -1,5 +1,9 @@
 # Web Development Bookmarks
 
+###
+- [Simple React Patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
+    - tags: react, HOCs, patterns
+
 ### 08.11.2017
 - [I wish I knew these before diving into React](https://engineering.opsgenie.com/i-wish-i-knew-these-before-diving-into-react-301e0ee2e488)
 - [When programming was no longer fun](https://dev.to/carlhembrough/programming-used-to-be-fun)
