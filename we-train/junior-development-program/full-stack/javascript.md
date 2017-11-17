@@ -13,7 +13,7 @@ Get familiar with JavaScript functions:
 * [Function Definitions](http://eloquentjavascript.net/03_functions.html)
 * [Callbacks](https://dev.to/faradayyg/understanding-javascript-callbacks-58i)
 * [Scopes](https://scotch.io/tutorials/understanding-scope-in-javascript)
-* [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+* [Closures](https://medium.freecodecamp.org/lets-learn-javascript-closures-66feb44f6a44)
 * [Modules](https://toddmotto.com/mastering-the-module-pattern/)
 
 ### Modern JavaScript
