@@ -3,10 +3,10 @@
 ## Day 1
 ### Main Stage
 
-#### [1. David Nolen - Out of the Tarpit, revisited ( duration: 25:00 )](https://www.youtube.com/watch?v=7y1phdZkLw4&feature=youtu.be&mc_cid=1c46d9ef3e&mc_eid=512b3a9aff)
+#### 1. [David Nolen - Out of the Tarpit, revisited ( duration: 25:00 )](https://www.youtube.com/watch?v=7y1phdZkLw4&feature=youtu.be&mc_cid=1c46d9ef3e&mc_eid=512b3a9aff)
 Links: [Twitter](https://twitter.com/swannodette?lang=en), [Github](https://github.com/swannodette), [Blog](http://swannodette.github.io/)
 
-#### [2. Robin Frischman - CSS IN JS: THE GOOD & THE BAD PARTS ( duration: 26:00 )](https://www.youtube.com/watch?v=95M-2YzyTno&feature=youtu.be&mc_cid=1c46d9ef3e&mc_eid=512b3a9aff)
+#### 2. [Robin Frischman - CSS IN JS: THE GOOD & THE BAD PARTS ( duration: 26:00 )](https://www.youtube.com/watch?v=95M-2YzyTno&feature=youtu.be&mc_cid=1c46d9ef3e&mc_eid=512b3a9aff)
 Links: [Twitter](https://twitter.com/rofrischmann?lang=en), [Github](https://github.com/rofrischmann), [Blog](https://medium.com/@rofrischmann)
 
 #### 3. [Nikita Propkopov - Client and server need to talk ( duration: 30:00 )](https://www.youtube.com/watch?v=PQM1hHzcJiY&feature=youtu.be&mc_cid=1c46d9ef3e&mc_eid=512b3a9aff)
