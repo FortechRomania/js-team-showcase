@@ -1,6 +1,6 @@
 # Technical Showcase
 
-We're gathering here a list of activites, concepts, frameworks and libraries which we are researching as part of our job. We want this to be a reliable source of references for anyone who wants to learn a specific topics.
+We're gathering here a list of activites, concepts, frameworks and libraries which we are researching as part of our job. We want this to be a reliable source of references for anyone who wants to learn a specific topic.
 
 ### General Project Activities
 
