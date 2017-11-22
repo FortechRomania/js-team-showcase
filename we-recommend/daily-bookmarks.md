@@ -1,6 +1,10 @@
 # Web Development Bookmarks
 
-###
+### 22.11.2017
+- [The cost of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+    - tags: javascript, performance
+
+### 10.11.2017
 - [Simple React Patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
     - tags: react, HOCs, patterns
 
