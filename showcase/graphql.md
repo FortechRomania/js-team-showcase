@@ -14,6 +14,42 @@ Once you've built your first GraphQL server you can check this article with a ni
 This 6-part article is a great reference to start building a React app powered by a GraphQL backend. **Apollo** is an easy-to-use client for GraphQL which allows you to write queries and mutations on any frontend application in order to communicate with a GraphQL endpoint. This series of articles goes through the basic functionalities exposed by **React-Apollo**, the library used for connecting React apps to GraphQL.
 * [Getting started with React-Apollo](https://www.howtographql.com/react-apollo/1-getting-started/)
 
+**Notes**
+Be aware that GraphQL and Apollo are at new versions at the moment so setup might be a bit different. Took me a while to figure out exactly how to do it. The recommended approach is to visit the [oficial documentation](https://www.apollographql.com/docs/react/basics/setup.html) for setting up `React-Apollo`.
+
+The suggested way for first time users is
+```
+npm install apollo-client-preset react-apollo graphql-tag graphql --save
+```
+
+And then 
+
+```javascript
+import { graphql, ApolloProvider } from "react-apollo";
+import ApolloClient from "apollo-client";
+import gql from "graphql-tag";
+import { HttpLink } from "apollo-link-http";
+import { InMemoryCache } from "apollo-cache-inmemory";
+
+const client = new ApolloClient( {
+    link: new HttpLink( { uri: "<link to graphql endpoint>" } ),
+    cache: new InMemoryCache( ),
+} );
+```
+
+Also, keep in mind that you need a proxy server when you're running both the frontend and the backend on different ports. You can easily do that in `create-react-app` with the `proxy` setting in `package.json`
+
+```javascript
+"proxy": {
+  "/graphql": {
+    "target": "http://localhost:4000/graphql",
+    "ws": true
+  }
+}
+```
+
+The rest of the code is similar with what is described in the article.
+
 ### Full stack GraphQL with Subscriptions
 
 * [Reference](https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
