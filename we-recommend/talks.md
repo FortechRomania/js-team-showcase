@@ -6,6 +6,7 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 * [Idée Fixe - **David Nolen**](https://www.youtube.com/watch?v=lzXHMy4ewtM)
 * [The Future of Programming - **Bob Martin (Uncle Bob)**](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=1638s) ( clean code, history )
 * [Simplicity Matters - **Rich Hickey**](https://www.youtube.com/watch?v=rI8tNMsozo0)
+* [The Melting Pot of JavaScript - **Dan Abramov**](https://www.youtube.com/watch?v=G39lKaONAlA)
 
 ## JavaScript
 * [The JavaScript Starter Kit Manifesto - **Cory House**](https://www.youtube.com/watch?v=jubd2opc4Ps)( tools, setup )
