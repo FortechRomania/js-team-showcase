@@ -50,6 +50,11 @@ Also, keep in mind that you need a proxy server when you're running both the fro
 
 The rest of the code is similar with what is described in the article.
 
+Also worth reading while getting deeper into React-Apollo:
+* [Caching](https://www.apollographql.com/docs/react/features/caching.html)
+* [Optimistic UI](https://www.apollographql.com/docs/react/features/optimistic-ui.html)
+* [Using Fragments](https://www.apollographql.com/docs/react/features/fragments.html)
+
 ### Full stack GraphQL with Subscriptions
 
 * [Reference](https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
