@@ -17,6 +17,7 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO - **Eric Elliott**](https://www.youtube.com/watch?v=lKCCZTUx0sI) (object oriented)
 * [What the heck is the event loop anyway? - **Philip Roberts**](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ( internals )
 * [Down the Rabbit Hole: Javascript in Wonderland - **Claudia Hernández**](https://www.youtube.com/watch?v=gE9xn-KOp1I) ( fun and weird javascript )
+* [What if the user was a function? - **Andre Staltz**](https://www.youtube.com/watch?v=1zj7M1LnJV4)
 
 ## Web
 * [A Cartoon Intro to WebAssembly - **Lin Clark**](https://www.youtube.com/watch?v=HktWin_LPf4)
