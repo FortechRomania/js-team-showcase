@@ -39,6 +39,45 @@ Firestore is a big improvement over Realtime Database. You can find a list of di
 ### [Pricing](https://firebase.google.com/pricing/)
 * they have pretty decent free tire plan, you have the option to pay as you go or to choose a monthly subscription
 
+### Sample Code
 
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Firestore</title>
+</head>
+<body>
+    <div id="content">Loading...</div>
+    <script src="https://www.gstatic.com/firebasejs/4.6.0/firebase.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.6.0/firebase-firestore.js"></script>
+    <script>
+        const config= {
+            //All this information can be found in your firebase console ( unique for each project )
+            apiKey: "Your Api Key",
+            authDomain: "Your AuthDomain",
+            databaseURL: "Your DatabaseURL",
+            projectId: "Your Project ID",
+            storageBucket: "Your storage bucket",
+            messagingSenderId: "Your ID"
+        };
+        firebase.initializeApp( config );
+        const db = firebase.firestore( );//geting the reference to the firestore database
+        const posts = db.collection( "posts" )
+                  .onSnapshot( snapshot => {
+                    const target =  document.querySelector( "#content" );
+                    let html = "";
+                    if ( snapshot ) {
+                        snapshot.forEach( doc => {
+                            const { title, content, addedTime } = doc.data( );
+                            html += `<div>${ doc.id }</div><div>Title: ${ title }</div><div>${ content }</div><hr />`;
+                        } );
+                        target.innerHTML = html;
+                    }
+                } );
+</script>
+</body>
+</html>
+```
 ### Resources
 * [Youtube Official Firebase Channel](https://www.youtube.com/user/Firebase)
