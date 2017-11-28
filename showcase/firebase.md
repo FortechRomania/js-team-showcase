@@ -29,6 +29,16 @@ Firestore is a big improvement over Realtime Database. You can find a list of di
 * Supports authentication using, email/password, phone numbers and also popular federated identity providers like Google, Facebook, Twitter…
 * You can use the Firebase Authentication SDK or FirebaseUI Auth
 
+### Cloud Storage
+* is design to help you quickly and easily store and serve user-generated content, such as photos and videos
+
+### Firebase Hosting
+* its an easy to use file hosting, you files will be served from CDNs using http2
+
+
+### [Pricing](https://firebase.google.com/pricing/)
+* they have pretty decent free tire plan, you have the option to pay as you go or to choose a monthly subscription
+
 
 ### Resources
 * [Youtube Official Firebase Channel](https://www.youtube.com/user/Firebase)
