@@ -19,5 +19,6 @@ The core module is built out of the following sub-modules:
 Now that you have a strong foundation, it's time to build!
 
 Currently we have development programs for the following specializations:
-* [React.js](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/full-stack/reactjs.md)
-* [Node.js](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/full-stack/nodejs.md)
+* [React](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/full-stack/reactjs.md)
+* [Angular](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/full-stack/angular.md)
+* [Node](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/full-stack/nodejs.md)
