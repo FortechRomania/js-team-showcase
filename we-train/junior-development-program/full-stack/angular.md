@@ -51,7 +51,7 @@ You should enhance your application by:
 * Adding a Watchlist functionality with its own page
 
 ### Advanced topics
-* Check out the official angular [style guide](https://angular.io/guide/styleguide) for everything from naming convetions to a suggested application structure 
+* Check out the official angular [style guide](https://angular.io/guide/styleguide) for everything from naming conventions to a suggested application structure 
 * Read about testing components and services in this [guide[(https://angular.io/guide/testing)
 
 You could further enhance your app by:
