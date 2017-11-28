@@ -45,10 +45,18 @@ There are a couple of useful patterns in Angular which should be studied in deta
 * [Stateful and stateless components](https://toddmotto.com/stateful-stateless-components)
 * Observable data services [a blog post](https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/) or the `Data Architecture with Observables and RxJS` chapter from the [Ng-book](https://www.ng-book.com/2/)
 
+You should enhance your application by: 
+* Making the movie list component the only stateful component and keep the rest as stateless components
+* Upgrade your services to use Behavior Subjects
+* Adding a Watchlist functionality with its own page
 
 ### Advanced topics
 * Check out the official angular [style guide](https://angular.io/guide/styleguide) for everything from naming convetions to a suggested application structure 
-* Write unit tests for your components and services following this [guide[(https://angular.io/guide/testing)
+* Read about testing components and services in this [guide[(https://angular.io/guide/testing)
+
+You could further enhance your app by:
+* Restructuring to have a movie feature folder, a core folder and a shared folder
+* Write tests for your component and services
 
 ### Recommended time
 This module should take 4 to 5 weeks of learning and practicing.
