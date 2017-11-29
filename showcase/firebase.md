@@ -74,17 +74,17 @@ In the sample code below we:
         firebase.initializeApp( config );
         const db = firebase.firestore( );//geting the reference to the firestore database
         db.collection( "posts" )
-                  .onSnapshot( snapshot => {
-                    const target =  document.querySelector( "#content" );
-                    let html = "";
-                    if ( snapshot ) {
-                        snapshot.forEach( doc => {
-                            const { title, content, addedTime } = doc.data( );
-                            html += `<div>${ doc.id }</div><div>Title: ${ title }</div><div>${ content }</div><hr />`;
-                        } );
-                        target.innerHTML = html;
-                    }
-                } );
+          .onSnapshot( snapshot => {
+            const target =  document.querySelector( "#content" );
+            let html = "";
+            if ( snapshot ) {
+              snapshot.forEach( doc => {
+                const { title, content } = doc.data( );
+                   html += `<div>${ doc.id }</div><div>Title: ${ title }</div><div>${ content }</div><hr />`;
+              } );
+              target.innerHTML = html;
+            }
+        } );
 </script>
 </body>
 </html>
