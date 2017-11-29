@@ -4,9 +4,12 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 ## Programming
 * [On the spectrum of Abstraction - **Cheng Lou**](https://www.youtube.com/watch?v=mVVNJKv9esE)
 * [Idée Fixe - **David Nolen**](https://www.youtube.com/watch?v=lzXHMy4ewtM)
-* [The Future of Programming - **Bob Martin (Uncle Bob)**](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=1638s) ( clean code, history )
+* [The Future of Programming - **Robert Martin**](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=1638s) ( clean code, history )
 * [Simplicity Matters - **Rich Hickey**](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [The Melting Pot of JavaScript - **Dan Abramov**](https://www.youtube.com/watch?v=G39lKaONAlA)
+* [Functional Programming: What? Why? When? - **Robert Martin**](https://vimeo.com/97514630)
+* [Microservices - **Martin Fowler**](https://www.youtube.com/watch?v=wgdBVIX9ifA) (architecture)
+* [The Many Meanings of Event-Driven Architecture - **Martin Fowler**](https://www.youtube.com/watch?v=STKCRSUsyP0) (architecture)
 
 ## JavaScript
 * [The JavaScript Starter Kit Manifesto - **Cory House**](https://www.youtube.com/watch?v=jubd2opc4Ps)( tools, setup )
@@ -18,6 +21,7 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 * [Down the Rabbit Hole: Javascript in Wonderland - **Claudia Hernández**](https://www.youtube.com/watch?v=gE9xn-KOp1I) ( fun and weird javascript )
 * [Async Programming in ES7 - **Jafar Husain**](https://www.youtube.com/watch?v=lil4YCCXRYc)
 * [A Cartoon Intro to Fiber - **Lin Clark**](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+* [Unorthodox Performance - **John-David Dalton**](https://www.youtube.com/watch?v=NthmeLEhDDM) ( lodash, coding )
 
 ## Web
 * [A Cartoon Intro to WebAssembly - **Lin Clark**](https://www.youtube.com/watch?v=HktWin_LPf4)
