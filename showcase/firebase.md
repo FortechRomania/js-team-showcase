@@ -5,8 +5,7 @@
 Firebase is a Backend-as-a-Service.
  
 
-Firebase helps developers to focus on more import stuff, like delivering good experience for the user, without worrying about the backend, sync data or scalability.
-You can find all the products offered by Firebase [here]( https://firebase.google.com/products/ ).
+Firebase helps developers to focus on more import stuff, like delivering good experience for users, without worrying about the backend, data synchronization or scalability.
 
 Firebase SDK offers integration with:
 * Android
@@ -23,7 +22,7 @@ Firebase also has an handful of libraries that help integration with different l
 Firebase offers two types of databases, both NoSQL: Realtime Database and Firestore. Firestore is in beta, but is the new flagship of Google Firebase.
 Firestore is a big improvement over Realtime Database. You can find a list of differences between them [ here. ](https://firebase.google.com/docs/database/rtdb-vs-firestore)
 
-**The most important feature of firebase databases is that it keeps all your data in sync automatically through WebSockets.**. This way you can sync your data to all your clients almost instantly. The other option would be get your data from the database only when you request it.
+**The most important feature of firebase databases is that it keeps all your data in sync automatically through WebSockets.**. This way you can sync your data to all your clients almost instantly. The other option would be get your data from the database only when you request it. It all depends on the type of application you wish to develop, if you need instant data syncronization or not.
 ### Authentication
 * Supports authentication using, email/password, phone numbers and also popular federated identity providers like Google, Facebook, Twitter…
 * You can use the Firebase Authentication SDK or FirebaseUI Auth
@@ -38,6 +37,9 @@ Firestore is a big improvement over Realtime Database. You can find a list of di
 ### Pricing
 * they have pretty decent free tire plan, you have the option to pay as you go or to choose a monthly subscription
 * [more about pricing](https://firebase.google.com/pricing/)
+
+
+You can find all the products offered by Firebase [here]( https://firebase.google.com/products/ ).
 
 ### Sample Code
 In the sample code below we:
@@ -89,3 +91,4 @@ In the sample code below we:
 ```
 ### Resources
 * [Youtube Official Firebase Channel](https://www.youtube.com/user/Firebase)
+
