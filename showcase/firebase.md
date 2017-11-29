@@ -23,8 +23,7 @@ Firebase also has an handful of libraries that help integration with different l
 Firebase offers two types of databases, both NoSQL: Realtime Database and Firestore. Firestore is in beta, but is the new flagship of Google Firebase.
 Firestore is a big improvement over Realtime Database. You can find a list of differences between them [ here ](https://firebase.google.com/docs/database/rtdb-vs-firestore).
 
-**The most important feature of firebase databases is that it keeps all your data in sync automatically through WebSockets.**. This way you can sync your data to all your clients almost instanlty.
-
+**The most important feature of firebase databases is that it keeps all your data in sync automatically through WebSockets.**. This way you can sync your data to all your clients almost instantly. The other option would be get your data from the database only when you request it.
 ### Authentication
 * Supports authentication using, email/password, phone numbers and also popular federated identity providers like Google, Facebook, Twitter…
 * You can use the Firebase Authentication SDK or FirebaseUI Auth
@@ -40,6 +39,14 @@ Firestore is a big improvement over Realtime Database. You can find a list of di
 * they have pretty decent free tire plan, you have the option to pay as you go or to choose a monthly subscription
 
 ### Sample Code
+In the sample code below we:
+* import firebase
+* set in the config all the information to the firestore database
+* we initialize firebase with the configuration info
+* we save the firestore reference in db
+* then we access the posts from the database and listen for any changes with onSnapshot function
+* then we add each post inside the targeted div
+* if any changes are done in the posts database, we get the updates almost instantly
 
 ```html
 <!DOCTYPE html>
@@ -63,7 +70,7 @@ Firestore is a big improvement over Realtime Database. You can find a list of di
         };
         firebase.initializeApp( config );
         const db = firebase.firestore( );//geting the reference to the firestore database
-        const posts = db.collection( "posts" )
+        db.collection( "posts" )
                   .onSnapshot( snapshot => {
                     const target =  document.querySelector( "#content" );
                     let html = "";
