@@ -80,7 +80,7 @@ In the sample code below we:
             if ( snapshot ) {
               snapshot.forEach( doc => {
                 const { title, content } = doc.data( );
-                   html += `<div>${ doc.id }</div><div>Title: ${ title }</div><div>${ content }</div><hr />`;
+                   html += `<div>${ doc.id }</div><div>${ title }</div><div>${ content }</div><hr/>`;
               } );
               target.innerHTML = html;
             }
