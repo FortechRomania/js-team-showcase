@@ -22,11 +22,13 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 * [Async Programming in ES7 - **Jafar Husain**](https://www.youtube.com/watch?v=lil4YCCXRYc)
 * [A Cartoon Intro to Fiber - **Lin Clark**](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 * [Unorthodox Performance - **John-David Dalton**](https://www.youtube.com/watch?v=NthmeLEhDDM) ( lodash, coding )
+* [Hey Underscore, You're Doing It Wrong - **Brian Lonsdorf**](https://www.youtube.com/watch?v=m3svKOdZijA) ( functional programming )
 
 ## Web
 * [A Cartoon Intro to WebAssembly - **Lin Clark**](https://www.youtube.com/watch?v=HktWin_LPf4)
 * [What if the user was a function? - **Andre Staltz**](https://www.youtube.com/watch?v=1zj7M1LnJV4)
 * [Production Progressive Web Apps With JavaScript Frameworks - **Addy Osmani**](https://www.youtube.com/watch?v=aCMbSyngXB4) ( PWA, performance )
+* [Critical Rendering Path - **Ilya Grigorik**](https://www.youtube.com/watch?v=PkOBnYxqj3k)
 
 ## Process
 * [Implementing Programmer Anarchy - **Fred George**](https://www.youtube.com/watch?v=tIxHmsWCd7g)
