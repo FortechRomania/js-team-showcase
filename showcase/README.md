@@ -17,5 +17,5 @@ We're gathering here a list of activites, concepts, frameworks and libraries whi
 ### Specific Technologies
 
 * [GraphQL](https://github.com/FortechRomania/js-team-showcase/blob/master/showcase/graphql.md)
-* Firebase (coming soon)
+* [Firebase](https://github.com/FortechRomania/js-team-showcase/blob/master/showcase/firebase.md)
 * nginx (coming soon)
