@@ -10,6 +10,7 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 * [Functional Programming: What? Why? When? - **Robert Martin**](https://vimeo.com/97514630)
 * [Microservices - **Martin Fowler**](https://www.youtube.com/watch?v=wgdBVIX9ifA) (architecture)
 * [The Many Meanings of Event-Driven Architecture - **Martin Fowler**](https://www.youtube.com/watch?v=STKCRSUsyP0) (architecture)
+* [The Value of Values - **Rich Hickey**](https://www.infoq.com/presentations/Value-Values)
 
 ## JavaScript
 * [The JavaScript Starter Kit Manifesto - **Cory House**](https://www.youtube.com/watch?v=jubd2opc4Ps)( tools, setup )
