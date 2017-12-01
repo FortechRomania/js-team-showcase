@@ -30,11 +30,11 @@ Firestore is the next generation of Realtime Database, it has better queries and
 * is design to help you quickly and easily store and serve user-generated content, such as photos and videos
 
 ### Firebase Hosting
-* its an easy to use file hosting, you files will be served from CDNs using http2
+* its an easy to use file hosting, your files will be served from CDNs using http2
 
 
 ### Pricing
-* they have pretty decent free tire plan, you have the option to pay as you go or to choose a monthly subscription
+* they have pretty decent free tier plan, you have the option to pay as you go or to choose a monthly subscription
 * [more about pricing](https://firebase.google.com/pricing/)
 
 
