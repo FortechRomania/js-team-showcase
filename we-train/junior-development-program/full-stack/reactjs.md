@@ -1,4 +1,4 @@
-## React.js
+## React
 
 ### Introduction
 Start [here](https://github.com/petehunt/react-howto) to understand the context of React.
