@@ -12,7 +12,7 @@ Once you've built your first GraphQL server you can check this article with a ni
 
 ### GraphQL and Apollo
 This 6-part article is a great reference to start building a React app powered by a GraphQL backend. **Apollo** is an easy-to-use client for GraphQL which allows you to write queries and mutations on any frontend application in order to communicate with a GraphQL endpoint. This series of articles goes through the basic functionalities exposed by **React-Apollo**, the library used for connecting React apps to GraphQL.
-* [Getting started with React-Apollo](https://www.howtographql.com/react-apollo/1-getting-started/)
+* [Getting started with React-Apollo](https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
 
 **Notes**
 Be aware that GraphQL and Apollo are at new versions at the moment so setup might be a bit different. Took me a while to figure out exactly how to do it. The recommended approach is to visit the [oficial documentation](https://www.apollographql.com/docs/react/basics/setup.html) for setting up `React-Apollo`.
@@ -37,16 +37,15 @@ const client = new ApolloClient( {
 } );
 ```
 
-Also, keep in mind that you need a proxy server when you're running both the frontend and the backend on different ports. You can easily do that in `create-react-app` with the `proxy` setting in `package.json`
+Also, keep in mind that you to set your express server to allow cross-origin requests since the backend and the frontend will run on different ports. You can easily to that with the `cors` package in express.
 
-```javascript
-"proxy": {
-  "/graphql": {
-    "target": "http://localhost:4000/graphql",
-    "ws": true
-  }
-}
 ```
+const cors = require( "cors" );
+
+server.use( "*", cors( { origin: "http://localhost:3000" } ) );
+```
+
+Also please note that when adding **subscriptions**, the interface of the `apollo client` setup is changed drastically. You can follow the [example code from this repo](https://github.com/alexnm/graphql-playground) that I created to make it work. You can easily follow the [official documentation](https://www.apollographql.com/docs/react/features/subscriptions.html) also.
 
 The rest of the code is similar with what is described in the article.
 
@@ -55,7 +54,11 @@ Also worth reading while getting deeper into React-Apollo:
 * [Optimistic UI](https://www.apollographql.com/docs/react/features/optimistic-ui.html)
 * [Using Fragments](https://www.apollographql.com/docs/react/features/fragments.html)
 
-### Full stack GraphQL with Subscriptions
+### Demo
 
-* [Reference](https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
-* [Reference](https://blog.graph.cool/how-to-build-a-real-time-chat-with-graphql-subscriptions-and-apollo-d4004369b0d4)
+[Here is a demo app](https://github.com/alexnm/graphql-playground) I built using the major features of `GraphQL`.
+
+### Further reading
+
+* [Getting started with React and Apollo](https://www.howtographql.com/react-apollo/1-getting-started/)
+* [Building a real-time chat with GraphQL](https://blog.graph.cool/how-to-build-a-real-time-chat-with-graphql-subscriptions-and-apollo-d4004369b0d4)
