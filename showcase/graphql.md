@@ -15,6 +15,7 @@ This 6-part article is a great reference to start building a React app powered b
 * [Getting started with React-Apollo](https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
 
 **Notes**
+
 Be aware that GraphQL and Apollo are at new versions at the moment so setup might be a bit different. Took me a while to figure out exactly how to do it. The recommended approach is to visit the [oficial documentation](https://www.apollographql.com/docs/react/basics/setup.html) for setting up `React-Apollo`.
 
 The suggested way for first time users is
