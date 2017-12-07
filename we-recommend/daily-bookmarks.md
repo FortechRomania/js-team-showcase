@@ -1,5 +1,9 @@
 # Web Development Bookmarks
 
+### 07.12.2017
+- [Web Development in 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
+    - tags: web development
+
 ### 22.11.2017
 - [The cost of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
     - tags: javascript, performance
