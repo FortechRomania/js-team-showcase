@@ -5,6 +5,8 @@ Start [here](https://github.com/petehunt/react-howto) to understand the context 
 
 Follow [this tutorial](https://egghead.io/courses/start-using-react-to-build-web-applications) to get a good grasp of the major features of React. 
 
+Also [on egghead](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db), a good reference for beginner and advanced usages for React.
+
 Also [a good read](https://engineering.opsgenie.com/i-wish-i-knew-these-before-diving-into-react-301e0ee2e488) before you get started.
 
 Exercise: Re-write your image slider using React.
