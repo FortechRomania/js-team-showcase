@@ -2,16 +2,16 @@
 
 ### Getting familiar with nginx
 Nginx is a free, open-source, high-performance HTTP server and reverse proxy. We use their official [website](http://nginx.org/en/) to read about their latest updates. We use also [Digital Ocean](https://www.digitalocean.com) for learning purposes.
-This [link](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms) might help you start your work in this direction. This [beginner's guide](http://nginx.org/en/docs/beginners_guide.html) might also come in handy;
+This [link](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms) might help you start your work in this direction. This [beginner's guide](http://nginx.org/en/docs/beginners_guide.html) might also come in handy.
 
 We choose nginx servers because:
 * Open-Source & Free.
-* Addresses [C10k problem](http://www.kegel.com/c10k.html)
+* Addresses [C10k problem](http://www.kegel.com/c10k.html).
 * Easy to install. Easy to  configure.
 * Designed for big apps but also suitable for small ones.
 * Scales in all directions: from the smallest VPS to large clusters of servers.
 * Not threaded to handle requests.
-* Small and predictable amounts of memory under load
+* Small and predictable amounts of memory under load.
 
 #### How to install
 Depending on the operating system: installation steps described [here](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/).
@@ -74,23 +74,23 @@ nginx -s reopen
 
 #### Main configuration blocks
 * http - main configuration from the `nginx.conf` file; in this block the universal configuration is done.
-* server - block that contains all the configuration for the virtual server;
+* server - block that contains all the configuration for the virtual server.
 * listen - describes addresses and ports that accept connection with the server. In this block can be defined one of the following:
 
-- an ip/address/port combination,
-- a lone IP what will listen the default port 80,
-- a lone port that will listen every address on that port,
-- a path to other unix socket.
+    - an ip/address/port combination
+    - a lone IP what will listen the default port 80
+    - a lone port that will listen every address on that port
+    - a path to other unix socket
 
-* server_name - indicates all server names. With this block you can define several names for your server. Keep in mind that the  1st name listed is the primary name. The server can be a string that can contain `*`, `~`, or regex;
-* ssl_certificate & ssl_certificate_key - blocks applicable for https; they indicate the paths to ssl certificates;
-* error_log, access_log - blocks used to indicate the path where logs will be stored;
-* location - block with config used for handling requests for different resources and URIs for the parent server;
+* server_name - indicates all server names. With this block you can define several names for your server. Keep in mind that the  1st name listed is the primary name. The server can be a string that can contain `*`, `~`, or regex.
+* ssl_certificate & ssl_certificate_key - blocks applicable for https; they indicate the paths to ssl certificates.
+* error_log, access_log - blocks used to indicate the path where logs will be stored.
+* location - block with config used for handling requests for different resources and URIs for the parent server.
 * gzip - block used for on-the-fly gzip compression to limit the amount of bandwidth used and speed up some transfers. This block can be configured in such matter that only files bigger than a certain size are included in the gzip compression - only relevant compression is done and the transfer process is done rapidly.
-* root - sets the root directory for requests;
-* index - defines what will be used as index; it is nested inside location for internal redirect;
-* proxy_pass - if specified inside a location, this directive passed a request to an HTTP proxied server;
-* try_files - checks the existence of files in the specified order and uses the first found file for request processing; the processing is performed in the current context;
+* root - sets the root directory for requests.
+* index - defines what will be used as index; it is nested inside location for internal redirect.
+* proxy_pass - if specified inside a location, this directive passed a request to an HTTP proxied server.
+* try_files - checks the existence of files in the specified order and uses the first found file for request processing; the processing is performed in the current context.
 * alias: defines a replacement for the specified location.
 
 #### Configuration example
