@@ -6,7 +6,7 @@ This [link](https://www.digitalocean.com/community/tutorials/understanding-nginx
 
 We choose nginx servers because:
 * Open-Source & Free.
-# Addresses [C10k problem](http://www.kegel.com/c10k.html)
+* Addresses [C10k problem](http://www.kegel.com/c10k.html)
 * Easy to install. Easy to  configure.
 * Designed for big apps but also suitable for small ones.
 * Scales in all directions: from the smallest VPS to large clusters of servers.
@@ -25,7 +25,7 @@ sudo apt-get install nginx
 
 #### Server Configuration Structure
 * /etc/nginx: contains all configuration files.
-* /etc/nginx/nginx.conf: the main/universal nginx configuration file. 
+* /etc/nginx/nginx.conf: the main/universal nginx configuration file.
 * /etc/nginx/sites-available/: the directory where all "server blocks" can be stored. nginx will not use the configuration files found in this directory unless they are linked to the sites-enabled directory. Typically, all server block configuration is done in this directory, and then enabled by linking to the other directory.
 * /etc/nginx/sites-enabled/: The directory where all enabled "server blocks" are stored. Typically, these are created by linking to configuration files found in the sites-available directory.
 
@@ -76,10 +76,15 @@ nginx -s reopen
 * http - main configuration from the `nginx.conf` file; in this block the universal configuration is done.
 * server - block that contains all the configuration for the virtual server;
 * listen - describes addresses and ports that accept connection with the server. In this block can be defined one of the following:
+
 ** an ip/address/port combination,
+
 ** a lone IP what will listen the default port 80,
+
 ** a lone port that will listen every address on that port,
+
 ** a path to other unix socket.
+
 * server_name - indicates all server names. With this block you can define several names for your server. Keep in mind that the  1st name listed is the primary name. The server can be a string that can contain `*`, `~`, or regex;
 * ssl_certificate & ssl_certificate_key - blocks applicable for https; they indicate the paths to ssl certificates;
 * error_log, access_log - blocks used to indicate the path where logs will be stored;
