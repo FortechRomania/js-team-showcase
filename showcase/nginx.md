@@ -1,4 +1,4 @@
-## Nginx
+# Nginx
 
 ### Getting familiar with nginx
 Nginx is a free, open-source, high-performance HTTP server and reverse proxy. We use their official [website](http://nginx.org/en/) to read about their latest updates. We use also [Digital Ocean](https://www.digitalocean.com) for learning purposes.
@@ -77,13 +77,10 @@ nginx -s reopen
 * server - block that contains all the configuration for the virtual server;
 * listen - describes addresses and ports that accept connection with the server. In this block can be defined one of the following:
 
-** an ip/address/port combination,
-
-** a lone IP what will listen the default port 80,
-
-** a lone port that will listen every address on that port,
-
-** a path to other unix socket.
+- an ip/address/port combination,
+- a lone IP what will listen the default port 80,
+- a lone port that will listen every address on that port,
+- a path to other unix socket.
 
 * server_name - indicates all server names. With this block you can define several names for your server. Keep in mind that the  1st name listed is the primary name. The server can be a string that can contain `*`, `~`, or regex;
 * ssl_certificate & ssl_certificate_key - blocks applicable for https; they indicate the paths to ssl certificates;
