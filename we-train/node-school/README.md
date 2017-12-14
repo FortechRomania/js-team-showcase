@@ -1,4 +1,4 @@
-## Nodeschool Cluj
+# Nodeschool Cluj
 
 ![Nodeschool Cluj](https://nodeschool.io/cluj/node_school_logo.jpg)
 
