@@ -1,0 +1,10 @@
+# Vue.js
+
+### Getting Started
+Two options:
+* [vue-cli](https://github.com/vuejs/vue-cli) - starting from a standard template
+* [official guide](https://vuejs.org/v2/guide/) - starting from scratch
+
+### Useful links
+* [awesome vue](https://github.com/vuejs/awesome-vue) - a list of curated materials on Vue
+* [vue templates for cli](https://github.com/vuejs-templates)
