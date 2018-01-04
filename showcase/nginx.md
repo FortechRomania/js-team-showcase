@@ -96,8 +96,8 @@ nginx -s reopen
 
 
 #### Static Server Configuration Example
-The following configuration example can be used on an NGINX server that is used only to serve static content. This example in focused on the way one should define the paths that are searched to find requested files, and on how to set up index files.
-In this example, the first `root` directive defines a virtual server. Using it like that, it means that it applies to all location blocks where the root directive is not included to explicitly redefine the root/over-written. For example: for every request of an image, NGINX searches for a URI that starts with /images/ in the /www/data/images/ directory on the file system. But, in the case, of a request asks for a .mp3 file ( i.e. the URI ends with the .mp3 extension ), NGINX instead searches for the file in the /www/media/ directory because it is defined in the matching location block.
+The following configuration example can be used on an NGINX server that only serves static content. The example is focused on the way one should define the paths that are searched to find requested files, and on how to set up index files.
+The first `root` directive defined like below means that it applies to all location blocks where the root directive is not included to explicitly redefine the root/over-written. For example, take a look on the `location` directive definitions: for every request of an image, NGINX searches for a URI that starts with /images/ in the /www/data/images/ directory on the file system. But, in the case, of a request asks for a .mp3 file ( i.e. the URI ends with the .mp3 extension ), NGINX instead searches for the file in the /www/media/ directory because it is defined in the matching location block.
 If a request ends with a slash, NGINX treats it as a request for a directory and tries to find an index file in the directory. The index directive defines the index file’s name (the default value is index.html). One can list more than one filename in the index directive. NGINX searches for files in the specified order and returns the first one it finds.
 
 ```
