@@ -8,3 +8,4 @@ Two options:
 ### Useful links
 * [awesome vue](https://github.com/vuejs/awesome-vue) - a list of curated materials on Vue
 * [vue templates for cli](https://github.com/vuejs-templates)
+* [5 part article on getting started](https://css-tricks.com/guides/vue/)
