@@ -22,6 +22,47 @@ Firebase offers two types of databases, both NoSQL: Realtime Database and Firest
 Firestore is the next generation of Realtime Database, it has better queries and automatic scaling, it was build keeping in mind the drawbacks that Realtime Database had. You can find a list of differences between them [ here. ](https://firebase.google.com/docs/database/rtdb-vs-firestore)
 
 **The most important feature of firebase databases is that it keeps all your data in sync automatically through WebSockets.**. This way you can sync your data to all your clients almost instantly. The other option would be get your data from the database only when you request it. It all depends on the type of application you wish to develop, if you need instant data syncronization or not.
+
+**Data Model**
+
+Firestore data model is quite simple, the information is stored in collections, the collection contain documents.
+This is a usual data model for a NoSQL database, but one interesting feature of Firestore database is that documents can contain subcollections.
+<ul>
+ <li>Chat Rooms ( col ) </li>
+   <ul>
+    <li>
+      General ( doc )
+      <ul>
+       <li>description ( info )</li>
+       <li>
+        messages ( subcollection )
+        <ul>
+         <li>message 1 ( doc )</li>
+         <li>message 2 ( doc )</li>
+         <li>message 3 ( doc )</li>
+        </ul>
+       </li>
+      </ul>
+    </li>
+    <li>
+     Random Chat ( doc )
+     <ul>
+      <li>description ( info )</li>
+       <li>
+        messages ( subcollection )
+        <ul>
+         <li>message 1 ( doc )</li>
+         <li>message 2 ( doc )</li>
+         <li>...</li>
+        </ul>
+       </li>
+     </ul>
+    </li>
+   </ul>
+</ul>
+
+
+
 ### Authentication
 * Supports authentication using, email/password, phone numbers and also popular federated identity providers like Google, Facebook, Twitter…
 * You can use the Firebase Authentication SDK or FirebaseUI Auth
