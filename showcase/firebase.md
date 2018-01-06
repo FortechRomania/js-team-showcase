@@ -40,6 +40,15 @@ Firestore is the next generation of Realtime Database, it has better queries and
 
 You can find all the products offered by Firebase [here]( https://firebase.google.com/products/ ).
 
+Firebase can be added in two ways in a web project, you can add it as a script using a google CDN  or you can install it using npm( [Firebase](https://www.npmjs.com/package/firebase) ).
+
+```
+npm install --save firebase
+```
+One problem with firebase npm package is that is quite big and will increase your bundle size.
+![alt text](https://preview.ibb.co/edVh2G/Screen_Shot_2018_01_06_at_17_38_53.png "Firebase Size")
+
+
 ### Sample Code
 In the sample code below we:
 * import firebase
@@ -90,4 +99,6 @@ In the sample code below we:
 ```
 ### Resources
 * [Youtube Official Firebase Channel](https://www.youtube.com/user/Firebase)
+* [React Native Firebase](https://github.com/invertase/react-native-firebase) - most popular React Native and Firebase implementation ( it supports Firestore as well ).
+
 
