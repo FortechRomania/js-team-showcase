@@ -86,7 +86,7 @@ Firebase can be added in two ways in a web project, you can add it as a script u
 ```
 npm install --save firebase
 ```
-One problem with firebase npm package is that is quite big and will increase your bundle size.
+One problem with the npm package is that it is quite big and will increase your bundle size.
 ![alt text](https://preview.ibb.co/edVh2G/Screen_Shot_2018_01_06_at_17_38_53.png "Firebase Size")
 
 
