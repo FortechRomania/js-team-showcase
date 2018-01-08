@@ -6,7 +6,7 @@ In order to run JS only example, you should be familiar with how to run scripts 
 Install [nvm](https://github.com/creationix/nvm) or node version manager. This will help you switch between different versions of node with ease. Read more about [npm and package.json](https://www.sitepoint.com/beginners-guide-node-package-manager/).
 
 ### Data Structures and Algorithms
-You should [this book](http://shop.oreilly.com/product/0636920029557.do) in order to get familiar with Lists, Queues, Trees and other data structures. Each step should be code reviewed by your mentor.
+You should read [this book](https://github.com/amilajack/reading/blob/master/JavaScript/Learning%20Javascript%20Data%20Structures%20and%20Algorithms.pdf) in order to get familiar with Lists, Queues, Trees and other data structures. Each step should be code reviewed by your mentor.
 
 ### Functions
 Get familiar with JavaScript functions:
