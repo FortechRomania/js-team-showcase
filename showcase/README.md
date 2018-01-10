@@ -18,4 +18,4 @@ We're gathering here a list of activites, concepts, frameworks and libraries whi
 
 * [GraphQL](https://github.com/FortechRomania/js-team-showcase/blob/master/showcase/graphql.md)
 * [Firebase](https://github.com/FortechRomania/js-team-showcase/blob/master/showcase/firebase.md)
-* nginx (coming soon)
+* [nginx](https://github.com/FortechRomania/js-team-showcase/blob/master/showcase/nginx.md)
