@@ -25,3 +25,4 @@ A couple of points where an in-depth understanding is needed in order to build a
 * [ ] working with forms
 * [ ] integrating APIs
 * [ ] server side rendering
+* [ ] eslint config for Vue
