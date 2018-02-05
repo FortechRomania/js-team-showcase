@@ -1,5 +1,9 @@
 # Web Development Bookmarks
 
+### 05.12.2017
+- [CSS Grid changes everything](https://www.youtube.com/watch?v=txZq7Laz7_4)
+    - tags: css, css grid, talk
+
 ### 07.12.2017
 - [Web Development in 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
     - tags: web development
