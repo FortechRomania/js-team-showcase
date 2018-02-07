@@ -1,7 +1,7 @@
 # Standard Project Setup
 
 ### Common
-We try to approach all projects, small or large, with a consistent project setup. This includes things like [a common eslint config](https://github.com/FortechRomania/js-team-showcase/blob/master/how-we-work/coding-guidelines.md), a common to npm tasks and git flows, a common folder structure. Towards the end of the document, we will go through the specific setup aspects for React/Angular or other framework centric projects.
+We try to approach all projects, small or large, with a consistent project setup. This includes things like [a common eslint config](https://github.com/FortechRomania/js-team-showcase/blob/master/how-we-work/coding-guidelines.md), a common approach to npm tasks and git flows, a common folder structure. Towards the end of the document, we will go through the specific setup aspects for React/Angular or other framework centric projects.
 
 Let's have a look at a standard `package.json` on one our our projects:
 ```javascript
