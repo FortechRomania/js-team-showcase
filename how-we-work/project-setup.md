@@ -40,6 +40,7 @@ Let's have a look at a standard `package.json` on one our our projects:
     "babel": "^6.3.26",
     "babel-eslint": "^7.1.1",
     "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
     "bundlesize": "^0.15.3",
     "eslint": "^4.8.0",
     "eslint-config-fortech": "^2.0.2",
