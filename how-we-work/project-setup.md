@@ -55,6 +55,20 @@ Let's have a look at a standard `package.json` on one our our projects:
 
 ```
 
+Let's cover a few tools / libs from this setup.
+
+#### Webpack
+
+#### Babel
+
+#### Jest/Mocha
+
+#### ESLint
+
+#### Bundlesize
+
+#### Husky
+
 ### React
 Under construction
 
