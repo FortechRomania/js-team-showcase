@@ -40,6 +40,8 @@ Read about [airbnb's styleguide](https://github.com/airbnb/javascript) and the r
 ### Unit testing
 Test suites ensure that our code is stable as we perform changes or refactor over time. Test some of your existing code with mocha following [this tutorial](https://www.sitepoint.com/unit-test-javascript-mocha-chai/). Make sure you write tests for all the remaining exercises you do.
 
+[Further reading](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3) on unit testing and all the elements of the testing ecosystem.
+
 ### Asynchronous Programming
 Learn about the model of execution in JavaScript and the call stack. Wrap your head around asynchronous programming with the following resources:
 * [Understand the event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
