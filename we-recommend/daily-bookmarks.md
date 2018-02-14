@@ -1,6 +1,13 @@
 # Web Development Bookmarks
 
-### 05.12.2017
+
+
+### 14.02.2017
+- [Modern CSS explained for dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
+    - tags: css, css grid, article
+
+
+### 05.02.2017
 - [CSS Grid changes everything](https://www.youtube.com/watch?v=txZq7Laz7_4)
     - tags: css, css grid, talk
 
