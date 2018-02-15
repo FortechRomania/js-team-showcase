@@ -1,7 +1,7 @@
 # Web Development Bookmarks
 
 
-### 14.02.2018
+### 15.02.2018
 - [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
     - tags: css, css grid, article
 
