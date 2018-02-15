@@ -2,12 +2,17 @@
 
 
 
-### 14.02.2017
+### 14.02.2018
 - [Modern CSS explained for dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
     - tags: css, css grid, article
 
+### 09.02.2018
+- [An overview of javascript testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+    - tags: javascript, tests, tools
+- [Performance improvements in webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
+    - tags: webpack, performance, web
 
-### 05.02.2017
+### 05.02.2018
 - [CSS Grid changes everything](https://www.youtube.com/watch?v=txZq7Laz7_4)
     - tags: css, css grid, talk
 
