@@ -10,6 +10,8 @@ Learn about elements and attributes by practicing on this [tutorial](https://www
 
 Learn about element [positioning](https://www.pluralsight.com/courses/css-positioning-1834). Play around with relative, absolute, fixed and static positions.
 
+[A nice read](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) to get a good understanding of the entire modern css ecosystem.
+
 ### Excercises
 Practice your HTML and CSS skills on the following tasks:
 * [blog homepage](https://drive.google.com/file/d/0BzeWN3ftbKueZlh2LTRWNE9Dc2c/view)
