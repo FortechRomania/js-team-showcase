@@ -1,6 +1,10 @@
 # Web Development Bookmarks
 
 
+### 22.02.2018
+- [Encoding URL (EncodeURI vs EncodeURIComponent)](https://coderwall.com/p/y347ug/encodeuri-vs-encodeuricomponent)
+    - tags: javascript, encoding, url
+ 
 ### 15.02.2018
 - [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
     - tags: react, performance, article
