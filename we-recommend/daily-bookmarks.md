@@ -1,7 +1,7 @@
 # Web Development Bookmarks
 
 ### 01.03.2018
-- [When to use Component or PureComponent] (https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
+- [When to use Component or PureComponent](https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
 
 ### 22.02.2018
 - [Encoding URL (EncodeURI vs EncodeURIComponent)](https://coderwall.com/p/y347ug/encodeuri-vs-encodeuricomponent)
