@@ -1,6 +1,9 @@
 # Web Development Bookmarks
 
 ### 01.03.2018
+- [V8 Internals for JavaScript Developers](https://www.youtube.com/watch?v=EhpmNyR2Za0)
+
+### 01.03.2018
 - [When to use Component or PureComponent](https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
 
 ### 22.02.2018
