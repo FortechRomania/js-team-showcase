@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 14.03.2018
+- [How to be a great junior team member](https://medium.muz.li/how-to-be-a-great-junior-team-member-649740ccb757 )
+
 ### 01.03.2018
 - [V8 Internals for JavaScript Developers](https://www.youtube.com/watch?v=EhpmNyR2Za0)
 
