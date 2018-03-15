@@ -21,7 +21,7 @@ We have a couple of rules that we follow while reviewing each other's work:
 * Make sure PRs are **small enough** to be easily grasped by your teammates.
 * Treat code reviews with the **highest priority** during a sprint.
 * Do not test functionality, unless specific cases for front-end (cross-browser, responsiveness, edge cases).
-* Review for: LOGIC > REFACTORING OPPORTUNITIES > CODING STYLE in this order.
+* Split your time between the following: LOGIC > REFACTORING OPPORTUNITIES > CODING STYLE keeping this order of importance.
 * Give your feedback in max 48h from when the PR was open
 * On high complexity tasks, have two reviewers who approve the changes.
 
