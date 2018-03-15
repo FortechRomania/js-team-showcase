@@ -16,5 +16,14 @@ Together with this, we follow a couple of rules when working on projects:
 * Make use of CI pipelines to automatically deploy any changes to `master` in a **QA environment**.
 * Use a simple tag naming convention, ex: 1.0.0.
 
+## Code Reviews
+We have a couple of rules that we follow while reviewing each other's work:
+* Make sure PRs are **small enough** to be easily grasped by your teammates.
+* Treat code reviews with the **highest priority** during a sprint.
+* Do not test functionality, unless specific cases for front-end (cross-browser, responsiveness, edge cases).
+* Review for: LOGIC > REFACTORING OPPORTUNITIES > CODING STYLE in this order.
+* Give your feedback in max 48h from when the PR was open
+* On high complexity tasks, have two reviewers who approve the changes.
+
 ## CI/CD
 Coming soon
