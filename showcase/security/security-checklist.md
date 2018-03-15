@@ -76,6 +76,8 @@ The simplest application attack is automated and consists of credential stuffing
 
 
 Read more about broken authentication and session management at this [link](https://www.owasp.org/index.php/Broken_Authentication_and_Session_Management).
+
+
 Still, to avoid this we propose the following:
 * Implement multi-factor authentication (MFA) - prevents automated, credential stuffing, brute force and stolen credential reuse attacks. E.g. gmail, internet banking apps.
 * Apply the principle of least privilege - allow an user to access only the user's dedicated content; the rest should be denied.
