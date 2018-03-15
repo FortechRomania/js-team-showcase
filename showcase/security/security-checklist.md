@@ -59,20 +59,22 @@ We propose to focus on the following actions:
 ## Dependency Vulnerabilities
 Some of the attacks occur because some of the applications use already built components or dependencies that have vulnerabilities.
 We propose to focus on the following actions:
-* Remove unused dependencies
-* Remove unnecessary features and components
-* Do not add or expose files or documentation that is not supposed to be there (e.g. api docs)
-* Check the versioning of components ( both front-end and back-end dependencies ) - use yarn outdated or npm outdated to check it
-* Use components from official sources and use secure links
+* Remove unused dependencies.
+* Remove unnecessary features and components.
+* Do not add or expose files or documentation that is not supposed to be there (e.g. api docs).
+* Check the versioning of components ( both front-end and back-end dependencies ) - use `yarn outdated` or `npm outdated` to check it.
+* Use components from official sources and use secure links.
 * Check for libraries and components that are unmaintained or have no security patches for older versions.
 * For Javascript you can use [snyk](https://snyk.io/) to determine any possible vulnerabilities in the app’s packages.
 
 
 ## Broken Authentication and Session Management
 The simplest application attack is automated and consists of credential stuffing i.e. the attacker has a list of valid usernames and passwords and tries them all until one is valid. That is why the app should not permit:
-* brute force or other automated attacks,
-* default, weak, or well-known passwords, such as "Password1" or "admin/admin“, uses weak or ineffective credential recovery and forgotpassword processes, such as "knowledge-based answers", which cannot be made safe,
-* plain text, encrypted, or weakly hashed passwords.
+* Brute force or other automated attacks,
+* Default, weak, or well-known passwords, such as "Password1" or "admin/admin“, uses weak or ineffective credential recovery and forgotpassword processes, such as "knowledge-based answers", which cannot be made safe,
+* Plain text, encrypted, or weakly hashed passwords.
+
+
 Read more about broken authentication and session management at this [link](https://www.owasp.org/index.php/Broken_Authentication_and_Session_Management).
 Still, to avoid this we propose the following:
 * Implement multi-factor authentication (MFA) - prevents automated, credential stuffing, brute force and stolen credential reuse attacks. E.g. gmail, internet banking apps.
@@ -108,19 +110,19 @@ For validation, the focus is on:
 [CSRF](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)) is an attack that occurs when a malicious web site, email, blog, instant message, or program causes a user’s web browser to perform an unwanted action on a trusted site for which the user is currently authenticated. This attack can result in transfer funds, password changing, items purchased in the user’s name.
 To prevent this type of the attack we suggest the following checks:
 * Check standard headers to verify the request has the same origin i.e. :     
-1. Determine where is the request coming from ( source origin ). To identify the source origin, we recommend using one of these two standard headers that almost all requests include one or both of the Origin Header or the Referer Header.
-2. Determine where is the request going to ( target origin ).
+    1. Determine where is the request coming from ( source origin ). To identify the source origin, we recommend using one of these two standard headers that almost all requests include one or both of the Origin Header or the Referer Header.
+    2. Determine where is the request going to ( target origin ).
 * Add CSRF token validation
 * Use POST instead of GET. This option is not always effective but it gives more work to the attacker.
 * Implement intermediate confirmation pages to inform the user that the operation might have other output that the one desired ( “Are you sure you really want to do this?”, “Do you want to leave the current page?” ) - not always effective but it gives more work to the attacker.
 * Implement automatic logout mechanisms.
 * For Node applications use [helmet](https://github.com/helmetjs/helmet) package to hide several details about the app. Helmet is a pluggable library for [ExpressJS](https://github.com/helmetjs/helmet) and [KOA](https://github.com/venables/koa-helmet) frameworks which provides a wide range of solutions related to the transport security layer. For example add the following to your code:
-- `app.use(helmet.noCache());` to prevent the browser from caching/storing the page
-- `app.use(helmet.csp());` to allow loading websites/resources only from whitelisted domains;
-- `app.use(helmet.hsts());` to block any HTTP requests and allows communication only on HTTPS;
-- `app.use(csrf());` to enable express CSRF protection;
-- `app.use(nosniff());` to force the browser to only use the Content-Type set in the response header instead of sniffing or guessing it.
-* For Node, there is another package that can be used. [CSRF](https://www.npmjs.com/package/csrf) module can be used as middleware to validate an additional token that can come from the front-end part of the app. 
+    - `app.use(helmet.noCache());` to prevent the browser from caching/storing the page
+    - `app.use(helmet.csp());` to allow loading websites/resources only from whitelisted domains;
+    - `app.use(helmet.hsts());` to block any HTTP requests and allows communication only on HTTPS;
+    - `app.use(csrf());` to enable express CSRF protection;
+    - `app.use(nosniff());` to force the browser to only use the Content-Type set in the response header instead of sniffing or guessing it.
+* For Node, there is another package that can be used. [CSRF](https://www.npmjs.com/package/csrf) module can be used as middleware to validate an additional token that can come from the front-end part of the app.
 
 
 ## Cross-Site Scripting ( XSS )
