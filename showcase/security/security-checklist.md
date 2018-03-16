@@ -6,7 +6,7 @@ Security in web applications is very important and, at this moment, we consider 
 We want to do it right, reason for which we have put together a small checklist to help us guide through the must have security checks. Some of the checks can be implemented at the code-level while others are musts on a server setup.
 Most of the solutions mentioned here are focused on Javascript.
 The main topics discussed on this paged are:
-* System Misconfiguration
+* [System Misconfiguration](https://github.com/FortechRomania/js-team-showcase/blob/master/showcase/security/security-checklist.md#system-misconfiguration)
 * Sensitive Data Exposure
 * Dependency Vulnerabilities
 * Broken Authentication and Session Management
