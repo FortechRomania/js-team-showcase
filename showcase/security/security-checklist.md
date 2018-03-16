@@ -5,17 +5,17 @@
 Security in web applications is very important and, at this moment, we consider that few developers are taking it seriously.
 We want to do it right, reason for which we have put together a small checklist to help us guide through the must have security checks. Some of the checks can be implemented at the code-level while others are musts on a server setup.
 Most of the solutions mentioned here are focused on Javascript.
-The main topics discussed on this paged are:
+The main topics discussed on this page are:
 * [System Misconfiguration](#system-misconfiguration)
-* Sensitive Data Exposure
-* Dependency Vulnerabilities
-* Broken Authentication and Session Management
-* Input Validation
-* Cross-Site Request Forgery ( CSRF )
-* Cross-Site Scripting ( XSS )
-* Clickjacking
-* Injection - SQL Injection
-* Direct object references
+* [Sensitive Data Exposure](#sensitive-data-exposure)
+* [Dependency Vulnerabilities](#dependency-vulnerabilities)
+* [Broken Authentication and Session Management](#broken-authentication-and-session-management)
+* [Input Validation](#input-validation)
+* [Cross-Site Request Forgery ( CSRF )](#cross-site-request-forgery--csrf-)
+* [Cross-Site Scripting ( XSS )](#cross-site-scripting--xss-)
+* [Clickjacking](#clickjacking)
+* [Injection - SQL Injection](#injection---sql-injection)
+* [Direct object references](#direct-object-references)
 
 
 ## System Misconfiguration
