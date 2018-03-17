@@ -10,7 +10,7 @@ We are a growing team of professionals focusing our skills and efforts around th
 We work on various projects from vanilla **JavaScript**, to REST APIs with **Express** and **Koa**, to complex front-end applications with **React** and **Angular** and native mobile applications with **React Native**. We are pushing the limits of the web and mobile every day and we challenge each other to come up with the best solutions for our customers.
 
 ### How we do it
-We have a strong [team culture](https://github.com/FortechRomania/js-team-showcase/blob/master/team/what-we-stand-for.md) built around a few core values.
+We have a strong [team culture](https://github.com/FortechRomania/js-team-showcase/tree/master/team) built around a few core values.
 
 We believe in mentoring, teaching and sharing information. One of our training activities is the [junior development program](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/junior-development-program), but we are also involved in running [nodeschool workshops](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/node-school) in **Cluj**.
 
