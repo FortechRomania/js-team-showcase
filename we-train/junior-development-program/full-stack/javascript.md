@@ -22,7 +22,7 @@ Understand [the modern JavaScript ecosystem](https://medium.com/@peterxjang/mode
 Take a [history lesson](https://auth0.com/blog/a-brief-history-of-javascript/) of JavaScript the EcmaScript Standard.
 * [ECMAScript2015/ES6](http://es6-features.org/#Constants)
 * [Egghead course on ES2015](https://egghead.io/courses/learn-es6-ecmascript-2015)
-* [ES Modules](http://2ality.com/2014/09/es6-modules-final.html)
+* [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 
 ### Objects and OOP
 Read [chapter 4](http://eloquentjavascript.net/04_data.html) of Eloquent JavaScript, about Objects and Arrays.
