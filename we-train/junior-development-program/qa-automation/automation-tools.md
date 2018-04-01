@@ -11,7 +11,7 @@
 
 #### It's setup is as straight forward as it can get: 
 * Create a repository 
-* In the reposibory nstall Testcafe locally with the command `npm install testcafe --dev-save`. 
+* In the repository, install `testcafe` locally with the command `npm install testcafe --dev-save`. 
 Now you can start going through the documentation [Here](https://devexpress.github.io/testcafe/documentation/getting-started/) and start on the tests.
 
 
