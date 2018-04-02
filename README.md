@@ -8,7 +8,7 @@ We are a growing team of professionals focusing our skills and efforts around th
 
 We wanted to write a few lines about the team name “Cake for Breakfast” but it’s self-explanatory anyway and we were too busy... 👇
 
-<img src="images/the-cake.jpg" width="400">
+<img src="images/the-cake.jpg" center>
 
 Ah, and this is our logo.
 
