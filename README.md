@@ -12,7 +12,9 @@ We wanted to write a few lines about the team name “Cake for Breakfast” but 
 
 Ah, and this is our logo.
 
-<img src="images/cake-for-breakfast.png" center />
+<div style="text-aling: center;">
+    <img src="images/cake-for-breakfast.png" />
+</div>
 
 ### What we do
 We work on various projects from vanilla **JavaScript**, to REST APIs with **Express** and **Koa**, to complex front-end applications with **React** and **Angular** and native mobile applications with **React Native**. We are pushing the limits of the web and mobile every day and we challenge each other to come up with the best solutions for our customers.
