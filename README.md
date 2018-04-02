@@ -1,3 +1,5 @@
+<img src="images/cake-for-breakfast.png" />
+
 ## A word from the engineering team
 Would you like to know more about us? What we work on? How we work? Read through this repository to get a better understanding of our team culture.
 
@@ -9,12 +11,6 @@ We are a growing team of professionals focusing our skills and efforts around th
 We wanted to write a few lines about the team name “Cake for Breakfast” but it’s self-explanatory anyway and we were too busy... 👇
 
 <img src="images/the-cake.jpg" width="400" />
-
-Ah, and this is our logo.
-
-<div style="text-aling: center;">
-    <img src="images/cake-for-breakfast.png" />
-</div>
 
 ### What we do
 We work on various projects from vanilla **JavaScript**, to REST APIs with **Express** and **Koa**, to complex front-end applications with **React** and **Angular** and native mobile applications with **React Native**. We are pushing the limits of the web and mobile every day and we challenge each other to come up with the best solutions for our customers.
