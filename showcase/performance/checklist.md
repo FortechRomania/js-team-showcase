@@ -38,12 +38,46 @@ A few articles and references on optimizing CRP:
 
 ## Keeping the bundle size to a minimum
 
+### Minify JS and CSS
+### Tree shaking
+### Code splitting
+### Eliminate seldomly used dependencies
+### Use browserlist to specify support and limit polyfills
+### Use bundlesize in your CI
+### Generate and inspect bundle size with webpack bundle analyzer
+
 ## Image Optimization
+
+### Defer image load
+### Serve images according to screen size
+### Use modern encoding formats when possible
+### Inline small images
+### Don’t render offscreen images
 
 ## Interactivity and Animations
 
+### Use passive event listeners
+### Use opacity and transforms to create css animations
+### Use will-change when you know element will be animated
+### Check framework performance with DevTools Audit
+
 ## Backend Optimizations
+
+### Don’t rely on ORMs for performant queries
+### Use indexes on all columns you query
+### Use pagination for long lists
+### Rely on server caching when possible
 
 ## Server Optimizations
 
+### Use http/2
+### Use gzip/deflate
+
 ## Performance Tests and Tools
+
+### Google lighthouse
+### Google devtools / performance tab
+### GTMetrix
+### Locust.io
+### jmeter
+
