@@ -18,7 +18,7 @@ If you worked with similar frontend frameworks before (ex: React, Angular) and y
 I highly recommend you follow this [5-part article](https://css-tricks.com/guides/vue/) written by Sarah Drasner which takes you through the entire Vue ecosystem. I strongly advise you follow along and write your own code, while playing around with the Vue components. [Vue Devtools](https://github.com/vuejs/vue-devtools) is also a great addition to your browser.
 
 #### Vuex
-If you have some experience with Redux, you can have a look at how Vuex works in conjunction with Vue. [The official guide](https://vuex.vuejs.org/en/) is a good way to start. You will need to understand what mutations and actions are because they differ a bit from what you may know from Redux.
+If you have some experience with Redux, you can have a look at how Vuex works in conjunction with Vue. [The official guide](https://vuex.vuejs.org/en/) is a good way to start. You will need to understand what mutations and actions are because they differ a bit from what you may know from Redux. A good guide can be found on [vueschool.io](https://vueschool.io/courses/vuex-for-everyone) (free course).
 
 #### Things to follow
 A couple of points where an in-depth understanding is needed in order to build a large scale application:
