@@ -5,16 +5,10 @@ In order to run JS only example, you should be familiar with how to run scripts 
 
 Install [nvm](https://github.com/creationix/nvm) or node version manager. This will help you switch between different versions of node with ease. Read more about [npm and package.json](https://www.sitepoint.com/beginners-guide-node-package-manager/).
 
-### Data Structures and Algorithms
-You should read [this book](https://github.com/amilajack/reading/blob/master/JavaScript/Learning%20Javascript%20Data%20Structures%20and%20Algorithms.pdf) in order to get familiar with Lists, Queues, Trees and other data structures. Each step should be code reviewed by your mentor.
-
-### Functions
-Get familiar with JavaScript functions:
-* [Function Definitions](http://eloquentjavascript.net/03_functions.html)
-* [Callbacks](https://dev.to/faradayyg/understanding-javascript-callbacks-58i)
-* [Scopes](https://scotch.io/tutorials/understanding-scope-in-javascript)
-* [Closures](https://medium.freecodecamp.org/lets-learn-javascript-closures-66feb44f6a44)
-* [Modules](https://toddmotto.com/mastering-the-module-pattern/)
+### Revisit Basic Program Structure
+Quick read of the first two chapters of **Eloquent JavaScript**
+* [Values, Types, Operators](http://eloquentjavascript.net/01_values.html)
+* [Program Structure](http://eloquentjavascript.net/02_program_structure.html)
 
 ### Modern JavaScript
 Understand [the modern JavaScript ecosystem](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70) based on npm modules.
@@ -22,6 +16,20 @@ Understand [the modern JavaScript ecosystem](https://medium.com/@peterxjang/mode
 Take a [history lesson](https://auth0.com/blog/a-brief-history-of-javascript/) of JavaScript the EcmaScript Standard.
 * [ECMAScript2015/ES6](http://es6-features.org/#Constants)
 * [Egghead course on ES2015](https://egghead.io/courses/learn-es6-ecmascript-2015)
+
+### Data Structures and Algorithms
+Use [this book](https://github.com/amilajack/reading/blob/master/JavaScript/Learning%20Javascript%20Data%20Structures%20and%20Algorithms.pdf) as a reference. You should be familiar with basic algorithms and other data structures. In order to practice a bit on these, let's do some simple exercises:
+* Check if a number if a [palindrome](https://en.wikipedia.org/wiki/Palindrome).
+* Implement a [quick sort](https://en.wikipedia.org/wiki/Quicksort) algorithm in JavaScript.
+* Implement the [Sieve of Erathosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+
+### Functions & Modules
+Get familiar with JavaScript functions:
+* [Function Definitions](http://eloquentjavascript.net/03_functions.html)
+* [Callbacks](https://dev.to/faradayyg/understanding-javascript-callbacks-58i)
+* [Scopes](https://scotch.io/tutorials/understanding-scope-in-javascript)
+* [Closures](https://medium.freecodecamp.org/lets-learn-javascript-closures-66feb44f6a44)
+* [Modules](https://toddmotto.com/mastering-the-module-pattern/)
 * [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 
 ### Objects and OOP
@@ -29,8 +37,15 @@ Read [chapter 4](http://eloquentjavascript.net/04_data.html) of Eloquent JavaScr
 
 Also read [chapter 3](http://chimera.labs.oreilly.com/books/1234000000262/ch03.html) from Programming JavaScript Applications.
 
+### Excercises
+Practice your combined HTML, CSS and JS skills on the following tasks:
+* [Infinite Image Carousel](https://amazingcarousel.com/examples/jquery-image-carousel-slider-id13/)
+* [Range Slider](http://rangeslider.js.org/)
+
 ### Clean Code
 Watch [Clean Code Fundamentals](https://cleancoders.com/videos/clean-code/fundamentals) especially focusing on episodes 2 to 5, which are the foundation of well engineered code.
+
+Also watch the series on [Clean Code in the Browser](https://cleancoders.com/videos/clean-code-in-the-browser)
 
 Read more about [clean code concepts](https://alistapart.com/article/coding-with-clarity): Single Responsibility Principle, High Cohesion, Low Coupling.
 
@@ -56,11 +71,7 @@ You can follow a couple of example from [this workshop](https://github.com/alexn
 * [Partial Application](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
 * [Function Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
 
-### Excercises
-Practice your combined HTML, CSS and JS skills on the following tasks:
-* [Infinite Image Carousel](https://amazingcarousel.com/examples/jquery-image-carousel-slider-id13/)
-* [Range Slider](http://rangeslider.js.org/)
-
+### Build and Setup
 Build a modern project setup following [this tutorial](https://www.pluralsight.com/courses/javascript-development-environment).
 
 ### Recommended time
