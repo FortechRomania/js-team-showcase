@@ -53,9 +53,11 @@ Read more about [clean code concepts](https://alistapart.com/article/coding-with
 Read about [airbnb's styleguide](https://github.com/airbnb/javascript) and the rules they enforce through it. Also install the official [fortech styleguide](https://github.com/FortechRomania/eslint-config-fortech) which is inheriting the airbnb one with a few notable changes. Make sure you setup your future projects using this eslint config package.
 
 ### Unit testing
-Test suites ensure that our code is stable as we perform changes or refactor over time. Test some of your existing code with mocha following [this tutorial](https://www.sitepoint.com/unit-test-javascript-mocha-chai/). Make sure you write tests for all the remaining exercises you do.
+Test suites ensure that our code is stable as we perform changes or refactor over time. [Here] (https://github.com/FortechRomania/js-team-showcase/blob/master/showcase/testing/testing-javascript.md) you can find further details on all the elements of the testing ecosystem. 
 
-[Further reading](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3) on unit testing and all the elements of the testing ecosystem.
+Pick your preferred testing framework and write tests for your existing code. Make sure you write tests for all the remaining exercises you do.
+
+As a plus, configure coverage reports for your tests to help you visualise which branches and functions are covered by your tests.
 
 ### Asynchronous Programming
 Learn about the model of execution in JavaScript and the call stack. Wrap your head around asynchronous programming with the following resources:
