@@ -61,6 +61,8 @@ Anything from Google Analytics to Helpdesk or other 3rd party services you are u
 ## Keeping the bundle size to a minimum
 
 #### Minify JS and CSS
+Make sure you also minimize CSS, especially since that CSS will always delay the initial render.
+
 #### Tree shaking
 #### Code splitting
 #### Eliminate seldomly used dependencies
