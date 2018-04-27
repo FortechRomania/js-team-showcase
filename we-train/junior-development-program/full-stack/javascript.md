@@ -57,7 +57,7 @@ Test suites ensure that our code is stable as we perform changes or refactor ove
 
 Pick your preferred testing framework and write tests for your existing code. Make sure you write tests for all the remaining exercises you do.
 
-As a plus, configure coverage reports for your tests to help you visualise which branches and functions are covered by your tests.
+As a plus, configure coverage reports for your tests to help you visualise which branches and functions are covered.
 
 ### Asynchronous Programming
 Learn about the model of execution in JavaScript and the call stack. Wrap your head around asynchronous programming with the following resources:
