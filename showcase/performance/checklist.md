@@ -6,14 +6,13 @@ We see performance as an integral part of the quality of the software that we bu
 
 Here are a couple of areas that revolve around web performance. They will be later grouped into **front-end**, **back-end** and **tooling**, but for now let's look at where we can actually improve the performance of our web applications.
 
-* [Optimizing Critical Rendering Path](/#optimizing-critical-rendering-path)
-* [Keeping the bundle size to a minimum](/#optimizing-critical-rendering-path)
-* Image Optimization
-* Interactivity and Animations
-* Backend Optimizations
-* Server Optimizations
-* Performance Tests and Tools
-* Load Tests and Tools
+* [Optimizing Critical Rendering Path](#optimizing-critical-rendering-path)
+* [Keeping the bundle size to a minimum](#keeping-the-bundle-size-to-a-minimum)
+* [Image Optimization](#image-optimization)
+* [Interactivity and Animations](#interactivity-and-animations)
+* [Backend Optimizations](#backend-optimizations)
+* [Server Optimizations](#server-optimizations)
+* [Performance Tests and Tools](#performance-tests-and-tools)
 
 All these are considered in the realm of modern web development with frontend frameworks rendering complex applications and thin APIs serving the data.
 
