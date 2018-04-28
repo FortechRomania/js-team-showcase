@@ -57,6 +57,8 @@ Make sure you don't introduce too many nodes in your HTML, try to keep it clean 
 #### Delay 3rd parties
 Anything from Google Analytics to Helpdesk or other 3rd party services you are using in your website tend to delay the initial render if they are not properly delayed. Ideally, you should make sure all 3rd parties have the lowest priority for downloading and execution.
 
+Further reading on [3rd party JS optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/)
+
 ## Keeping the bundle size to a minimum
 
 #### Minify JS and CSS
