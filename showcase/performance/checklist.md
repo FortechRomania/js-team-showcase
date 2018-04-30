@@ -10,8 +10,7 @@ Here are a couple of areas that revolve around web performance. They will be lat
 * [Keeping the bundle size to a minimum](#keeping-the-bundle-size-to-a-minimum)
 * [Image Optimization](#image-optimization)
 * [Interactivity and Animations](#interactivity-and-animations)
-* [Backend Optimizations](#backend-optimizations)
-* [Server Optimizations](#server-optimizations)
+* [Backend & Server Optimizations](#backend-optimizations)
 * [Performance Tests and Tools](#performance-tests-and-tools)
 
 All these are considered in the realm of modern web development with frontend frameworks rendering complex applications and thin APIs serving the data.
@@ -97,24 +96,21 @@ After optimizing the critical rendering path and the initial render, it's time t
 * Constantly check performance with the Chrome DevTools Audit tab.
 
 ## Backend Optimizations
-
-#### Don’t rely on ORMs for performant queries
-#### Use indexes on all columns you query
-#### Use pagination for long lists
-#### Rely on server caching when possible
-
-## Server Optimizations
-
-#### Use http/2
-#### Use gzip/deflate
+And a few tips to use on the backend and the server to help the web app performance overall:
+* Don’t rely on ORMs for performant queries
+* Use indexes on all columns you query
+* Use pagination for long lists
+* Rely on server caching when possible
+* Use http/2
+* Use gzip/deflate
 
 ## Performance Tests and Tools
-
-#### Google lighthouse
-#### Google devtools / performance tab
-#### GTMetrix
-#### Locust.io
-#### jmeter
+Finally, some tools that help you on the way:
+* Google lighthouse (performance, seo, accessibility, etc.)
+* Google devtools / performance tab
+* GTMetrix (loading times, performance charts)
+* Locust.io (load testing, requires some python knowledge)
+* jmeter (load testing)
 
 ## Further Reading
 [Frontend Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
