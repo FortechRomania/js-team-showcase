@@ -8,6 +8,11 @@ Tests written to check software functionality can be grouped into a few categori
 
 A great overview of testing and testing tools can be found [here](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3).
 
+[Here](https://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/)'s a brief explanation about spies vs. stubs vs. mocks. In a nutshell, use: 
+* Spies - if you simply want to watch and verify somethings happens in your test case.
+* Stubs - if you simply want to specify how something will work to help your test case.
+* Mocks - if you want to both of the above on a single dependency in your test case.
+
 # Tests tools
 
 There are a couple of tools that facilitate tests writing. These can be grouped in categories as follows.
