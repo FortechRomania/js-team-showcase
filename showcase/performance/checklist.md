@@ -65,26 +65,36 @@ Further reading on [3rd party JS optimization](https://developers.google.com/web
 Make sure you also minimize CSS, especially since that CSS will always delay the initial render.
 
 #### Tree shaking
+When [using webpack](https://webpack.js.org/guides/tree-shaking/), make sure you disable module transpilation, so webpack can automatically do tree shaking based on ES Modules syntax.
+
 #### Code splitting
+If you bundle size is still large, one option is to split chunks of your code and lazy load them only when you need them. This is very easily done with the [dynamic import syntax and webpack](https://webpack.js.org/guides/code-splitting/). Further more, when using React, you can use [react-loadable](https://github.com/jamiebuilds/react-loadable) to abstract the complexity of the dynamic module import.
+
 #### Eliminate seldomly used dependencies
-#### Use browserlist to specify support and limit polyfills
-#### Use bundlesize in your CI
-#### Generate and inspect bundle size with webpack bundle analyzer
+Make sure you're using a good chunk of a library if you import it in your code. Otherwise you will end up with a lot of unused code in your final bundle that might not be easily tree shaken because of the way in which the library is built. A few examples:
+* Prefer the native array functions instead of adding lodash for a few operations
+* Avoid using moment.js (69 kB minified + gziped!) or make sure you don't load all locales for it.
+* Create your custom components if your use case is very limited compared to a fully featured component.
+
+#### Other ideas to help minimize the bundle size
+* Use [babel-preset-env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) + [browserslist](https://github.com/browserslist/browserslist) to specify browser support and limit polyfills
+* Use [bundlesize](https://github.com/siddharthkp/bundlesize) in your CI to define hard size limits for your bundle.
+* Generate and inspect bundle size with [webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) or other similar tools
 
 ## Image Optimization
-
-#### Defer image load
-#### Serve images according to screen size
-#### Use modern encoding formats when possible
-#### Inline small images
-#### Don’t render offscreen images
+A few practices to improve the performance on website that rely heavily on images
+* Defer image loading based on their importance / visibility
+* Serve images according to screen size - you don't need a 1080p image on a mobile device.
+* Use modern encoding formats when possible, like [Webp](https://www.smashingmagazine.com/2015/10/webp-images-and-performance/)
+* Inline small images as SVGs
+* Don’t render offscreen images, use IntersectionObserver to determine if the image should be fetched
 
 ## Interactivity and Animations
-
-#### Use passive event listeners
-#### Use opacity and transforms to create css animations
-#### Use will-change when you know element will be animated
-#### Check framework performance with DevTools Audit
+After optimizing the critical rendering path and the initial render, it's time to look at how the user interacts with your application. Using the following practices will help you maintain your rendering at 60fps:
+* Use [passive event listeners](https://developers.google.com/web/updates/2016/06/passive-event-listeners)
+* Use *opacity* and *transforms* to create css animations, avoiding unnecessary reflows.
+* Use [will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change) when you know element will be animated
+* Constantly check performance with the Chrome DevTools Audit tab.
 
 ## Backend Optimizations
 
