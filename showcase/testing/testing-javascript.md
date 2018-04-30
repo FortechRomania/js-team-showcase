@@ -58,7 +58,9 @@ There are a couple of tools that facilitate tests writing. These can be grouped 
 
 # Examples
 
-Unit testing setup - https://github.com/ancutac/javascript-testing/blob/master/README.md
+A basic javascript testing setup with webpack, karma, mocha, chai, sinon and istanbul can be found [here]( https://github.com/ancutac/javascript-testing)
 
-[Here](https://www.sitepoint.com/unit-test-javascript-mocha-chai/)  you can find a sample setup for unit teting with mocha.
+[Here](https://www.sitepoint.com/unit-test-javascript-mocha-chai/)  you can find another article explaining unit testing setup with mocha.
+
+If want want to skip all the tedious configuration, you can use Jest, a testing framework with everything built in. [Here](https://github.com/ancutac/javascript-testing/tree/jest) is an example project setup. Since that's a branch of a previous configuration, you can check the comparison between jest setup and karma + mocha + chai + sinon + instanbul.
 
