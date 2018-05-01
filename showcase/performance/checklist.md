@@ -103,11 +103,13 @@ And a few tips to use on the backend and the server to help the web app performa
 * Rely on server caching when possible
 * Use http/2
 * Use gzip/deflate
+* Rely CDNs to deliver assets (js, css, images) based on region and availability
 
 ## Performance Tests and Tools
 Finally, some tools that help you on the way:
 * Google lighthouse (performance, seo, accessibility, etc.)
 * Google devtools / performance tab
+* Measure code coverage with Google devtools
 * GTMetrix (loading times, performance charts)
 * Locust.io (load testing, requires some python knowledge)
 * jmeter (load testing)
