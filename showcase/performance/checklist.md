@@ -79,6 +79,7 @@ Make sure you're using a good chunk of a library if you import it in your code. 
 * Use [babel-preset-env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) + [browserslist](https://github.com/browserslist/browserslist) to specify browser support and limit polyfills
 * Use [bundlesize](https://github.com/siddharthkp/bundlesize) in your CI to define hard size limits for your bundle.
 * Generate and inspect bundle size with [webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) or other similar tools
+* Measure code coverage with **Chrome DevTools**
 
 ## Image Optimization
 A few practices to improve the performance on website that rely heavily on images
@@ -109,7 +110,6 @@ And a few tips to use on the backend and the server to help the web app performa
 Finally, some tools that help you on the way:
 * Google lighthouse (performance, seo, accessibility, etc.)
 * Google devtools / performance tab
-* Measure code coverage with Google devtools
 * GTMetrix (loading times, performance charts)
 * Locust.io (load testing, requires some python knowledge)
 * jmeter (load testing)
