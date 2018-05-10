@@ -3,7 +3,7 @@ We are a growing team of professionals focusing our skills and efforts around th
 
 We wanted to write a few lines about the team name `Cake for Breakfast` but it’s self-explanatory anyway and we were too busy... 👇
 
-<img src="images/cake-for-breakfast.jpg" width="400" />
+<img src="../images/cake-for-breakfast.jpg" width="400" />
 
 ### You are always part of the team
 Before we start talking about *what* and *how* we work, let's make something clear: at any time, in any setup, under any circumstances, we are part of the **same team**. This is the corner stone of our team culture. Each and every member of the team is **equal** to the other and we all contribute to the development of the team. It doesn't matter if we work in different teams, on different projects with different customers. At the end of the day, we are part of the same team.
