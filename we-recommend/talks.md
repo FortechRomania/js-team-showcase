@@ -11,6 +11,7 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 * [Microservices - **Martin Fowler**](https://www.youtube.com/watch?v=wgdBVIX9ifA) (architecture)
 * [The Many Meanings of Event-Driven Architecture - **Martin Fowler**](https://www.youtube.com/watch?v=STKCRSUsyP0) (architecture)
 * [The Value of Values - **Rich Hickey**](https://www.infoq.com/presentations/Value-Values)
+* [Old is the New New - **Kevlin Henney**](https://www.youtube.com/watch?v=AbgsfeGvg3E)
 
 ## JavaScript
 * [The JavaScript Starter Kit Manifesto - **Cory House**](https://www.youtube.com/watch?v=jubd2opc4Ps)( tools, setup )
