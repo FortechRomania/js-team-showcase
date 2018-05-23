@@ -19,7 +19,7 @@ Take a [history lesson](https://auth0.com/blog/a-brief-history-of-javascript/) o
 
 ### Data Structures and Algorithms
 Use [this book](https://github.com/amilajack/reading/blob/master/JavaScript/Learning%20Javascript%20Data%20Structures%20and%20Algorithms.pdf) as a reference. You should be familiar with basic algorithms and other data structures. In order to practice a bit on these, let's do some simple exercises:
-* Check if a number if a [palindrome](https://en.wikipedia.org/wiki/Palindrome).
+* Check if a number is a [palindrome](https://en.wikipedia.org/wiki/Palindrome).
 * Implement a [quick sort](https://en.wikipedia.org/wiki/Quicksort) algorithm in JavaScript.
 * Implement the [Sieve of Erathosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
