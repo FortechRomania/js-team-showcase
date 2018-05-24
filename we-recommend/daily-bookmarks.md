@@ -1,5 +1,9 @@
 # Web Development Bookmarks
 
+### 24.05.2018
+- [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms)
+    - tags: algorithms, data structures
+
 ### 28.03.2018
 - [ESModules: A cartoon deep dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 
