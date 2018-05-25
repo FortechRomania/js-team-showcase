@@ -35,7 +35,7 @@ Get familiar with JavaScript functions:
 ### Objects and OOP
 Read [chapter 4](http://eloquentjavascript.net/04_data.html) of Eloquent JavaScript, about Objects and Arrays.
 
-Also read [chapter 3](http://chimera.labs.oreilly.com/books/1234000000262/ch03.html) from Programming JavaScript Applications.
+Also read [chapter 3](https://github.com/agelessman/MyBooks/blob/master/programming-javascript-applications-eric-elliott(www.ebook-dl.com).pdf) from Programming JavaScript Applications.
 
 ### Excercises
 Practice your combined HTML, CSS and JS skills on the following tasks:
