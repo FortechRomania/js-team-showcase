@@ -47,6 +47,9 @@
 - shape outside works on floated elements
 - James Bosworth
 - Stedelijk
+Resources used in this talk:
+https://css-tricks.com/transparent-jpg-svg/
+
 
 ## Conversational user interfaces
 - Freshbot
