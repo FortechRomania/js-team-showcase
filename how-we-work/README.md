@@ -14,4 +14,4 @@ Our project setups are pretty straight-forward, you can have a look at a few exa
 * [Testing](https://github.com/FortechRomania/js-team-showcase/tree/master/how-we-work/testing)
 * [Security](https://github.com/FortechRomania/js-team-showcase/tree/master/how-we-work/security)
 * [Performance](https://github.com/FortechRomania/js-team-showcase/tree/master/how-we-work/performance)
-* QA - coming soon
+* [QA](https://github.com/FortechRomania/js-team-showcase/blob/master/how-we-work/testing/qa-processes.md)
