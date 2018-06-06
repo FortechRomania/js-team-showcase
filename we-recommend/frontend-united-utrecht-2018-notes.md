@@ -35,6 +35,7 @@
 - hackernewa pwa
 
 ## Aga Naplocha - Breaking the norm with creative CSS
+- talk link: http://aganaplocha.com/breaking-the-norm.pdf
 - brutalist websites
 - hover states
 - bloomberg museum
