@@ -53,7 +53,7 @@ Read more about [clean code concepts](https://alistapart.com/article/coding-with
 Read about [airbnb's styleguide](https://github.com/airbnb/javascript) and the rules they enforce through it. Also install the official [fortech styleguide](https://github.com/FortechRomania/eslint-config-fortech) which is inheriting the airbnb one with a few notable changes. Make sure you setup your future projects using this eslint config package.
 
 ### Unit testing
-Test suites ensure that our code is stable as we perform changes or refactor over time. [Here](https://github.com/FortechRomania/js-team-showcase/blob/master/showcase/testing/testing-javascript.md) you can find further details on all the elements of the testing ecosystem. 
+Test suites ensure that our code is stable as we perform changes or refactor over time. [Here](https://github.com/FortechRomania/js-team-showcase/tree/master/how-we-work/testing) you can find further details on all the elements of the testing ecosystem. 
 
 Pick your preferred testing framework and write tests for your existing code. Make sure you write tests for all the remaining exercises you do.
 
