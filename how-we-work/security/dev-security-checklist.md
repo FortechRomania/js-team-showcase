@@ -1,4 +1,4 @@
-# Security checklist
+# developer's Security checklist
 
 
 ## Introduction
@@ -99,9 +99,8 @@ For validation, the focus is on:
 * Data validation - mostly on the server-side. If you are validating on client-side build your own reqular expressions and make sure you do not use wildcards.
 * Validate data before processing i.e. check API token/key, HTTP headers, URLS, parameters.
 * Specify proper character sets, such as UTF-8, for all sources of input.
-* Validation agains DB schemas.
+* Validation against DB schemas.
 * Validate uploaded files i.e. check format, size, content, etc.
-* Specify proper character sets, such as UTF-8, for all sources of input
 * Type validation of expected data.
 * Defining minimum and maximum value range checks for numerical parameters.
 * Defining minimum and maximum length check for string parameters.
