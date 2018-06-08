@@ -17,8 +17,6 @@ The main topics discussed on this page are:
 * [Injection - SQL Injection](#injection---sql-injection)
 * [Direct object references](#direct-object-references)
 
-Other details can be found [here](https://www.tutorialspoint.com/security_testing/testing_security_misconfiguration.htm).
-
 
 ## System Misconfiguration
 Most of the security attacks occur when[ server/system configuration](https://www.owasp.org/index.php/Top_10_2013-A5-Security_Misconfiguration) is not done properly.
@@ -29,7 +27,7 @@ Things we suggest to be tested:
 * Verify that server distribution ( NGINX, Apache, Haproxy, etc. ) and more importantly the version is not visible.
 * Use tools like Locust.io to check if a logging system is implemented and [Denial of Service condition](https://en.wikipedia.org/wiki/Denial-of-service_attack) is not applied. Use brute force for requests like /login to make sure delay is added on fail.
 
-More information can be found [here](https://www.tutorialspoint.com/security_testing/testing_security_misconfiguration.htm)
+More information can be found [here](https://www.tutorialspoint.com/security_testing/testing_security_misconfiguration.htm).
 
 
 ## Sensitive Data Exposure
@@ -73,7 +71,7 @@ To avoid this we to check if the following are in place:
 * Session ids are not sent via URLs.
 * Check if in Node, brute force protection is avoided with packages like [ratelimiter](https://www.npmjs.com/package/ratelimiter) or by implementing a middleware that adds a small delay if the same request is done to many times/minute.
 
-More details can be found at this [link](https://www.tutorialspoint.com/security_testing/testing_broken_authentication.htm) or at this [link](https://www.owasp.org/index.php/Testing_for_Session_Management)
+More details can be found at this [link](https://www.tutorialspoint.com/security_testing/testing_broken_authentication.htm) or at this [link](https://www.owasp.org/index.php/Testing_for_Session_Management).
 
 
 ## Input Validation
@@ -89,7 +87,7 @@ Check for the following:
 * Check minimum and maximum length for string parameters.
 * Check the input against a whitelist of allowed characters, whenever possible. Makes sure it is preferred whitelists over blacklists for input validation i.e. check if there is a defined array of allowed values for small sets of string parameters e.g. days of the week, status, flags, etc.
 
-More details can be found at this [link](https://www.owasp.org/index.php/Testing_for_Input_Validation)
+More details can be found at this [link](https://www.owasp.org/index.php/Testing_for_Input_Validation).
 
 
 ## Cross-Site Request Forgery ( CSRF )
@@ -105,7 +103,7 @@ To prevent this type of the attack we suggest the following checks:
 * Make sure Node applications use [helmet](https://github.com/helmetjs/helmet) package to hide several details about the app.
 * Make sure that packages like [CSRF](https://www.npmjs.com/package/csrf) are used. This is a module used as middleware to validate an additional token that can come from the front-end part of the app.
 
-More details can be found at this [link](https://www.owasp.org/index.php/Testing_for_CSRF_(OTG-SESS-005))
+More details can be found at this [link](https://www.owasp.org/index.php/Testing_for_CSRF_(OTG-SESS-005)).
 
 
 ## Cross-Site Scripting ( XSS )
@@ -121,7 +119,7 @@ To check if this type of attacks might happen test for the following:
     - check if the browser is forced to only use the Content-Type set in the response header instead of sniffing or quessing it. Check for `app.use(nosniff());` syntax.
 
 Other particularities can be found at this [link](https://www.owasp.org/index.php/Testing_for_Cross_site_scripting
-)
+).
 
 
 ## Clickjacking
@@ -143,7 +141,7 @@ For this type of attack, one should test if:
 
 ## Direct object references
 [Insecure Direct Object References](https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004)) allow attackers to bypass authorization and access resources directly by modifying the value of a parameter used to directly point to an object. Such resources can be database entries belonging to other users, files in the system, and more. This is caused by the fact that the application takes user supplied input and uses it to retrieve an object without performing sufficient authorization checks.
-To prevent this type of attack one should check the following [link](https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004))
+To prevent this type of attack one should check the following [link](https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004)).
 
 ### Resources:
 * [OWASP](https://www.owasp.org)
