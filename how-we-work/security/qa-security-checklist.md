@@ -135,8 +135,11 @@ Other particularities can be found at this [link](https://www.owasp.org/index.ph
 ## Injection - SQL Injection
 In general, when speaking about injection in terms of security we refer at the process of inserting any source of data inside the app i.e. over-writing environment variables, parameters, etc. with hostile data.
 In particular, [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection) is an attack that consists in accessing/corrupting database structure by using application codes. This type of attack allows creating, reading, updating, altering or deleting data stored in the database. Used when user input is incorrectly filtered for string literal escape characters embedded in sql or when user input in not strongly type and unexpectedly executed.
+
 For this type of attack, one should test if:
-* SQL statements cannot be built from the user input. More details can be found at this [link](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005)).
+* SQL statements cannot be built from the user input.
+
+More details can be found at this [link](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005)).
 
 
 ## Direct object references
