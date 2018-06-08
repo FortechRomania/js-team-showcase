@@ -34,8 +34,9 @@ More information can be found [here](https://www.tutorialspoint.com/security_tes
 Attackers steal keys, execute man-in-the-middle attacks, or steal clear text data off the server, while in transit, or from the user’s client/browser. Previously retrieved password databases could be brute forced by Graphics Processing Units (GPUs).
 Things we suggest to be tested:
 * Check that developers classify the data processed, stored or transmitted by the application.
-* Check if the app's control depends on the classification i.e. make sure roles are implement and that multiple authentication sessions are in place.
+* Check if the app's control depends on the classification i.e. make sure roles are implemented and that multiple authentication sessions are in place.
 * Make sure that no sensitive data is stored. If it is a must, make sure it is encrypted and that the key is not public.
+* Make sure sensitive data is not exposed or hardcoded in the code/logs. To do that use `grep -r –E "Pass | password | pwd |user | guest| admin | encry | key | decrypt | sharekey " ./PathToSearch/` or `grep -r " {2\}[0-9]\{6\} "  ./PathToSearch/`
 * Verify that the passwords are not stored in plain text. Verify if packages that hash/encrypt passwords e.g. [bcrypt](https://www.npmjs.com/package/bcrypt) or [scrypt](https://en.wikipedia.org/wiki/Scrypt) are used. Also, regarding passwords,  make sure you test for:
     - default, weak, or well-known passwords, such as "Password1" or "admin/admin“
     - weak or ineffective credential recovery and forgotpassword processes, such as "knowledge-based answers", which cannot be made safe
@@ -60,7 +61,7 @@ The simplest application attack is automated and consists of credential stuffing
 
 To avoid this we to check if the following are in place:
 * Multi-factor authentication (MFA) - prevents automated, credential stuffing, brute force and stolen credential reuse attacks. E.g. gmail, internet banking apps.
-* The principle of least privilege - allows an user to access only the user's dedicated content; the rest should be denied.
+* The principle of least privilege - allows an user to access only the user's dedicated content; the rest should be denied. Use `curl -kis http://website.com/notsupposetosee/` to verify.
 * JWT (JSON Web Tokens) - read more on this [link](https://jwt.io/). Check if it is added to your application.
 * Weak-password checks ( test new or changed passwords against a list of the top [10000 worst passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ).
 * No default, weak, or well-known passwords, such as "Password1" or "admin/admin".
