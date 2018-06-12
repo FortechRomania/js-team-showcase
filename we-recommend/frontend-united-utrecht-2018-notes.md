@@ -1,7 +1,6 @@
-
 # Frontend United Utrecht 2018 Notes
 
-## Harry Roberts - FaCSSt—CSS and Performance
+### 1. [Harry Roberts - FaCSSt—CSS and Performance ( duration: 46:00 )](https://www.youtube.com/watch?v=2Rn8an74khk)
 - csswz.it/2FQHt2S
 - base64 images make 1mb css files
 - Images don't delay critical path
