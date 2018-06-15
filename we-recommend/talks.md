@@ -35,14 +35,8 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 ## Process
 * [Implementing Programmer Anarchy - **Fred George**](https://www.youtube.com/watch?v=tIxHmsWCd7g)
 
-
-
-
-
-
-
-
-
+## Further resources
+* [awesometalks.party](https://awesometalks.party/)
 
 
 
