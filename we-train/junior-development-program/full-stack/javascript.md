@@ -68,6 +68,10 @@ Learn about the model of execution in JavaScript and the call stack. Wrap your h
 * [Async/Await full tutorial](https://egghead.io/courses/asynchronous-javascript-with-async-await)
 
 ### Functional Programming
+Reading materials:
+* [Pure Functions](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-pure-functions-797d9abbee1)
+* [Immutability](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-immutability-4e9751ca005c)
+
 You can follow a couple of example from [this workshop](https://github.com/alexnm/functional-javascript-workshop). Focus on:
 * [High Order Functions](https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop)
 * [Partial Application](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
