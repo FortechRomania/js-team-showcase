@@ -45,6 +45,8 @@ An example would be
 <link rel="preload" href="/app.bundle.js" as="script" />
 ```
 
+Also make sure you keep all your critical resources on your domain/servers, so you don't depend on 3rd parties for your critical render.
+
 #### Inline above-the-fold CSS
 In order to avoid a roundtrip to fetch the initial css, there are certain scenarios in which you can inline the styles needed to render the initial screen. The browser only needs the styles which are *above-the-fold*, or inside the user viewport. There are multiple tools that help you extract above the fold css:
 * [Critical](https://github.com/addyosmani/critical)
@@ -93,7 +95,7 @@ A few practices to improve the performance on website that rely heavily on image
 After optimizing the critical rendering path and the initial render, it's time to look at how the user interacts with your application. Using the following practices will help you maintain your rendering at 60fps:
 * Use [passive event listeners](https://developers.google.com/web/updates/2016/06/passive-event-listeners)
 * Use *opacity* and *transforms* to create css animations, avoiding unnecessary reflows.
-* Use [will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change) when you know element will be animated
+* Use [will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change) when you know the element will be animated
 * Constantly check performance with the Chrome DevTools Audit tab.
 
 ## Backend Optimizations
