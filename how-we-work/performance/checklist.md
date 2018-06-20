@@ -113,6 +113,7 @@ Finally, some tools that help you on the way:
 * GTMetrix (loading times, performance charts)
 * Locust.io (load testing, requires some python knowledge)
 * jmeter (load testing)
+* Apache Benchmark (load and perf testing)
 
 ## Further Reading
 [Frontend Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
