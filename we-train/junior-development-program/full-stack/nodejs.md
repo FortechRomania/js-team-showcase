@@ -47,6 +47,13 @@ Play around with a few middlewares:
 * [Cookie parser](https://www.npmjs.com/package/cookie-parser)
 * [Body parser](https://github.com/expressjs/body-parser)
 
+#### Express best practices
+This is a [great resource](https://expressjs.com/en/advanced/best-practice-performance.html) that covers several practices for express:
+* compression
+* logging
+* error handling
+* process management
+
 ### MongoDB and Mongoose
 [MongoDB](https://docs.mongodb.com/manual/) is an open-source, document based database. The guys from [nodeschool](https://nodeschool.io) have an interesting [tutorial](https://github.com/evanlucas/learnyoumongo) on how to start working with it
 
