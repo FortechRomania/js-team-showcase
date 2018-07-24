@@ -11,7 +11,7 @@ Once you've built your first GraphQL server you can check this article with a ni
 * [Using GraphQL with MongoDB](https://www.compose.com/articles/using-graphql-with-mongodb/)
 
 ### GraphQL and Apollo
-This 6-part article is a great reference to start building a React app powered by a GraphQL backend. **Apollo** is an easy-to-use client for GraphQL which allows you to write queries and mutations on any frontend application in order to communicate with a GraphQL endpoint. This series of articles goes through the basic functionalities exposed by **React-Apollo**, the library used for connecting React apps to GraphQL.
+This 8-part article is a great reference to start building a React app powered by a GraphQL backend. **Apollo** is an easy-to-use client for GraphQL which allows you to write queries and mutations on any frontend application in order to communicate with a GraphQL endpoint. This series of articles goes through the basic functionalities exposed by **React-Apollo**, the library used for connecting React apps to GraphQL.
 * [Getting started with React-Apollo](https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
 
 **Notes**
