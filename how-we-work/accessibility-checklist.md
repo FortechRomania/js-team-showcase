@@ -13,4 +13,17 @@ Here are some of the areas we will cover:
 
 ### Colors and Contrast
 
+
 ### Typography
+
+### User Interaction
+
+### Forms
+
+### Actions
+
+### Aria
+
+### Animations
+
+### Tools
