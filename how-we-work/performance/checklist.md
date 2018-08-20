@@ -52,6 +52,9 @@ In order to avoid a roundtrip to fetch the initial css, there are certain scenar
 * [Critical](https://github.com/addyosmani/critical)
 * [CriticalCSS](https://github.com/filamentgroup/criticalCSS)
 
+#### Leverage font-display for critical text
+When you're using webfonts, by default, browsers will not show the text until the webfonts are loaded. Using `font-display: swap` or `optional` can signal browsers to use a system font until webfonts are there. More about `font-display` and the possible values on [css-tricks](https://css-tricks.com/font-display-masses/).
+
 #### Limit number of DOM nodes
 Make sure you don't introduce too many nodes in your HTML, try to keep it clean and neat. Google Lighthouse suggests limiting your DOM Nodes to ~1500 per page.
 
