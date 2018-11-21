@@ -13,6 +13,8 @@ A great overview of testing and testing tools can be found [here](https://medium
 * Stubs - if you simply want to specify how something will work to help your test case.
 * Mocks - if you want to both of the above on a single dependency in your test case.
 
+Another great resource on testing node is [this](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391).
+
 # Tests tools
 
 There are a couple of tools that facilitate tests writing. These can be grouped in categories as follows.
@@ -20,6 +22,8 @@ There are a couple of tools that facilitate tests writing. These can be grouped 
 ### Mocking libraries
 * [Sinon](http://sinonjs.org/)
 * [Js-mock](https://www.npmjs.com/package/js-mock)
+* [Nock](https://github.com/nock/nock)
+* [mock-require](https://github.com/boblauer/mock-require)
 
 ### Assertion libraries: 
 * [should.js](https://shouldjs.github.io/) - BDD style 
