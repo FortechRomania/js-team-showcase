@@ -83,5 +83,8 @@ Build a modern project setup following [this tutorial](https://www.pluralsight.c
 ### Recommended time
 This module should take 5 to 6 weeks of learning and practicing.
 
+### More articles
+* [Closures (article in romanian)](https://www.3data.ro/viewart.php/8/Despre-notiunea-de-closure---in-JavaScript)
+
 ### Measurable progress
 At the end of this module you should be familiar with the core concepts and paradigms revolving around JavaScript. You should also be able to write clean, tested and efficient code following our guidelines. Finally, you should understand how to build a modern JavaScript driven project with ES2015 and Webpack.
