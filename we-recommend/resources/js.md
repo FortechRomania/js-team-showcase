@@ -7,3 +7,4 @@
 * [The Two Pillars of Javascript Part2](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * [The state of Javascript 2018](https://stateofjs.com/)
 * [Advanced Javascript Roadmap](https://coggle.it/diagram/XE3ZoVj-rtA5hcxj/t/advanced-javascript)
+* [For vs forEach vs for/in vs for/of](http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html)
