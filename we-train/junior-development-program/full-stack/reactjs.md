@@ -9,6 +9,8 @@ Also [on egghead](https://blog.kentcdodds.com/learn-react-fundamentals-and-advan
 
 Also [a good read](https://engineering.opsgenie.com/i-wish-i-knew-these-before-diving-into-react-301e0ee2e488) before you get started.
 
+You can also follow this [react training](https://github.com/alexnm/react-training) material, which covers all topics you should get familiar with regardign React.
+
 Exercise: Re-write your image slider using React.
 
 ### Movie catalog app
