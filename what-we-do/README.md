@@ -24,5 +24,4 @@ Click on the image below to check out the details of our technical radar:
 * [Firebase](https://github.com/FortechRomania/js-team-showcase/blob/master/what-we-do/showcase/firebase.md)
 * [nginx](https://github.com/FortechRomania/js-team-showcase/blob/master/what-we-do/showcase/nginx.md)
 * [flowtype](https://github.com/FortechRomania/js-team-showcase/blob/master/what-we-do/showcase/flowtype.md)
-* [nginx](https://github.com/FortechRomania/js-team-showcase/blob/master/what-we-do/showcase/nginx.md)
 * [vue](https://github.com/FortechRomania/js-team-showcase/blob/master/what-we-do/showcase/vue.md)
