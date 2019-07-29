@@ -4,7 +4,7 @@
 - [State Management with React Hooks and Context API in 10 lines of code!](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
 
  - [symbioticlabs/express-router-adapter](https://github.com/symbioticlabs/express-router-adapter)
- - [Google](https://google.com)
+ 
 ### 24.05.2018
 - [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms)
     - tags: algorithms, data structures
