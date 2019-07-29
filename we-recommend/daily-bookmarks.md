@@ -7,10 +7,6 @@
  
  - [Angular](https://angular.io/tutorial)
 
- - [Tutorial: Intro to React – React](https://reactjs.org/tutorial/tutorial.html)
- - [Tutorial: Intro to React – React](https://reactjs.org/tutorial/tutorial.html)
- - [State Management with React Hooks and Context API in 10 lines of code!](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
- - [State Management with React Hooks and Context API in 10 lines of code!](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
 ### 24.05.2018
 - [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms)
     - tags: algorithms, data structures
