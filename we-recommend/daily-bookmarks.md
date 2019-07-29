@@ -1,8 +1,9 @@
 # Web Development Bookmarks
 
-### 29.07.2019 
+### 29.07.2019  
 - [State Management with React Hooks and Context API in 10 lines of code!](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
 
+ - [TypeScript vs JavaScript - 9 Most Useful Comparison To Learn](https://www.educba.com/typescript-vs-javascript/)
  - [TypeScript vs JavaScript - 9 Most Useful Comparison To Learn](https://www.educba.com/typescript-vs-javascript/)
 ### 24.05.2018
 - [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms)
