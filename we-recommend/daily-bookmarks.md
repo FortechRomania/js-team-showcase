@@ -1,7 +1,8 @@
 # Web Development Bookmarks
 
-### 30.07.2019 
+### 30.07.2019  
 - [The Difference Between Throttling and Debouncing | CSS-Tricks](https://css-tricks.com/the-difference-between-throttling-and-debouncing/)
+ - [Throttling and Debouncing in JavaScript](https://codeburst.io/throttling-and-debouncing-in-javascript-b01cad5c8edf)
 ### 29.07.2019                 
 - [State Management with React Hooks and Context API in 10 lines of code!](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
 
