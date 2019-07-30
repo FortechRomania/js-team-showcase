@@ -8,7 +8,6 @@
  - [Angular](https://angular.io/tutorial)
 
  - [Tutorial: Intro to React – React](https://reactjs.org/tutorial/tutorial.html)
- - [Tutorial: Intro to React – React](https://reactjs.org/tutorial/tutorial.html)
 ### 24.05.2018
 - [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms)
     - tags: algorithms, data structures
