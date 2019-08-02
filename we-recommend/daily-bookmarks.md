@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 2.08.2019
+- [The Complete Guide to ES10 Features](https://medium.com/@js_tut/the-complete-guide-to-es10-features-f09a8c7be1bd)
+
 ### 30.07.2019      
 - [The Difference Between Throttling and Debouncing | CSS-Tricks](https://css-tricks.com/the-difference-between-throttling-and-debouncing/)
  - [Throttling and Debouncing in JavaScript](https://codeburst.io/throttling-and-debouncing-in-javascript-b01cad5c8edf)
