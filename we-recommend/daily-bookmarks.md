@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 5.08.2019
+- [Regex For Noobs (like me!) - an illustrated guide](https://www.janmeppe.com/blog/regex-for-noobs/)
+
 ### 2.08.2019 
 - [The Complete Guide to ES10 Features](https://medium.com/@js_tut/the-complete-guide-to-es10-features-f09a8c7be1bd)
 
