@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 12.08.2019
+- [React v16.9.0 and the Roadmap Update – React Blog](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html#performance-measurements-with-reactprofiler)
+
 ### 5.08.2019
 - [Regex For Noobs (like me!) - an illustrated guide](https://www.janmeppe.com/blog/regex-for-noobs/)
 
