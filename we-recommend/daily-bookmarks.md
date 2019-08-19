@@ -1,8 +1,9 @@
 # Web Development Bookmarks
 
-### 19.08.2019
+### 19.08.2019 
 - [How to get HTTPS working on your local development environment in 5 minutes](https://www.freecodecamp.org/news/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec/)
 
+ - [Angular ng-content and Content Projection - The Complete Guide](https://blog.angular-university.io/angular-ng-content/)
 ### 12.08.2019
 - [React v16.9.0 and the Roadmap Update – React Blog](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html#performance-measurements-with-reactprofiler)
 
