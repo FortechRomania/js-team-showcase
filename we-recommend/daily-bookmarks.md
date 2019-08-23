@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 23.08.2019
+- [3 Ways to Create a Modal Window With the Angular CDK - MentorMate](https://mentormate.com/blog/create-modal-window-with-angular-cdk/)
+
 ### 22.08.2019
 - [Angular ng-template, ng-container and ngTemplateOutlet: Guided Tour](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
 
