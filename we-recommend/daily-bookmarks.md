@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 26.08.2019
+- [Using Native JavaScript Modules in Production Today &#x2014; Philip Walton](https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/)
+
 ### 23.08.2019
 - [3 Ways to Create a Modal Window With the Angular CDK - MentorMate](https://mentormate.com/blog/create-modal-window-with-angular-cdk/)
 
