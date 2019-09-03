@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 3.09.2019
+- [The Vue Instance - Intro to Vue.js | Vue Mastery](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
+
 ### 2.09.2019
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans)
 
