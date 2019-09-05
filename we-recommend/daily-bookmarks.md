@@ -1,8 +1,9 @@
 # Web Development Bookmarks
 
-### 5.09.2019
+### 5.09.2019 
 - [Boost your JavaScript Debugging Skills With These Console Tricks](https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a)
 
+ - [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests?utm_source=ponyfoo+weekly&amp;utm_medium=email&amp;utm_campaign=183)
 ### 3.09.2019
 - [The Vue Instance - Intro to Vue.js | Vue Mastery](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
 
