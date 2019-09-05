@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 5.09.2019
+- [Boost your JavaScript Debugging Skills With These Console Tricks](https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a)
+
 ### 3.09.2019
 - [The Vue Instance - Intro to Vue.js | Vue Mastery](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
 
