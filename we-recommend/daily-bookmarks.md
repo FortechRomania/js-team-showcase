@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 6.09.2019
+- [Amelia Wattenberger](https://wattenberger.com/blog/d3#intro)
+
 ### 5.09.2019 
 - [Boost your JavaScript Debugging Skills With These Console Tricks](https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a)
 
