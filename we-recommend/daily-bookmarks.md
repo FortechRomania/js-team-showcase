@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 10.09.2019
+- [21 Performance Optimization Techniques for React](https://medium.com/better-programming/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349)
+
 ### 6.09.2019 
 - [Amelia Wattenberger](https://wattenberger.com/blog/d3#intro)
 
