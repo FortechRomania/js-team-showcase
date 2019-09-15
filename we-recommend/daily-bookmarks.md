@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 15.09.2019
+- [The history and legacy of jQuery - LogRocket Blog](https://blog.logrocket.com/the-history-and-legacy-of-jquery/)
+
 ### 10.09.2019
 - [21 Performance Optimization Techniques for React](https://medium.com/better-programming/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349)
 
