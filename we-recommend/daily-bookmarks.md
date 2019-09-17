@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 17.09.2019
+- [The boring technology behind a one-person Internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
+
 ### 15.09.2019
 - [The history and legacy of jQuery - LogRocket Blog](https://blog.logrocket.com/the-history-and-legacy-of-jquery/)
 
