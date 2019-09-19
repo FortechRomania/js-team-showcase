@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 19.09.2019
+- [Responsive Components: a Solution to the Container Queries Problem &#x2014; Philip Walton](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/)
+
 ### 18.09.2019 
 - [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
 
