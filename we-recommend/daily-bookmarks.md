@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 27.09.2019
+- [avelino/awesome-go](https://github.com/avelino/awesome-go)
+
 ### 19.09.2019
 - [Responsive Components: a Solution to the Container Queries Problem &#x2014; Philip Walton](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/)
 
