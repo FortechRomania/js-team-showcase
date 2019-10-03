@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 3.10.2019
+- [The Complete Guide to NgRx Testing (2019)](https://christianlydemann.com/the-complete-guide-to-ngrx-testing/)
+
 ### 30.09.2019
 - [Which companies are using Erlang, and why? #MyTopdogStatus | Erlang Solution blog](https://www.erlang-solutions.com/blog/which-companies-are-using-erlang-and-why-mytopdogstatus.html)
 
