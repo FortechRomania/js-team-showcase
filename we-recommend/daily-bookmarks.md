@@ -1,8 +1,9 @@
 # Web Development Bookmarks
 
-### 4.10.2019
+### 4.10.2019 
 - [Testing in Production - TALIA NASSI](https://youtu.be/Y_D9t98dGh4?t=1)
 
+ - [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications)
 ### 3.10.2019
 - [The Complete Guide to NgRx Testing (2019)](https://christianlydemann.com/the-complete-guide-to-ngrx-testing/)
 
