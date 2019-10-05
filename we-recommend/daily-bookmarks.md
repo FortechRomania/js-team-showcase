@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 5.10.2019
+- [Don't Use JavaScript Variables Without Knowing Temporal Dead Zone](https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/)
+
 ### 4.10.2019 
 - [Testing in Production - TALIA NASSI](https://youtu.be/Y_D9t98dGh4?t=1)
 
