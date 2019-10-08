@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 8.10.2019
+- [How To Create Meaningful Names In Code](https://medium.com/better-programming/how-to-create-meaningful-names-in-code-20d7476537d4)
+
 ### 5.10.2019
 - [Don't Use JavaScript Variables Without Knowing Temporal Dead Zone](https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/)
 
