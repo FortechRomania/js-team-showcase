@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 15.10.2019
+- [Using sourcemaps on production without exposing the source code 🕵️‍](https://itnext.io/using-sourcemaps-on-production-without-revealing-the-source-code-%EF%B8%8F-d41e78e20c89)
+
 ### 8.10.2019
 - [How To Create Meaningful Names In Code](https://medium.com/better-programming/how-to-create-meaningful-names-in-code-20d7476537d4)
 
