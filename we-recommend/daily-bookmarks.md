@@ -1,8 +1,9 @@
 # Web Development Bookmarks
 
-### 21.10.2019
+### 21.10.2019 
 - [Tips for Writing Self-Documenting Code](https://itnext.io/tips-for-writing-self-documenting-code-e54a15e9de2)
 
+ - [smooth-code/svgr](https://github.com/smooth-code/svgr)
 ### 15.10.2019
 - [Using sourcemaps on production without exposing the source code 🕵️‍](https://itnext.io/using-sourcemaps-on-production-without-revealing-the-source-code-%EF%B8%8F-d41e78e20c89)
 
