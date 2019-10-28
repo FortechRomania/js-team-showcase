@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 28.10.2019
+- [Lessons learned from 5 years in React.docx](https://www.dropbox.com/s/tsid5bnphznbvjv/Lessons%20learned%20from%205%20years%20in%20React.docx?dl=0)
+
 ### 21.10.2019 
 - [Tips for Writing Self-Documenting Code](https://itnext.io/tips-for-writing-self-documenting-code-e54a15e9de2)
 
