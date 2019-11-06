@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 6.11.2019
+- [react-dom@16.11.0 ❘ BundlePhobia](https://bundlephobia.com/result?p=react-dom@16.11.0)
+
 ### 1.11.2019
 - [htop explained](https://peteris.rocks/blog/htop/)
 
