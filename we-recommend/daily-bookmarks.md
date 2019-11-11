@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 11.11.2019
+- [Getting To Know The Partial Type in TypeScript](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
+
 ### 6.11.2019
 - [react-dom@16.11.0 ❘ BundlePhobia](https://bundlephobia.com/result?p=react-dom@16.11.0)
 
