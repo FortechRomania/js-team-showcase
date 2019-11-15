@@ -1,8 +1,9 @@
 # Web Development Bookmarks
 
-### 15.11.2019
+### 15.11.2019 
 - [Build your own React](https://pomb.us/build-your-own-react/)
 
+ - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x#build-your-own-git)
 ### 11.11.2019 
 - [Getting To Know The Partial Type in TypeScript](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
 
