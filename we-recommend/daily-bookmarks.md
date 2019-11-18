@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 18.11.2019
+- [React Hooks cheat sheet: Unlock solutions to common problems - LogRocket Blog](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
+
 ### 15.11.2019 
 - [Build your own React](https://pomb.us/build-your-own-react/)
 
