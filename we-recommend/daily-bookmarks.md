@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 26.11.2019
+- [tannerlinsley/react-table](https://github.com/tannerlinsley/react-table/blob/master/docs/concepts.md)
+
 ### 25.11.2019
 - [Email Address Regular Expression That 99.99% Works.](https://emailregex.com/)
 
