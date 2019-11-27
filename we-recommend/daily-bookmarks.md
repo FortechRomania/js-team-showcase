@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 27.11.2019
+- [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)
+
 ### 26.11.2019
 - [tannerlinsley/react-table](https://github.com/tannerlinsley/react-table/blob/master/docs/concepts.md)
 
