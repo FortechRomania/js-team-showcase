@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 2.12.2019
+- [tjunnone/npm-check-updates](https://github.com/tjunnone/npm-check-updates)
+
 ### 27.11.2019
 - [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)
 
