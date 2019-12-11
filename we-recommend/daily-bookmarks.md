@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 11.12.2019
+- [A Recap of Frontend Development in 2019](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2019-1e7d07966d6c)
+
 ### 2.12.2019
 - [tjunnone/npm-check-updates](https://github.com/tjunnone/npm-check-updates)
 
