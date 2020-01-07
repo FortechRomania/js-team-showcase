@@ -1,8 +1,9 @@
 # Web Development Bookmarks
 
-### 7.01.2020
+### 7.01.2020 
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/index.xhtml)
 
+ - [lorem](https://atom.io/packages/lorem)
 ### 11.12.2019
 - [A Recap of Frontend Development in 2019](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2019-1e7d07966d6c)
 
