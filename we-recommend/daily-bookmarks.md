@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 8.01.2020
+- [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
+
 ### 7.01.2020 
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/index.xhtml)
 
