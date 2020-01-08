@@ -1,8 +1,9 @@
 # Web Development Bookmarks
 
-### 8.01.2020
+### 8.01.2020 
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
 
+ - [The React Cookbook: Advanced Recipes to Level Up Your Next App](https://www.youtube.com/watch?v=lG6Z0FQj_SI)
 ### 7.01.2020 
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/index.xhtml)
 
