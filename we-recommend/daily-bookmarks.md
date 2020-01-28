@@ -1,8 +1,9 @@
 # Web Development Bookmarks
 
-### 28.01.2020
+### 28.01.2020 
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone)
 
+ - [Introduction to JAMstack (and What’s in Store for 2020)](https://snipcart.com/blog/jamstack)
 ### 8.01.2020 
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
 
