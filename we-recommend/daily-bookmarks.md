@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 28.01.2020
+- [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone)
+
 ### 8.01.2020 
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
 
