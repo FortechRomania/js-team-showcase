@@ -1,8 +1,9 @@
 # Web Development Bookmarks
 
-### 6.02.2020
+### 6.02.2020 
 - [StaticGen | Top Open Source Static Site Generators](https://www.staticgen.com/)
 
+ - [Eleventy is a simpler static site generator.](https://www.11ty.dev/)
 ### 3.02.2020 
 - [Share reusable code components as a team · Bit](https://bit.dev/)
 
