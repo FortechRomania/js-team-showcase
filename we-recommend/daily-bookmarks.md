@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 6.02.2020
+- [StaticGen | Top Open Source Static Site Generators](https://www.staticgen.com/)
+
 ### 3.02.2020 
 - [Share reusable code components as a team · Bit](https://bit.dev/)
 
