@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 7.02.2020
+- [React Libraries in 2020 - RWieruch](https://www.robinwieruch.de/react-libraries)
+
 ### 6.02.2020 
 - [StaticGen | Top Open Source Static Site Generators](https://www.staticgen.com/)
 
