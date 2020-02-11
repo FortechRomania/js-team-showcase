@@ -1,9 +1,10 @@
 # Web Development Bookmarks
 
-### 11.02.2020 
+### 11.02.2020  
 - [Performant front-end architecture | DebugBear](https://www.debugbear.com/blog/performant-front-end-architecture)
 
  - [Optimizing your talking points](https://rachelbythebay.com/w/2018/04/28/meta/)
+ - [Oh, don&apos;t worry, I&apos;ve screwed up plenty of things too](https://rachelbythebay.com/w/2020/02/10/broken/)
 ### 7.02.2020
 - [React Libraries in 2020 - RWieruch](https://www.robinwieruch.de/react-libraries)
 
