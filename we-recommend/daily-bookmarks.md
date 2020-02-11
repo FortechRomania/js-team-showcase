@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 11.02.2020
+- [Performant front-end architecture | DebugBear](https://www.debugbear.com/blog/performant-front-end-architecture)
+
 ### 7.02.2020
 - [React Libraries in 2020 - RWieruch](https://www.robinwieruch.de/react-libraries)
 
