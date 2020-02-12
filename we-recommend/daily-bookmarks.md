@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 12.02.2020
+- [Baptiste Adrien on Twitter](https://twitter.com/shinework/status/1227528562091188226?s=20|https://twitter.com/shinework/status/1227528562091188226?s=20)
+
 ### 11.02.2020  
 - [Performant front-end architecture | DebugBear](https://www.debugbear.com/blog/performant-front-end-architecture)
 
