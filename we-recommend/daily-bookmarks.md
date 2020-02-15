@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 15.02.2020
+- [12 Signs You’re Working in a Feature Factory](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory)
+
 ### 14.02.2020
 - [All – Tiny Helpers](https://tiny-helpers.dev/)
 
