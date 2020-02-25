@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 25.02.2020
+- [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+
 ### 20.02.2020
 - [Illustrations | unDraw](https://undraw.co/illustrations)
 
