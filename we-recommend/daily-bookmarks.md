@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 26.02.2020
+- [Conditional Types in TypeScript](https://mariusschulz.com/blog/conditional-types-in-typescript)
+
 ### 25.02.2020
 - [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
 
