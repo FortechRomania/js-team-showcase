@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 27.02.2020
+- [Why the GOV.UK Design System team changed the input type for numbers - Technology in government](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/|https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
+
 ### 26.02.2020
 - [Conditional Types in TypeScript](https://mariusschulz.com/blog/conditional-types-in-typescript)
 
