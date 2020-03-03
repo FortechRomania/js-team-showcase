@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 3.03.2020
+- [Serverless - The Serverless Application Framework powered by AWS Lambda, API Gateway, and more](https://serverless.com/)
+
 ### 27.02.2020
 - [Why the GOV.UK Design System team changed the input type for numbers - Technology in government](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/|https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
 
