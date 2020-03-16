@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 16.03.2020
+- [Introduction to design systems](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
+
 ### 9.03.2020
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices#readme)
 
