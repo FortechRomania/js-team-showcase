@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 23.04.2020
+- [Async/await without try/catch in JavaScript](https://itnext.io/async-await-without-try-catch-in-javascript-6dcdf705f8b1)
+
 ### 14.04.2020
 - [DJ3D.io](https://dj3d.io/)
 
