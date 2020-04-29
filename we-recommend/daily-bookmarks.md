@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 29.04.2020
+- [Introducing Insomnia Designer](https://insomnia.rest/blog/introducing-designer/)
+
 ### 23.04.2020
 - [Async/await without try/catch in JavaScript](https://itnext.io/async-await-without-try-catch-in-javascript-6dcdf705f8b1)
 
