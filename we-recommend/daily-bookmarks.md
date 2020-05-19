@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 19.05.2020
+- [HTML Email Best Practices](https://templates.mailchimp.com/getting-started/html-email-basics/)
+
 ### 29.04.2020
 - [Introducing Insomnia Designer](https://insomnia.rest/blog/introducing-designer/)
 
