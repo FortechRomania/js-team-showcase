@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 20.05.2020
+- [Website Speed Test by Cloudinary](https://webspeedtest.cloudinary.com/)
+
 ### 19.05.2020
 - [HTML Email Best Practices](https://templates.mailchimp.com/getting-started/html-email-basics/)
 
