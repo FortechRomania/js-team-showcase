@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 2.06.2020
+- [Causes of Memory Leaks in JavaScript and How to Avoid Them](https://www.ditdot.hr/en/causes-of-memory-leaks-in-javascript-and-how-to-avoid-them)
+
 ### 20.05.2020
 - [Website Speed Test by Cloudinary](https://webspeedtest.cloudinary.com/)
 
