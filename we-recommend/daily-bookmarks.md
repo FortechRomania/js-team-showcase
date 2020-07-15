@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 15.07.2020
+- [docker rm](https://docs.docker.com/engine/reference/commandline/rm/)
+
 ### 2.06.2020
 - [Causes of Memory Leaks in JavaScript and How to Avoid Them](https://www.ditdot.hr/en/causes-of-memory-leaks-in-javascript-and-how-to-avoid-them)
 
