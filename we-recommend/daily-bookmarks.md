@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 27.07.2020
+- [Tips for Yahoo! Email](https://www.emailonacid.com/blog/article/email-development/9_ways_to_prevent_yahoo_headaches/)
+
 ### 15.07.2020
 - [docker rm](https://docs.docker.com/engine/reference/commandline/rm/)
 
