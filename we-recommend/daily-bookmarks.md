@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 6.08.2020
+- [Mock Functions · Jest](https://jestjs.io/docs/en/mock-function-api)
+
 ### 27.07.2020
 - [Tips for Yahoo! Email](https://www.emailonacid.com/blog/article/email-development/9_ways_to_prevent_yahoo_headaches/)
 
