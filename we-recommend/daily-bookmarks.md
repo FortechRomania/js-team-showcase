@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 11.08.2020
+- [text-mask/text-mask](https://github.com/text-mask/text-mask/blob/master/componentDocumentation.md)
+
 ### 6.08.2020
 - [Mock Functions · Jest](https://jestjs.io/docs/en/mock-function-api)
 
