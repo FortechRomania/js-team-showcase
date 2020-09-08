@@ -1,5 +1,8 @@
 # Web Development Bookmarks
 
+### 8.09.2020
+- [Ground Rules for Web Animations | CSS-Tricks](https://css-tricks.com/ground-rules-for-web-animations/)
+
 ### 11.08.2020
 - [text-mask/text-mask](https://github.com/text-mask/text-mask/blob/master/componentDocumentation.md)
 
