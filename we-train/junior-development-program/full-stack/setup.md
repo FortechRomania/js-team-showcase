@@ -15,7 +15,6 @@ Add plugins like [ESLint](https://eslint.org/) or [Emmet](https://emmet.io/) to 
 ### Access to resources
 Fortech employees have access to our company accounts for the following resources:
 * [Pluralsight](https://www.pluralsight.com/)
-* [Lynda](https://www.lynda.com/)
 * [Egghead](https://egghead.io/)
 
 We recommend them as excellent sources of online materials, but of course you can learn from your own sources if you wish.

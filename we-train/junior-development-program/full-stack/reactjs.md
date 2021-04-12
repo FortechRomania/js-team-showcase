@@ -37,11 +37,11 @@ Additionally, you should integrate your React slider component on the home page.
 ### Redux
 At this step we are separating our application state and the business logic from our React components.
 
-Understand the pattern behind redux with [this tutorial](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
+Understand the pattern behind redux with [this tutorial](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree).
 
 You should enhance your application by:
 * Adding redux to keep the application state
-* Adding a Watchlist functionality with its own page
+* Adding a watchlist functionality with its own page
 
 Additionally, you should read more about [redux middlewares](http://redux.js.org/docs/advanced/Middleware.html), one of the best ways of enhancing redux and specifically about [redux-thunk](https://github.com/gaearon/redux-thunk).
 

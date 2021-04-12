@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We see performance as an integral part of the quality of the software that we build. There's no need to re-emphasize the importance of performance in the modern web. We strongly belive that it is our duty to provide to our users a slick and fast UX, so we try to include performance optimizations in our regular working process.
+We see performance as an integral part of the quality of the software that we build. There's no need to re-emphasize the importance of performance in the modern web. We strongly believe that it is our duty to provide to our users a slick and fast UX, so we try to include performance optimizations in our regular working process.
 
 Here are a couple of areas that revolve around web performance. They will be later grouped into **front-end**, **back-end** and **tooling**, but for now let's look at where we can actually improve the performance of our web applications.
 
@@ -25,7 +25,7 @@ When we talk about the Critical Rendering Path, or CRP, we refer to the initial 
 All these are important but if we focus on the rendering part and on the moment when the users sees the relevant content, then optimizing CRP is about shortening the delay of the [first meaningful paint](https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint). A few points to consider are:
 
 #### Use Server Side Rendering
-Modern JS frameworks (Angular, React, Vue) support server side rendering, allowing the application to become **universal**. Here's a guide to implement [server side rendering in React](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4). SSR minimizes the time you wait for the first meaningul paint because your components render on the server and the client only needs to load HTML and CSS. This also ensures that we can defer loading javascript files.
+Modern JS frameworks (Angular, React, Vue) support server side rendering, allowing the application to become **universal**. Here's a guide to implement [server side rendering in React](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4). SSR minimizes the time you wait for the first meaningful paint because your components render on the server and the client only needs to load HTML and CSS. This also ensures that we can defer loading JavaScript files.
 
 #### Defer JavaScript execution
 If the user doesn't need JavaScript to see the initial render, we can use the `defer` attribute on script tags.
@@ -40,7 +40,7 @@ Defering resource execution is one thing, but in certain scenarios you may want 
 
 An example would be
 ```
-<link rel="preload" href="/app.bundle.css" as="style">
+<link rel="preload" href="/app.bundle.css" as="style" />
 <link rel="preload" href="/fonts/roboto.woff2" as="font" type="font/woff2" crossorigin />        
 <link rel="preload" href="/app.bundle.js" as="script" />
 ```
@@ -48,7 +48,7 @@ An example would be
 Also make sure you keep all your critical resources on your domain/servers, so you don't depend on 3rd parties for your critical render.
 
 #### Inline above-the-fold CSS
-In order to avoid a roundtrip to fetch the initial css, there are certain scenarios in which you can inline the styles needed to render the initial screen. The browser only needs the styles which are *above-the-fold*, or inside the user viewport. There are multiple tools that help you extract above the fold css:
+In order to avoid a roundtrip to fetch the initial CSS, there are certain scenarios in which you can inline the styles needed to render the initial screen. The browser only needs the styles which are *above-the-fold*, or inside the user viewport. There are multiple tools that help you extract above the fold CSS:
 * [Critical](https://github.com/addyosmani/critical)
 * [CriticalCSS](https://github.com/filamentgroup/criticalCSS)
 
@@ -72,12 +72,12 @@ Make sure you also minimize CSS, especially since that CSS will always delay the
 When [using webpack](https://webpack.js.org/guides/tree-shaking/), make sure you disable module transpilation, so webpack can automatically do tree shaking based on ES Modules syntax.
 
 #### Code splitting
-If you bundle size is still large, one option is to split chunks of your code and lazy load them only when you need them. This is very easily done with the [dynamic import syntax and webpack](https://webpack.js.org/guides/code-splitting/). Further more, when using React, you can use [react-loadable](https://github.com/jamiebuilds/react-loadable) to abstract the complexity of the dynamic module import.
+If your bundle size is still large, one option is to split chunks of your code and lazy load them only when you need them. This is very easily done with the [dynamic import syntax and webpack](https://webpack.js.org/guides/code-splitting/). Further more, when using React, you can use [react-loadable](https://github.com/jamiebuilds/react-loadable) to abstract the complexity of the dynamic module import.
 
 #### Eliminate seldomly used dependencies
 Make sure you're using a good chunk of a library if you import it in your code. Otherwise you will end up with a lot of unused code in your final bundle that might not be easily tree shaken because of the way in which the library is built. A few examples:
 * Prefer the native array functions instead of adding lodash for a few operations
-* Avoid using moment.js (69 kB minified + gziped!) or make sure you don't load all locales for it.
+* Avoid using `moment.js` (69 kB minified + gziped!) or make sure you don't load all locales for it.
 * Create your custom components if your use case is very limited compared to a fully featured component.
 
 #### Other ideas to help minimize the bundle size
@@ -97,7 +97,7 @@ A few practices to improve the performance on website that rely heavily on image
 ## Interactivity and Animations
 After optimizing the critical rendering path and the initial render, it's time to look at how the user interacts with your application. Using the following practices will help you maintain your rendering at 60fps:
 * Use [passive event listeners](https://developers.google.com/web/updates/2016/06/passive-event-listeners)
-* Use *opacity* and *transforms* to create css animations, avoiding unnecessary reflows.
+* Use *opacity* and *transforms* to create css animations, avoiding unnecessary reflows
 * Use [will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change) when you know the element will be animated
 * Constantly check performance with the Chrome DevTools Audit tab.
 

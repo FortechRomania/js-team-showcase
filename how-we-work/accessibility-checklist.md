@@ -47,7 +47,7 @@ Never make assumptions about how your users interact with the website and make s
   * **NVDA**
   * **VoiceOver** on OS-X/iOS
   * **Orca** for Linux
-* [lighthouse](https://developers.google.com/web/tools/lighthouse/) - performs audits in chrome (the audit tab in devtools).
+* [lighthouse](https://developers.google.com/web/tools/lighthouse/) - performs audits in Chrome (the audit tab in devtools).
 * [axe-core](https://github.com/dequelabs/axe-core) - performs e2e automated tests for a11y issues, can easily be integrated in cypress or jest.
 * [tota11y](https://khan.github.io/tota11y/) - shows a11y validations on top of existing websites.
 * [alexjs](https://alexjs.com/) - catches insensitive and inconsiderate writing.
@@ -68,6 +68,5 @@ Never make assumptions about how your users interact with the website and make s
 * [Human Interface Guidelines for iOS](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/)
 * [Handling Touch Targets](https://a11yproject.com/posts/large-touch-targets/)
 * [WAI-ARIA Guidelines](https://www.w3.org/WAI/standards-guidelines/aria/)
-
 
 *** Credits go to [Alex Moldovan](https://github.com/alexnm/a11y-checklist)
