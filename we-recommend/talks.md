@@ -37,6 +37,3 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 
 ## Further resources
 * [awesometalks.party](https://awesometalks.party/)
-
-
-

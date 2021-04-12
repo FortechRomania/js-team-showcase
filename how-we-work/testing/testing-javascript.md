@@ -11,7 +11,7 @@ A great overview of testing and testing tools can be found [here](https://medium
 [Here](https://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/)'s a brief explanation about spies vs. stubs vs. mocks. In a nutshell, use: 
 * Spies - if you simply want to watch and verify somethings happens in your test case.
 * Stubs - if you simply want to specify how something will work to help your test case.
-* Mocks - if you want to both of the above on a single dependency in your test case.
+* Mocks - if you want to have both of the above on a single dependency in your test case.
 
 Another great resource on testing node is [this](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391).
 
@@ -55,16 +55,15 @@ There are a couple of tools that facilitate tests writing. These can be grouped 
 ### Cloud testing (browsers and devices providers)
 * [Browserstack](https://www.browserstack.com/automate)
 * [Saucelabs](https://saucelabs.com/)
-* [Aws device farm](https://aws.amazon.com/device-farm/)
+* [AWS device farm](https://aws.amazon.com/device-farm/)
 
 ### Code coverage
 * Istanbul
 
 # Examples
 
-A basic javascript testing setup with webpack, karma, mocha, chai, sinon and istanbul can be found [here]( https://github.com/ancutac/javascript-testing)
+A basic JavaScript testing setup with webpack, karma, mocha, chai, sinon and istanbul can be found [here]( https://github.com/ancutac/javascript-testing)
 
-[Here](https://www.sitepoint.com/unit-test-javascript-mocha-chai/)  you can find another article explaining unit testing setup with mocha.
+[Here](https://www.sitepoint.com/unit-test-javascript-mocha-chai/) you can find another article explaining unit testing setup with mocha.
 
 If want want to skip all the tedious configuration, you can use Jest, a testing framework with everything built in. [Here](https://github.com/ancutac/javascript-testing/tree/jest) is an example project setup. Since that's a branch of a previous configuration, you can check the comparison between jest setup and karma + mocha + chai + sinon + instanbul.
-

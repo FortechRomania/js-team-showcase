@@ -1,7 +1,7 @@
 # Standard Project Setup
 
 ### Common
-We try to approach all projects, small or large, with a consistent project setup. This includes things like [a common eslint config](https://github.com/FortechRomania/js-team-showcase/blob/master/how-we-work/coding-guidelines.md), a common approach to npm tasks and git flows, a common folder structure. Towards the end of the document, we will go through the specific setup aspects for React/Angular or other framework centric projects.
+We try to approach all projects, small or large, with a consistent project setup. This includes things like [a common ESlint config](https://github.com/FortechRomania/js-team-showcase/blob/master/how-we-work/coding-guidelines.md), a common approach to npm tasks and git flows, a common folder structure. Towards the end of the document, we will go through the specific setup aspects for React/Angular or other framework centric projects.
 
 Let's have a look at a standard `package.json` on one our our projects:
 ```javascript
@@ -54,16 +54,15 @@ Let's have a look at a standard `package.json` on one our our projects:
     "webpack-bundle-analyzer": "^2.2.1"
   }
 }
-
 ```
 
 Let's cover a few tools / libs from this setup.
 
 #### Webpack
-We use webpack for bundling modern web applications. We also use `Uglify` or `Minify` as plugins to output production code. Additionally, we integrate [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer) to generate more details about the bundle size and about how dependencies are composing in the production code. Finally, we add the [friendly-errors-plugin](https://www.npmjs.com/package/friendly-errors-webpack-plugin) for debugging purposes when running the project locally.
+We use Webpack for bundling modern web applications. We also use `Uglify` or `Minify` as plugins to output production code. Additionally, we integrate [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer) to generate more details about the bundle size and about how dependencies are composing in the production code. Finally, we add the [friendly-errors-plugin](https://www.npmjs.com/package/friendly-errors-webpack-plugin) for debugging purposes when running the project locally.
 
 #### Babel
-In order to support older browsers we transpile the code via [Babel](https://babeljs.io/). The babel settings go into `.babelrc`. In order to use babel with webpack we rely on `babel-preset-env` which can optionally transpile code based on the `browserlist` which is found in `package.json`.
+In order to support older browsers we transpile the code via [Babel](https://babeljs.io/). The babel settings go into `.babelrc`. In order to use babel with Webpack we rely on `babel-preset-env` which can optionally transpile code based on the `browserlist` which is found in `package.json`.
 
 A standard `.babelrc` file:
 ```json

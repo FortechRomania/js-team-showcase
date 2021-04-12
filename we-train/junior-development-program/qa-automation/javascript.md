@@ -29,7 +29,6 @@ Watch [Clean Code Fundamentals](https://cleancoders.com/videos/clean-code/fundam
 ### JavaScript Styleguide
 Read about [airbnb's styleguide](https://github.com/airbnb/javascript) and the rules they enforce through it. Also install the official [fortech styleguide](https://github.com/FortechRomania/eslint-config-fortech) which is inheriting the airbnb one with a few notable changes. Make sure you setup your future projects using this eslint config package.
 
-
 ### Asynchronous Programming
 Learn about the model of execution in JavaScript and the call stack. Wrap your head around asynchronous programming with the following resources:
 * [Understand the event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
@@ -55,4 +54,3 @@ This module should take 2 to 3 weeks of learning and practicing.
 
 ### Measurable progress
 At the end of this module you should be familiar with the core concepts and paradigms revolving around JavaScript. You should also be able to write clean and efficient code following our guidelines.
-

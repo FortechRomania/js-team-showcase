@@ -13,7 +13,7 @@ Quick read of the first two chapters of **Eloquent JavaScript**
 ### Modern JavaScript
 Understand [the modern JavaScript ecosystem](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70) based on npm modules.
 
-Take a [history lesson](https://auth0.com/blog/a-brief-history-of-javascript/) of JavaScript the EcmaScript Standard.
+Take a [history lesson](https://auth0.com/blog/a-brief-history-of-javascript/) of JavaScript, the EcmaScript Standard.
 * [ECMAScript2015/ES6](http://es6-features.org/#Constants)
 * [Egghead course on ES2015](https://egghead.io/courses/learn-es6-ecmascript-2015)
 
@@ -50,7 +50,7 @@ Also watch the series on [Clean Code in the Browser](https://cleancoders.com/vid
 Read more about [clean code concepts](https://alistapart.com/article/coding-with-clarity): Single Responsibility Principle, High Cohesion, Low Coupling.
 
 ### JavaScript Styleguide
-Read about [airbnb's styleguide](https://github.com/airbnb/javascript) and the rules they enforce through it. Also install the official [fortech styleguide](https://github.com/FortechRomania/eslint-config-fortech) which is inheriting the airbnb one with a few notable changes. Make sure you setup your future projects using this eslint config package.
+Read about [airbnb's styleguide](https://github.com/airbnb/javascript) and the rules they enforce through it. Also install the official [fortech styleguide](https://github.com/FortechRomania/eslint-config-fortech) which is inheriting the airbnb one with a few notable changes. Make sure you setup your future projects using [this ESlint config package](https://github.com/FortechRomania/eslint-config-fortech).
 
 ### Unit testing
 Test suites ensure that our code is stable as we perform changes or refactor over time. [Here](https://github.com/FortechRomania/js-team-showcase/tree/master/how-we-work/testing) you can find further details on all the elements of the testing ecosystem. 

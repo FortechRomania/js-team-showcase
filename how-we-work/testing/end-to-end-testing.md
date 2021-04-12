@@ -57,7 +57,7 @@ Runs tests in Chrome's built-in device emulator
 ```
 testcafe remote --qr-code test/test.js
 ```
-Generates qr code that can be used on several devices ( both desktop and mobile )
+Generates qr code that can be used on several devices (both desktop and mobile)
 
 *Integration with SauceLabs*
 
@@ -68,8 +68,8 @@ npm install testcafe-browser-provider-saucelabs
 
 More info on: https://www.npmjs.com/package/testcafe-browser-provider-saucelabs
 Set Environment Variables for Authentication Credentials. More details here.
-Open Terminal mode, enter vi ~/.bash_profile, and then press Enter.
-Press i to insert text into your profile file.
+Open Terminal mode, enter vi `~/.bash_profile`, and then press Enter.
+Press i key to insert text into your profile file.
 Enter these lines:
 
 ```

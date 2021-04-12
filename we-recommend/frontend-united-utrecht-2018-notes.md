@@ -1,6 +1,6 @@
 # Frontend United Utrecht 2018 Notes
 
-### 1. [Harry Roberts - FaCSSt—CSS and Performance ( duration: 46:00 )](https://www.youtube.com/watch?v=2Rn8an74khk)
+### 1. [Harry Roberts - FaCSSt—CSS and Performance (duration: 46:00)](https://www.youtube.com/watch?v=2Rn8an74khk)
 - csswz.it/2FQHt2S
 - base64 images make 1mb css files
 - Images don't delay critical path
@@ -22,7 +22,7 @@
 
 ## Simona Cotin - PWAs, are we there yet?!
 - Alex Russel
-- what is the baseline for a pwa
+- what is the baseline for a PWA
 - service workers
 - Dean Alan Hume
 - SW available in Edge, Safari, Chrome, Firefox
@@ -31,7 +31,7 @@
 - Research tomayac.github.io/pwa-features
 - pwa builder
 - workbox
-- hackernewa pwa
+- hackernewa PWA
 
 ## Aga Naplocha - Breaking the norm with creative CSS
 - talk link: http://aganaplocha.com/breaking-the-norm.pdf
@@ -43,7 +43,7 @@
 - clip path 
 - Svg defs
 - Transparent jpg css tricks
-- Css masks
+- CSS masks
 - shape outside works on floated elements
 - James Bosworth
 - Stedelijk

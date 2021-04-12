@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Go through the following topics in order to get a grasp of the building blocks of an angular application and to get familiar with the specific syntax: 
+Go through the following topics in order to get a grasp of the building blocks of an Angular application and to get familiar with the specific syntax: 
 
 * [Arhitecture](https://angular.io/guide/architecture)
 * [Displaying data](https://angular.io/guide/displaying-data)
@@ -51,8 +51,8 @@ You should enhance your application by:
 * Adding a Watchlist functionality with its own page
 
 ### Advanced topics
-* Check out the official angular [style guide](https://angular.io/guide/styleguide) for everything from naming conventions to a suggested application structure 
-* Read about testing components and services in this [guide[(https://angular.io/guide/testing)
+* Check out the official Angular [style guide](https://angular.io/guide/styleguide) for everything from naming conventions to a suggested application structure 
+* Read about testing components and services in this [guide](https://angular.io/guide/testing)
 
 You could further enhance your app by:
 * Restructuring to have a movie feature folder, a core folder and a shared folder
