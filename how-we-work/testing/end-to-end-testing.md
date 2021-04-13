@@ -102,8 +102,8 @@ testcafe "saucelabs:iPhone 6 Plus Simulator@9.3","saucelabs:Android Emulator Tab
 **Resources**
 * [Testcafe Features](https://vs.componentsource.com/product/testcafe/features)
 * [Test api](http://devexpress.github.io/testcafe/documentation/test-api/)
-* [Testcafe browsers support](http://devexpress.github.io/testcafe/documentation/using-testcafe/common-concepts/browser-support.html)
-* [How to use testcafe with saucelabs](https://www.devexpress.com/Support/Center/Question/Details/T119616/testcafe-how-to-use-saucelabs)
+* [Testcafe browsers support](https://docs.devexpress.com/TestCafeStudio/400191/concepts/browsers)
+* [How to use testcafe with saucelabs](https://devexpress.github.io/testcafe/documentation/guides/continuous-integration/travis-and-sauce-labs.html)
 * [Testing browser with gulp and phantoms](http://blog.silicak.es/2016-07-07-testing-browser-gulp-phantomJS-mocha-istanbul)
 
 **Saucelabs**
@@ -117,6 +117,5 @@ testcafe "saucelabs:iPhone 6 Plus Simulator@9.3","saucelabs:Android Emulator Tab
 * [Pricing](https://aws.amazon.com/device-farm/pricing/)
 * [What is it](https://docs.aws.amazon.com/devicefarm/latest/developerguide/welcome.html)
 * automated testing on real mobile devices
-* versions available > IOS 8.1, Android 4.1.1 ([device list](https://aws.amazon.com/device-farm/device-list/))
+* [List of real devices available for testing on AWS Device Farm](http://awsdevicefarm.info/)
 * CI Integration ([Jenkins](https://github.com/awslabs/aws-device-farm-jenkins-plugin/blob/master/README.md))
-

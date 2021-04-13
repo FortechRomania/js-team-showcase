@@ -49,7 +49,7 @@ There are a couple of tools that facilitate tests writing. These can be grouped 
 * [Testcafe](https://testcafe.devexpress.com/)
 
 ### Automation libraries (End-to-End tests)
-* Appium (http://appium.io/slate/en/master/?java#about-appium, https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md, https://www.npmjs.com/package/appium-test, https://github.com/admc/wd)
+* Appium (http://appium.io/docs/en/about-appium/intro/, https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md, https://www.npmjs.com/package/appium-test, https://github.com/admc/wd)
 * [Webdriver.io](http://webdriver.io/)
 
 ### Cloud testing (browsers and devices providers)
