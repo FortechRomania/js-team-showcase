@@ -72,7 +72,7 @@ The simplest application attack is automated and consists of credential stuffing
 * Default, weak, or well-known passwords, such as "Password1" or "admin/admin“, uses weak or ineffective credential recovery and forgotpassword processes, such as "knowledge-based answers", which cannot be made safe,
 * Plain text, encrypted, or weakly hashed passwords.
 
-Read more about broken authentication and session management at this [link](https://www.owasp.org/index.php/Broken_Authentication_and_Session_Management).
+Read more about [authentication](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) and [session management](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html) on OWASP.
 
 Still, to avoid this we propose the following:
 * Implement multi-factor authentication (MFA) - prevents automated, credential stuffing, brute force and stolen credential reuse attacks. E.g. gmail, internet banking apps.
@@ -133,7 +133,7 @@ To prevent an attack we suggest the focus on the following:
     - `app.use(helmet.iexss());` to enable XSS filter in IE (it is `on` by default)
 
 ## Clickjacking
-[Clickjacking](https://www.owasp.org/index.php/Clickjacking_Defense_Cheat_Sheet) is an attack that consists in tricking an user into clicking on something different from what the user perceives they are clicking on. The result might be revealing confidential information, losing control of the device in use, making a payment, etc. The attack takes the form of embedded code or script that is executed without the user’s knowledge when a simple operation of clicking (of a different function) on a button is performed.
+[Clickjacking](https://cheatsheetseries.owasp.org/cheatsheets/Clickjacking_Defense_Cheat_Sheet.html) is an attack that consists in tricking an user into clicking on something different from what the user perceives they are clicking on. The result might be revealing confidential information, losing control of the device in use, making a payment, etc. The attack takes the form of embedded code or script that is executed without the user’s knowledge when a simple operation of clicking (of a different function) on a button is performed.
 
 The security checks that one should consider implementing are:
 * Employing defensive code in the UI to ensure that the current frame is the most top level window
@@ -154,13 +154,11 @@ For this type of attack, one should focus on:
 * Never building SQL statements from the user input. To implement this read more at this [link](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet).
 
 ## Direct object references
-[Insecure Direct Object References](https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004)) allow attackers to bypass authorization and access resources directly by modifying the value of a parameter used to directly point to an object. Such resources can be database entries belonging to other users, files in the system, and more. This is caused by the fact that the application takes user supplied input and uses it to retrieve an object without performing sufficient authorization checks.
+[Insecure Direct Object References](https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html) allow attackers to bypass authorization and access resources directly by modifying the value of a parameter used to directly point to an object. Such resources can be database entries belonging to other users, files in the system, and more. This is caused by the fact that the application takes user supplied input and uses it to retrieve an object without performing sufficient authorization checks.
 
 To prevent this type of attack one can:
 * Use per user or session indirect object references to prevent from directly targeting unauthorized resources.
 * Check access at every user action i.e. each use of a direct object reference from an untrusted source must include an access control check to ensure that the user is authorized for the requested object.
-
-Read more at this [link](https://www.owasp.org/index.php/Top_10_2013-A4-Insecure_Direct_Object_References).
 
 ### Resources:
 * [OWASP](https://www.owasp.org)
