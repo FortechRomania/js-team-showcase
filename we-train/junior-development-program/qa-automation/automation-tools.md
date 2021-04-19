@@ -25,13 +25,13 @@ If you're looking for an automated **REST API testing** replacement for Postman,
 
 ## Jmeter
 
-Jmeter is a **performance testing** tool, which allows you to perform Load & Stress testing on your application. The tool setup is straigh-forward: you need to download it from [Here](http://jmeter.apache.org/download_jmeter.cgi) and on the command line, just run `jmeter` to open the GUI mode, but the test setup needs a little documentation, which can be found [Here](http://jmeter.apache.org/index.html). 
+Jmeter is a **performance testing** tool, which allows you to perform Load & Stress testing on your application. The tool setup is straigh-forward: you need to download it from [jmeter's official website](http://jmeter.apache.org/download_jmeter.cgi) and on the command line, just run `jmeter` to open the GUI mode, but the test setup needs a little documentation, which can be found [on jmeter's index page](http://jmeter.apache.org/index.html). 
 
 ## Selenium & Cucumber (optional)
 
-If for some reason, Testcafe is not a satisfactory option for your **end-to-end testing**, there is always Selenium as back-up plan. Selenium supports tests in many languages and it can be easily integrated with [Cucumber](https://cucumber.io/docs), which is a very helpful tool for organizing the tests in a Given-When-Then format and making them understandable by all parties involved. Because this setup is less straight-forward than the previous examples, you can follow [this](https://docs.google.com/document/d/1GKDSiPltddffuthqKtgYuVcNiorrqKjzWfCZChA_FPs/edit) example on how to get started.
+If for some reason, Testcafe is not a satisfactory option for your **end-to-end testing**, there is always Selenium as back-up plan. Selenium supports tests in many languages and it can be easily integrated with [Cucumber](https://cucumber.io/docs), which is a very helpful tool for organizing the tests in a Given-When-Then format and making them understandable by all parties involved. Because this setup is less straight-forward than the previous examples, you can follow [this Google doc](https://docs.google.com/document/d/1GKDSiPltddffuthqKtgYuVcNiorrqKjzWfCZChA_FPs/edit) example on how to get started.
 
-If you're not a fan of headaches, there's a [git repository](https://github.com/LaszloQ/WebdriverJSDemo) with the setup done, which you can just clone and test it out.
+If you're not a fan of headaches, there's a [git repository from LaszloQ](https://github.com/LaszloQ/WebdriverJSDemo) with the setup done, which you can just clone and test it out.
 
 ## Appium
 So far we've covered browser e2e testing, api testing and performance testing, but we need a solution for **mobile app testing** so here comes Appium in the picture. Appium can be integrated with numerous other tools in order to get the testing setup of your need. For further documentation, you can check out [the official Appium page](http://appium.io/).

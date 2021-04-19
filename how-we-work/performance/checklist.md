@@ -49,8 +49,8 @@ Also make sure you keep all your critical resources on your domain/servers, so y
 
 #### Inline above-the-fold CSS
 In order to avoid a roundtrip to fetch the initial CSS, there are certain scenarios in which you can inline the styles needed to render the initial screen. The browser only needs the styles which are *above-the-fold*, or inside the user viewport. There are multiple tools that help you extract above the fold CSS:
-* [Critical](https://github.com/addyosmani/critical)
-* [CriticalCSS](https://github.com/filamentgroup/criticalCSS)
+* [Critical by Addy Osmani](https://github.com/addyosmani/critical)
+* [CriticalCSS by Filament Group](https://github.com/filamentgroup/criticalCSS)
 
 #### Leverage font-display for critical text
 When you're using webfonts, by default, browsers will not show the text until the webfonts are loaded. Using `font-display: swap` or `optional` can signal browsers to use a system font until webfonts are there. More about `font-display` and the possible values on [css-tricks](https://css-tricks.com/font-display-masses/).

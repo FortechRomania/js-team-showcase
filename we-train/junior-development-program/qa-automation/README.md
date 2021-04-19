@@ -11,7 +11,7 @@ We can only build on a solid foundation, so we're starting with the basics:
 * Write the scripts
 * Test debugging
 
-+ If we got your attention, read the [Qa basics](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/qa-automation/qa-basics.md) and [Setup](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/qa-automation/setup.md) files for further information.
++ If we got your attention, read the [QA basics on our js-team-showcase repository](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/qa-automation/qa-basics.md) and also the [Setup, also on our js-team-showcase repository](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/qa-automation/setup.md) files for further information.
 
 ## The Web Platform
 To test something properly, it is crucial to understand the context in which you're working in. This is why you should 'inspect' the [Web Platform](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/qa-automation/web-platform.md).
@@ -20,4 +20,4 @@ To test something properly, it is crucial to understand the context in which you
 We understand that creating and maintaining an automation test suite is every child's dream growing up, but it's easier said than done. To be able to write the tests of your dreams, you'll first need to understand a programming language and to master it. This will be your foundation on building automated test scenarios. You'll be introduced in the world of programming and learn [Javascript](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/qa-automation/javascript.md).
 
 ## Tools
-Problems solved > problems caused. This is the basic expression on which we select our tools. If you'd like to know what tools we use and exactly how, just check [this](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/qa-automation/automation-tools.md) out. 
+Problems solved > problems caused. This is the basic expression on which we select our tools. If you'd like to know what tools we use and exactly how, just check out [our automation tools list](https://github.com/FortechRomania/js-team-showcase/blob/master/we-train/junior-development-program/qa-automation/automation-tools.md). 

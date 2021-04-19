@@ -1,10 +1,10 @@
 ### Test cases
 
 1. How to write a test case?
-   Don't you know how to write test cases? No problem. Check out this [tutorial](https://www.guru99.com/test-case.html).
+   Don't you know how to write test cases? No problem. Check out this [Test Case tutorial on guru99.com](https://www.guru99.com/test-case.html).
 2. Sample test scenarios for testing web applications?
-   Never seen a test scenario? Well.. [here](http://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applications/) are 180+ samples.
-3. [Points to follow/writing hacks](https://www.qasymphony.com/blog/5-manual-test-case-writing-hacks/)
+   Never seen a test scenario? Well.. on [softwaretestinghelp.com](http://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applications/) there are 180+ samples.
+3. [Points to follow/writing hacks on qasymphony.com](https://www.qasymphony.com/blog/5-manual-test-case-writing-hacks/)
 
 ### Selectors
 

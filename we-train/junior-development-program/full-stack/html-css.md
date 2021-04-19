@@ -3,14 +3,14 @@
 ### HTML
 Understand the basic structure of an HTML file.
 
-Learn about elements and attributes by practicing on this [tutorial](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html). Another good tutorial can be found at this [link](https://internetingishard.com/html-and-css/).
+Learn about elements and attributes by practicing on [lynda.com, HTML Essential Training](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html). Another good tutorial can be found at [internetingishard.com, HTML and CSS](https://internetingishard.com/html-and-css/).
 
 ### CSS
-[This course](https://www.pluralsight.com/courses/css-intro) is all about the basics. Focus on layouting: on float, flexbox and grid layouting.
+[CSS Intro course on pluralsight.com](https://www.pluralsight.com/courses/css-intro) is all about the basics. Focus on layouting: on float, flexbox and grid layouting.
 
-Learn about element [positioning](https://www.pluralsight.com/courses/css-positioning-1834). Play around with relative, absolute, fixed and static positions.
+Learn about element [positioning on pluralsight.com](https://www.pluralsight.com/courses/css-positioning-1834). Play around with relative, absolute, fixed and static positions.
 
-[A nice read](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) to get a good understanding of the entire modern css ecosystem.
+[A nice read on medium.com, Modern CSS Explained for Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) to get a good understanding of the entire modern css ecosystem.
 
 ### Excercises
 Practice your HTML and CSS skills on the following tasks:

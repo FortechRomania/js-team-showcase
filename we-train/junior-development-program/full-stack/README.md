@@ -2,7 +2,7 @@
 
 Welcome to our development program for Full-stack JavaScript Engineers! This is roughly a 3-month program at a regular pace (8h/day) that will take you through the awesome ecosystem of web development, JavaScript, HTML/CSS and much more!
 
-[A nice read](https://medium.muz.li/how-to-be-a-great-junior-team-member-649740ccb757) before you start!
+[A nice read on how to be a great junior team member](https://medium.muz.li/how-to-be-a-great-junior-team-member-649740ccb757) before you start!
 
 Are you ready? Let's start!
 
