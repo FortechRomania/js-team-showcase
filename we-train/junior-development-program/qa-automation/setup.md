@@ -1,7 +1,7 @@
 ## Introduction and Setup
 
 ### Setup Github account.
-For guidance check out this [link](https://help.github.com/articles/set-up-git/).
+For guidance check out this [tutorial from GitHub](https://help.github.com/articles/set-up-git/).
 
 Learn [Git essentials](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html).
 

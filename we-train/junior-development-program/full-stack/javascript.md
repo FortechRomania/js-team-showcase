@@ -72,19 +72,19 @@ Reading materials:
 * [Pure Functions](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-pure-functions-797d9abbee1)
 * [Immutability](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-immutability-4e9751ca005c)
 
-You can follow a couple of example from [this workshop](https://github.com/alexnm/functional-javascript-workshop). Focus on:
+You can follow a couple of example from [this workshop on Functional JavaScript Workshop by Alex Moldovan](https://github.com/alexnm/functional-javascript-workshop). Focus on:
 * [High Order Functions](https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop)
 * [Partial Application](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
 * [Function Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
 
 ### Build and Setup
-Build a modern project setup following [this tutorial](https://www.pluralsight.com/courses/javascript-development-environment).
+Build a modern project setup following [this pluralsight.com's tutorial, JavaScript Development Environment](https://www.pluralsight.com/courses/javascript-development-environment).
 
 ### Recommended time
 This module should take 5 to 6 weeks of learning and practicing.
 
 ### More articles
-* [Closures (article in romanian)](https://www.3data.ro/viewart.php/8/Despre-notiunea-de-closure---in-JavaScript)
+* [Closures (article in Romanian)](https://www.3data.ro/viewart.php/8/Despre-notiunea-de-closure---in-JavaScript)
 * [Web Security](https://www.hacksplaining.com/)
 
 ### Measurable progress

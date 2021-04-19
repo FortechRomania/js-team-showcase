@@ -85,7 +85,7 @@ In order to ensure stability and code quality we've come up with a standard prac
 We don't have a strong preference for one testing tool, but recently `Jest` has gained a lot of attention. We added it on multiple projects because of the easy setup behind it and because you get all the tools in one pack.
 
 #### ESLint
-We have a common `eslint` config for all projects, with a specific flavor for `React` which supports `JSX` and other `React` specific rules. You can read more about our choices [here](https://github.com/FortechRomania/js-team-showcase/blob/master/how-we-work/coding-guidelines.md). We run the `eslint` task on precommit hooks to make sure that only the code that respects all the standard rules ends up on the central repo.
+We have a common `eslint` config for all projects, with a specific flavor for `React` which supports `JSX` and other `React` specific rules. You can read more about our choices [on this repository, Coding Guidelines article](https://github.com/FortechRomania/js-team-showcase/blob/master/how-we-work/coding-guidelines.md). We run the `eslint` task on precommit hooks to make sure that only the code that respects all the standard rules ends up on the central repo.
 
 #### Bundlesize
 Finally we want to keep the size of our bundles in control. We use `bundlesize` to test against some predefined values from `package.json`. Of course these values are subject to change as the project increases in size and complexity, but it's always a good reminder that we need to control the size of the code we ship.

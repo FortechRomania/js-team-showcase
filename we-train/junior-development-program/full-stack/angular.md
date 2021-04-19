@@ -30,7 +30,7 @@ Go through the following topics in order to get a grasp of the building blocks o
 * [Http Client](https://angular.io/guide/http)
 * [Routing and navigation](https://angular.io/guide/router)
 
-Exercise: Follow [this](https://angular.io/tutorial) tutorial to build a Heroes App.
+Exercise: Follow [the official tutorial on angular.io](https://angular.io/tutorial) tutorial to build a Heroes App.
 
 Exercise: Build your own application. We recommend a movie catalog app, but feel free to decide for yourself if you think something works better for you.
 
@@ -52,7 +52,7 @@ You should enhance your application by:
 
 ### Advanced topics
 * Check out the official Angular [style guide](https://angular.io/guide/styleguide) for everything from naming conventions to a suggested application structure 
-* Read about testing components and services in this [guide](https://angular.io/guide/testing)
+* Read about testing components and services on [angular.io's Testing Guide](https://angular.io/guide/testing)
 
 You could further enhance your app by:
 * Restructuring to have a movie feature folder, a core folder and a shared folder

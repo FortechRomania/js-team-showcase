@@ -2,20 +2,22 @@
 
 ### Getting Familiar With NGINX
 NGINX is a free, open-source, high-performance HTTP server and reverse proxy. We use their official [website](http://nginx.org/en/) to read about their latest updates. We use also [Digital Ocean](https://www.digitalocean.com) for learning purposes.
-This [link](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms) might help you start your work in this direction. This [beginner's guide](http://nginx.org/en/docs/beginners_guide.html) might also come in handy.
+This article on [understanding nginx server and location block selection algorithms](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms) might help you start your work in this direction. This [beginner's guide from nginx](http://nginx.org/en/docs/beginners_guide.html) might also come in handy.
 
 We choose NGINX servers because:
-* Open-Source & Free.
-* Addresses [C10k problem](http://www.kegel.com/c10k.html).
-* Easy to install. Easy to  configure.
-* Designed for big apps but also suitable for small ones.
-* Scales in all directions: from the smallest VPS to large clusters of servers.
-* Not threaded to handle requests.
-* Small and predictable amounts of memory under load.
+* Open-Source & Free
+* Addresses [C10k problem](http://www.kegel.com/c10k.html)
+* Easy to install. Easy to  configure
+* Designed for big apps but also suitable for small ones
+* Scales in all directions: from the smallest VPS to large clusters of servers
+* Not threaded to handle requests
+* Small and predictable amounts of memory under load
 
 #### How To Install
-Depending on the operating system: installation steps described [here](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/).
+Depending on the operating system: installation steps described [on the nginx wiki](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/).
+
 ##### Installation example for Ubuntu 16.04
+
 ```
 deb http://nginx.org/packages/ubuntu/ xenial nginx
 deb-src http://nginx.org/packages/ubuntu/ xenial nginx
@@ -74,7 +76,6 @@ nginx -s reload
 nginx -s reopen
 ```
 
-
 #### Main Configuration Blocks
 * [`http`](http://nginx.org/en/docs/http/ngx_http_core_module.html#http) - main configuration from the `nginx.conf` file; in this block the universal configuration is done.
 * [`server`](http://nginx.org/en/docs/http/ngx_http_core_module.html#server) - block that contains all the configuration for the virtual server.
@@ -85,7 +86,7 @@ nginx -s reopen
     - a lone port that will listen every address on that port
     - a path to other unix socket
 
-* [`server_name`](http://nginx.org/en/docs/http/ngx_http_core_module.html#server_name) - indicates all server names. With this block you can define several names for your server. Keep in mind that the  1st name listed is the primary name. The server can be a string that can contain `*`, `~`, or regex.
+* [`server_name`](http://nginx.org/en/docs/http/ngx_http_core_module.html#server_name) - indicates all server names. With this block you can define several names for your server. Keep in mind that the 1st name listed is the primary name. The server can be a string that can contain `*`, `~`, or regex.
 * [`ssl_certificate`](http://nginx.org/en/docs/http/ngx_http_ssl_module.html#ssl_certificate) & [`ssl_certificate_key`](http://nginx.org/en/docs/http/ngx_http_ssl_module.html#ssl_certificate_key) - blocks applicable for https; they indicate the paths to ssl certificates.
 * [`error_log`](http://nginx.org/en/docs/ngx_core_module.html#error_log), http://nginx.org/en/docs/http/ngx_http_log_module.html#access_log - blocks used to indicate the path where logs will be stored. To specify the format of the log, [`log_format`](http://nginx.org/en/docs/http/ngx_http_log_module.html#access_log) directive can be used.
 * [`location`](http://nginx.org/en/docs/http/ngx_http_core_module.html#location) - block with config used for handling requests for different resources and URIs for the parent server.
@@ -96,11 +97,10 @@ nginx -s reopen
 * [`try_files`](http://nginx.org/en/docs/http/ngx_http_core_module.html#try_files) - checks the existence of files in the specified order and uses the first found file for request processing; the processing is performed in the current context.
 * [`alias`](http://nginx.org/en/docs/http/ngx_http_core_module.html#alias): defines a replacement for the specified location.
 
-
 #### Static Server Configuration Example
 The following configuration example can be used on an NGINX server that only serves static content. The example is focused on the way one should define the paths that are searched to find requested files, and on how to set up index files.
 The first `root` directive defined like below means that it applies to all location blocks where the root directive is not included to explicitly redefine the root/over-written. For example, take a look on the `location` directive definitions: for every request of an image, NGINX searches for a URI that starts with /images/ in the /www/data/images/ directory on the file system. But, in the case, of a request asks for a .mp3 file ( i.e. the URI ends with the .mp3 extension ), NGINX instead searches for the file in the /www/media/ directory because it is defined in the matching location block.
-If a request ends with a slash, NGINX treats it as a request for a directory and tries to find an index file in the directory. The index directive defines the index file’s name (the default value is index.html). One can list more than one filename in the index directive. NGINX searches for files in the specified order and returns the first one it finds.
+If a request ends with a slash, NGINX treats it as a request for a directory and tries to find an index file in the directory. The index directive defines the index file’s name (the default value is `index.html`). One can list more than one filename in the index directive. NGINX searches for files in the specified order and returns the first one it finds.
 
 ```
 server {
@@ -118,7 +118,6 @@ server {
     }
 }
 ```
-
 
 #### Dynamic Server Configuration Example
 The following configuration example is a basic NGINX configuration used for two UI applications - an user app and an admin dashboard. The applications were built with create-react-app package do the deploy process was done following the instructions from this [link](https://medium.com/@johnbrett/create-react-app-push-state-nginx-config-a9f7530621c1).
@@ -153,7 +152,6 @@ server {
     }
 }
 ```
-
 
 #### Resources
 * [NGINX Official Website Documentation](https://nginx.org/en/docs/)

@@ -6,7 +6,7 @@ Understand [how the internet works](https://ed.ted.com/on/tdUFCocK).
 Understand the [Client-Server Architecture](http://tutorials.jenkov.com/software-architecture/client-server-architecture.html) in the context of software architecture.
 
 ### Browsers
-At this [link](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) you can find an interesting tutorial that includes general functioning of a browser, its structure, rendering engines and HTML or CSS code parsing.
+On [html5rocks.com](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) you can find an interesting tutorial by Tali Garsiel and Paul Irish that includes general functioning of a browser, its structure, rendering engines and HTML or CSS code parsing.
 
 ### HTTP Protocol
 Learn a little about HTTP and HTTPS. Understand the following:
@@ -18,7 +18,7 @@ Learn a little about HTTP and HTTPS. Understand the following:
 ### REST and Web APIs 
 What is CRUD and what is a [RESTful API](http://www.restapitutorial.com/lessons/httpmethods.html)?
 
-Practice API skills on the [tutorial](https://www.lynda.com/Flask-tutorials/CRUD-REST-basics/521200/533063-4.html).
+Practice API skills on the [CRUD-REST basics tutorial](https://www.lynda.com/Flask-tutorials/CRUD-REST-basics/521200/533063-4.html).
 
 Install [Postman](https://www.getpostman.com/postman) and play around with the tool.
 

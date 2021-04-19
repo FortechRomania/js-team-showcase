@@ -1,4 +1,3 @@
-
 # Software engineering process
 In the following section we will showcase some of the engineering/process practices that we follow when we work in small or large teams.
 
