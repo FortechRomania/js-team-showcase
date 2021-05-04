@@ -22,7 +22,7 @@ When we talk about the Critical Rendering Path, or CRP, we refer to the initial 
 * How fast does the user see something relevant?
 * How fast can the user interact with the page?
 
-All these are important but if we focus on the rendering part and on the moment when the users sees the relevant content, then optimizing CRP is about shortening the delay of the [first meaningful paint](https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint). A few points to consider are:
+Up until recently, the [First Meaningful Paint (FMP)](https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint) used to be a reference point, however it got deprecated as it appeared not to be accurate in 20% of the cases. It was effectively replaced with the [Largest Contentful Paint (LCP)](https://web.dev/lcp/) - a metric that reports the render time of the largest [image or text block](https://web.dev/lcp/#what-elements-are-considered) visible within the viewport, relative to [when the page first started loading](https://w3c.github.io/hr-time/#timeorigin-attribute). A few points to consider are:
 
 #### Use Server Side Rendering
 Modern JS frameworks (Angular, React, Vue) support server side rendering, allowing the application to become **universal**. Here's a guide to implement [server side rendering in React](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4). SSR minimizes the time you wait for the first meaningful paint because your components render on the server and the client only needs to load HTML and CSS. This also ensures that we can defer loading JavaScript files.
@@ -121,4 +121,4 @@ Finally, some tools that help you on the way:
 * Apache Benchmark (load and perf testing)
 
 ## Further Reading
-[Frontend Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+[Frontend Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
